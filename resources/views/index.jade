@@ -3,6 +3,13 @@ extends ./layout/base.jade
 block append content
     .wrapper.player
         #player
+    .wrapper.search
+        input#search(type="text" tabindex="1" placeholder=">_ press CTRL + F to filter('#video-list') ..." spellcheck="false" title="Filter videos" value="" name="q" autocomplete="off" role="search" aria-label="search")
+        div#resultCount(style="display: none;")
+            span
+                | 0
+            lable
+                | videos
     .wrapper
         ul#video-list
             each talk in locals.talks.length ? locals.talks : null
@@ -14,4 +21,3 @@ block append content
             | Drop me an email at m@matchilling.com (<a href="https://www.matchilling.com">my PGP</a>),
             | send a tweet <a href="https://twitter.com/MatChilling">@matchiling</a> or push to the repository
             | on <a href="https://github.com/matchilling/org-programmingtalks">github.com/matchilling/org-programmingtalks</a>.
-            

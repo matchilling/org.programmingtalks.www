@@ -1,6 +1,7 @@
 @import 'card';
 @import 'header';
 @import 'headline';
+@import 'reset';
 a {
     color: #4078c0;
     :hover {
@@ -51,16 +52,34 @@ ul {
     &.player {
         background: #000000;
         max-width: 100%;
-        margin: 0 0 90px;
+        margin: 0;
         #player {
             display: block;
             margin: 0 auto;
             width: 800px;
         }
     }
+    &.search {
+        margin: 60px auto 75px auto;
+    }
 }
 #video-list {
     list-style: none;
     margin: 0;
     padding: 0;
+}
+input#search {
+    margin: 0;
+    padding: 2%;
+    border: 1px solid;
+    width: 96%;
+    font-size: 1em;
+}
+div#resultCount {
+    color: #b3b3b3;
+    font-size: 0.9em;
+    margin: 10px 0 0 15px;
+    span {
+        margin: 0 5px 0 0;
+    }
 }

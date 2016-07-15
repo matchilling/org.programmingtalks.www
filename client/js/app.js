@@ -12,6 +12,13 @@
 
     document.addEventListener('DOMContentLoaded', function(event) {
         main();
+
+        $(document).keydown(function(event) {
+            if (event.keyCode == 70 && event.ctrlKey) {
+                event.preventDefault();
+                $('#search').focus();
+            }
+        });
     });
 
     function main() {
@@ -35,6 +42,36 @@
                 clickListItem(event);
             };
         }
+
+        $('#resultCount span').html(listItems.length);
+        $('#resultCount').show();
+
+        $('input#search').keyup(function() {
+            let filter = $(this).val(),
+                count = 0;
+
+            if (0 == filter.length) {
+                $('#video-list li.talk').each(function() {
+                    $(this).show();
+                });
+                $('#resultCount span').html(listItems.length);
+            }
+
+            if (3 > filter.length) {
+                return null;
+            }
+
+            $('#video-list li.talk').each(function() {
+                if ($(this).text().search(new RegExp(filter, 'i')) < 0) {
+                    $(this).fadeOut();
+                } else {
+                    $(this).show();
+                    count++;
+                }
+            });
+
+            $('#resultCount span').html(count);
+        });
     }
 
     function clickListItem(event) {
