@@ -1,0 +1,66 @@
+@import 'card';
+@import 'header';
+@import 'headline';
+a {
+    color: #4078c0;
+    :hover {
+        color: #4078c0;
+    }
+}
+body {
+    -moz-font-feature-settings: liga on;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    color: #333;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.4;
+    margin: 0 0 150px;
+    text-rendering: optimizeLegibility;
+}
+p {
+    font-family: Georgia, 'Cambria', 'Times New Roman', Times, serif;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -.003em;
+    line-height: 1.58;
+}
+ul {
+    &.nav {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        li {
+            display: inline-block;
+            margin: 0 0.5em 0 0;
+        }
+    }
+}
+.page-footer,
+.page-header {
+    margin: 0 auto;
+    max-width: 700px;
+}
+.wrapper {
+    margin: 0 auto;
+    max-width: 700px;
+    &.player {
+        background: #000000;
+        max-width: 100%;
+        margin: 0 0 90px;
+        #player {
+            display: block;
+            margin: 0 auto;
+            width: 800px;
+        }
+    }
+}
+#video-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,58 @@
+.card {
+    border-bottom: 1px solid;
+    margin: 0 0 30px;
+    width: 100%;
+    display: inline-block;
+    padding: 0 0 25px;
+    .title {
+        margin: 0 0 10px;
+        padding: 0;
+        font-size: 20px;
+        &:hover {
+            color: #4078c0;
+            cursor: pointer;
+        }
+    }
+    .preview {
+        width: 120px;
+        float: left;
+        margin: 25px 25px 25px 0;
+        height: 90px;
+    }
+    .meta {
+        font-size: 80%;
+        font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Arial, sans-serif;
+        span.presenter {
+            display: inline-block;
+            margin: 0 10px 0 0;
+            &::before {
+                color: #b3b3b3;
+                content: 'By: ';
+            }
+        }
+        ul.tags {
+            display: inline-block;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            li {
+                font-size: 80%;
+                display: inline-block;
+                margin: 0 5px 5px 0;
+                background-color: #efefef;
+                padding: 3px 4px;
+                border-radius: 3px;
+            }
+        }
+    }
+    .description {
+        font-size: 19px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        line-height: 1.58em;
+        max-height: 6.32em;
+    }
+}

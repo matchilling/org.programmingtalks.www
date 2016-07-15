@@ -1,0 +1,17 @@
+extends ./layout/base.jade
+
+block append content
+    .wrapper.player
+        #player
+    .wrapper
+        ul#video-list
+            each talk in locals.talks.length ? locals.talks : null
+                include list/talk.jade
+    .wrapper
+        h2 Contributing
+        p
+            | Have you seen an awesome talk which is currently missing on this website?
+            | Drop me an email at m@matchilling.com (<a href="https://www.matchilling.com">my PGP</a>),
+            | send a tweet <a href="https://twitter.com/MatChilling">@matchiling</a> or push to the repository
+            | on <a href="https://github.com/matchilling/org-programmingtalks">github.com/matchilling/org-programmingtalks</a>.
+            

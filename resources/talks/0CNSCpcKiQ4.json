@@ -1,0 +1,34 @@
+{
+    "description": "Microsoft Computer Vision Summer School 2011.\nTalk by Victor Eruhimov about OpenCV.",
+    "id": "205c12f0-82e5-48be-8e89-00c7eb136fdc",
+    "meta": {
+        "duration": "PT2H24M59S"
+    },
+    "presenter": {
+        "name": "Victor Eruhimov"
+    },
+    "slug": "opencv-and-high-performance-vision-on-gpu",
+    "source": {
+        "id": "0CNSCpcKiQ4",
+        "provider": "youtube"
+    },
+    "tag": ["MSCVS2011", "Computer Vision", "opencv", "summer school", "Microsoft Research", "MSU"],
+    "title": "OpenCV and High-Performance Vision on GPU",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/0CNSCpcKiQ4/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/0CNSCpcKiQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/0CNSCpcKiQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "description": "\"Speaker: Ned Batchelder\n\nThe behavior of names and values in Python can be confusing. Like many parts of Python, it has an underlying simplicity that can be hard to discern, especially if you are used to other programming languages. Here I'll explain how it all works, and present some facts and myths along the way.  Call-by-reference? Call-by-value? The answer will be clear!\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
+    "id": "a6fb0ff8-6b69-4c04-9bdd-c438fc0368da",
+    "meta": {
+        "duration": "PT25M20S"
+    },
+    "presenter": {
+        "name": "Ned Batchelder"
+    },
+    "slug": "ned-batchelder-facts-and-myths-about-python-names-and-values-pycon-2015",
+    "source": {
+        "id": "_AEJHKGk9ns",
+        "provider": "youtube"
+    },
+    "tag": [],
+    "title": "Ned Batchelder - Facts and Myths about Python names and values - PyCon 2015",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/_AEJHKGk9ns/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/_AEJHKGk9ns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/_AEJHKGk9ns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}

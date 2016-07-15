@@ -1,0 +1,47 @@
+{
+    "name": "org-programmingtalks",
+    "version": "1.0.0",
+    "description": "An unopinionated, curated list of the best programming talks out there.",
+    "scripts": {
+        "build": "echo 123",
+        "start": "gulp watch",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/matchilling/org-programmingtalks.git"
+    },
+    "keywords": [
+        "programming talks"
+    ],
+    "author": "Mathias Schilling <m@matchilling.com> (https://www.matchilling.com)",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/matchilling/org-programmingtalks/issues"
+    },
+    "homepage": "https://www.programmingtalks.org/",
+    "devDependencies": {
+        "babel": "^6.5.2",
+        "babelify": "^7.3.0",
+        "browser-sync": "^2.13.0",
+        "browserify": "^13.0.1",
+        "dotenv": "^2.0.0",
+        "gulp": "^3.9.1",
+        "gulp-concat": "^2.6.0",
+        "gulp-concat-json": "^1.0.0",
+        "gulp-html-minifier": "^0.1.8",
+        "gulp-jade": "^1.1.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^2.3.2",
+        "gulp-sourcemaps": "^1.6.0",
+        "jquery": "^3.1.0",
+        "linereader": "^1.1.0",
+        "request": "^2.72.0",
+        "slug": "^0.9.1",
+        "uuid": "^2.0.2",
+        "vinyl-source-stream": "^1.1.0",
+        "youtube-api": "^2.0.2",
+        "youtube-player": "^3.0.4"
+    },
+    "dependencies": {}
+}

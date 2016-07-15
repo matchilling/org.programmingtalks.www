@@ -1,0 +1,17 @@
+header {
+    margin: 25px auto;
+    a {
+        color: #333;
+        text-decoration: none;
+    }
+    h1 {
+        &::before {
+            content: '>_';
+            margin-right: 25px;
+        }
+        color: #333;
+        font-family: monospace;
+        font-size: 30px;
+        letter-spacing: -.02em;
+    }
+}
