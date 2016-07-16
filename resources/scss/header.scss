@@ -1,7 +1,7 @@
 header {
     margin: 25px auto;
     a {
-        color: #333;
+        color: #ffffff;
         text-decoration: none;
     }
     h1 {
@@ -9,9 +9,11 @@ header {
             content: '>_';
             margin-right: 25px;
         }
-        color: #333;
+        color: #ffffff;
         font-family: monospace;
-        font-size: 30px;
+        font-size: 1em;
         letter-spacing: -.02em;
+        margin: 0;
+        font-weight: 400;
     }
 }

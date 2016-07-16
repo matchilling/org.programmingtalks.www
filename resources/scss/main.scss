@@ -9,6 +9,7 @@ a {
     }
 }
 body {
+    background-color: #f5f5f5;
     -moz-font-feature-settings: liga on;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -41,39 +42,50 @@ ul {
         }
     }
 }
-.page-footer,
-.page-header {
+.page-footer {
     margin: 0 auto;
     max-width: 700px;
+}
+.page-header {
+    margin: 0;
+    width: 100%;
+    background-color: #222;
+    text-align: center;
+    padding: 2em 0 4.5em;
 }
 .wrapper {
     margin: 0 auto;
     max-width: 700px;
     &.player {
-        background: #000000;
+        background: #222222;
         max-width: 100%;
         margin: 0;
         #player {
+            border-radius: 10px 10px 0 0;
             display: block;
             margin: 0 auto;
             width: 800px;
         }
     }
     &.search {
-        margin: 60px auto 75px auto;
+        margin: 60px auto 75px;
     }
 }
 #video-list {
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 35px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
 }
 input#search {
     margin: 0;
     padding: 2%;
-    border: 1px solid;
+    border: 1px solid #dddddd;
     width: 96%;
     font-size: 1em;
+    border-radius: 5px;
 }
 div#resultCount {
     color: #b3b3b3;
