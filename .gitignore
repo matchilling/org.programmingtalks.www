@@ -34,6 +34,3 @@ node_modules
 
 # Environment settings
 .env
-
-# gh-pages folder
-dist/
