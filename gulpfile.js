@@ -3,6 +3,7 @@
 let babelify = require('babelify'),
     browserify = require('browserify'),
     browserSync = require('browser-sync').create(),
+    cleanCSS = require('gulp-clean-css'),
     concat = require('gulp-concat'),
     concatJson = require('gulp-concat-json'),
     env = require('dotenv').config(),
@@ -89,6 +90,9 @@ gulp.task('sass', function() {
         }).on('error', sass.logError))
         .pipe(concat('main.css'))
         .pipe(sourcemaps.write())
+        .pipe(cleanCSS({
+            compatibility: 'ie8'
+        }))
         .pipe(rename({
             extname: '.min.css'
         }))
