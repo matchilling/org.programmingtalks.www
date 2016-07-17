@@ -47,30 +47,21 @@
         $('#resultCount').show();
 
         $('input#search').keyup(function() {
-            let filter = $(this).val(),
-                count = 0;
+            filterVideos($(this).val());
+        });
 
-            if (0 == filter.length) {
-                $('#video-list li.talk').each(function() {
-                    $(this).show();
-                });
-                $('#resultCount span').html(listItems.length);
-            }
+        $('div#tags li:not(.title)').click(function() {
+            let tag = $(this).text();
 
-            if (3 > filter.length) {
-                return null;
-            }
+            filterVideos(tag);
+            $('input#search').val(tag).focus().select();
+        });
 
-            $('#video-list li.talk').each(function() {
-                if ($(this).text().search(new RegExp(filter, 'i')) < 0) {
-                    $(this).fadeOut();
-                } else {
-                    $(this).show();
-                    count++;
-                }
-            });
+        $('.tag').click(function() {
+            let tag = $(this).text();
 
-            $('#resultCount span').html(count);
+            filterVideos(tag);
+            $('input#search').val(tag).focus().select();
         });
     }
 
@@ -82,6 +73,33 @@
         $('html, body').animate({
             scrollTop: 0
         }, 1000);
+    }
+
+    function filterVideos(query) {
+        let filter = query,
+            count = 0;
+
+        if (0 == filter.length) {
+            $('#video-list li.talk').each(function() {
+                $(this).show();
+            });
+            $('#resultCount span').html(listItems.length);
+        }
+
+        if (3 > filter.length) {
+            return null;
+        }
+
+        $('#video-list li.talk').each(function() {
+            if ($(this).text().search(new RegExp(filter, 'i')) < 0) {
+                $(this).fadeOut();
+            } else {
+                $(this).show();
+                count++;
+            }
+        });
+
+        $('#resultCount span').html(count);
     }
 
     function getTalks(callback) {

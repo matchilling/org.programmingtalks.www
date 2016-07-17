@@ -77,10 +77,6 @@ ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    // padding: 35px;
-    // background-color: #ffffff;
-    // border: 1px solid #dddddd;
-    // border-radius: 5px;
 }
 input#search {
     margin: 0;
@@ -92,9 +88,32 @@ input#search {
 }
 div#resultCount {
     color: #b3b3b3;
+    display: inline-block;
+    float: left;
     font-size: 0.9em;
-    margin: 10px 0 0 15px;
+    width: 25%;
+    margin: 10px 0 25px;
     span {
-        margin: 0 5px 0 0;
+        margin: 0 5px 0 15px;
+    }
+}
+div#tags {
+    float: left;
+    display: inline-block;
+    width: 75%;
+    color: #b3b3b3;
+    font-size: 0.9em;
+    margin: 10px 0 25px;
+    ul {
+        margin: 0 5px 0 15px;
+        padding: 0;
+        list-style: none;
+        li {
+            display: inline-block;
+            margin: 0 5px;
+            &:hover:not(.title) {
+                cursor: pointer;
+            }
+        }
     }
 }

@@ -12,6 +12,7 @@ let babelify = require('babelify'),
     jade = require('gulp-jade'),
     LineReader = require('linereader'),
     minifyHtml = require('gulp-html-minifier'),
+    moment = require('moment'),
     reload = browserSync.reload,
     rename = require('gulp-rename'),
     sass = require('gulp-sass'),
@@ -21,6 +22,8 @@ let babelify = require('babelify'),
     YouTubeIntg = require('./lib/intg/youtube/index.js');
 
 const LOCALS = {
+    popularTags: ["Inspiring", "golang", "node.js", "Keynote", "Educational"],
+    popularSpeaker: ["Alan Kay", "Richard Hamming", "Richard Stallman", "Steve Jobs", "\"Uncle Bob\" - Robert Cecil Martin"],
     talks: talks
 };
 
@@ -32,7 +35,7 @@ gulp.task('default', ['combine-talks', 'build', 'copy', 'render', 'sass']);
 
 gulp.task('bulk-download-talks', function() {
     let intg = new YouTubeIntg(env.GOOGLE_SERVER_KEY),
-        lr = new LineReader('.resources/talk_ids.txt');
+        lr = new LineReader('./resources/import_video');
 
     lr.on('line', function(lineNumber, lineContent) {
         let videoId = lineContent.trim();
@@ -69,6 +72,12 @@ gulp.task('copy', function() {
 });
 
 gulp.task('render', function() {
+
+    // Prepare talks
+    LOCALS.talks.forEach(function(talk, index) {
+        talks[index].meta.duration = moment.duration(talks[index].meta.duration).humanize();
+    });
+
     gulp.src('./resources/views/index.jade')
         .pipe(jade({
             locals: LOCALS

@@ -1,0 +1,34 @@
+{
+    "description": "On the 7th of November 2012, Richard Stallman held a lecture at Reykjavik University, entitled \"Copyright vs. Community\".\nThe following is the abstract of the lecture:\n\"Copyright developed in the age of the printing press, and was designed to fit with the system of centralized copying imposed by the printing press. But the copyright system does not fit well with computer networks, and only draconian punishments can enforce it.\n\nThe global corporations that profit from copyright are lobbying for draconian punishments, and to increase their copyright powers, while suppressing public access to technology. But if we seriously hope to serve the only legitimate purpose of copyright--to promote progress, for the benefit of the public--then we must make changes in the other direction.\"\n\nThe above work is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License (http://creativecommons.org/licenses/b...).\n\nThis lecture is also available here: http://upptokur.ru.is/stallman2012/ - encoded using formats approved by Stallman.",
+    "id": "68ec6498-3fd5-45d9-8a41-b06ff992a040",
+    "meta": {
+        "duration": "PT2H5M23S"
+    },
+    "presenter": {
+        "name": "Richard Stallman"
+    },
+    "slug": "richard-stallman-why-copyright-is-bad-for-us",
+    "source": {
+        "id": "LqfhSF4zP8A",
+        "provider": "youtube"
+    },
+    "tag": ["Copyright", "Free Software", "Open Source", "GNU"],
+    "title": "Why Copyright is bad for us ?",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/LqfhSF4zP8A/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/LqfhSF4zP8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/LqfhSF4zP8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}

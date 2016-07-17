@@ -1,0 +1,34 @@
+{
+    "description": "Richard M. Stallman talks at 31st Chaos Communication Congress (31C3) on 29 December 2014.",
+    "id": "afb28c55-c1ed-4c35-b3b0-661fb95477ea",
+    "meta": {
+        "duration": "PT1H2M17S"
+    },
+    "presenter": {
+        "name": "Richard Stallman"
+    },
+    "slug": "freedom-in-your-computer-and-in-the-net",
+    "source": {
+        "id": "2lupgHYiK9Q",
+        "provider": "youtube"
+    },
+    "tag": ["Free Software Foundation", "Open Source", "GNU"],
+    "title": "\"Freedom in your computer and in the net\"",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/2lupgHYiK9Q/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/2lupgHYiK9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/2lupgHYiK9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}

@@ -1,19 +1,19 @@
 {
-    "description": "Check out our upcoming conferences at http://gotocon.com\nSubscribe to GOTO Conference's YouTube Channel at http://www.youtube.com/user/GOTOConferences?sub_confirmation=1\n\nBen Christensen - Software Engineer at Netflix\n\nABSTRACT\nRxjava is a library for composing asynchronous and event-based programs using observable sequences for the Java VM that supports Java 6+, Clojure, Scala, Groovy, JRuby and Java 8 lambdas.\n\nLearn how the Netflix API uses RxJava (http://techblog.netflix.com/2013/02/r...) to implement highly concurrent web services against asynchronous data sources without blocking, synchronization or thread-safety concerns by using declarative functional reactive composition.\n\nCome see what functional reactive programming looks like, how it fits into Java, what use cases it addresses and real-world examples of how it can become a tool in your application development. \n\nhttps://twitter.com/gotocon\nhttps://www.facebook.com/GOTOConference\nhttp://gotocon.com",
+    "description": "RxJava is a library for composing asynchronous and event-based programs by using observable sequences for the Java VM. It supports Java 6+, Clojure, Scala, Groovy, JRuby, and Java 8 lambdas. In this session, learn how the Netflix API uses RxJava to implement highly concurrent Web services against asynchronous datasources without blocking, synchronization, or thread safety concerns by using declarative functional reactive composition.",
     "id": "90935508-c6a6-4a54-8eef-44b58033e3b9",
     "meta": {
         "duration": "PT49M27S"
     },
     "presenter": {
-        "name": null
+        "name": "Ben Christensen"
     },
-    "slug": "functional-reactive-programming-with-rxjava-ben-christensen",
+    "slug": "functional-reactive-programming-rxjava",
     "source": {
         "id": "_t06LRX0DV0",
         "provider": "youtube"
     },
-    "tag": ["Software Develop", "Software Development (Industry)", "Programming", "Programming Language (Literary Genre)", "RxJava", "Web", "Services", "functional", "reactive", "programming", "Conference", "Presentation (Software Genre)", "Great", "Talk", "use case", "Netflix", "Netflix (Organization)", "GOTO"],
-    "title": "Functional Reactive Programming with RxJava • Ben Christensen",
+    "tag": ["Functional Programming", "Reactive", "RxJava", "Netflix", "GOTO 2013"],
+    "title": "Functional Reactive Programming with RxJava",
     "thumbnails": {
         "default": {
             "url": "https://i.ytimg.com/vi/_t06LRX0DV0/default.jpg",

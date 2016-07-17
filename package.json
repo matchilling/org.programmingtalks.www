@@ -37,6 +37,7 @@
         "gulp-sourcemaps": "^1.6.0",
         "jquery": "^3.1.0",
         "linereader": "^1.1.0",
+        "moment": "^2.14.1",
         "request": "^2.72.0",
         "slug": "^0.9.1",
         "uuid": "^2.0.2",

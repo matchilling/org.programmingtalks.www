@@ -1,0 +1,34 @@
+{
+    "description": "Alan Kay talks about alternative approaches to teach Computer Science in schools.",
+    "id": "eb6df15e-48c9-4b35-b9d5-28272f05da44",
+    "meta": {
+        "duration": "PT1H10M32S"
+    },
+    "presenter": {
+        "name": "Alan Kay"
+    },
+    "slug": "rethinking-computer-science-education",
+    "source": {
+        "id": "N9c7_8Gp7gI",
+        "provider": "youtube"
+    },
+    "tag": ["Educational", "CrossRoads 2015", "Inspiring"],
+    "title": "Rethinking Computer Science Education",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/N9c7_8Gp7gI/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/N9c7_8Gp7gI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/N9c7_8Gp7gI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}

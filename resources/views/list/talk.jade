@@ -4,9 +4,10 @@ li(id='talk_#{ talk.id }', class='talk', data-talk-source-id='#{ talk.source.id 
         div.meta
             if talk.presenter.name !== null
                 span.presenter=talk.presenter.name
+            if talk.meta.duration !== null
+                span.duration=talk.meta.duration
             if talk.tag.length > 0
-                ul.tags
-                    each tag in talk.tag
-                        li=tag
+                each tag in talk.tag
+                    span.tag=tag
         img.preview(src=talk.thumbnails.default.url, alt=talk.title)
         p.description=talk.description

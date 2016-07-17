@@ -1,0 +1,34 @@
+{
+    "description": "Alan Kay's seminal 1997 OOPSLA keynote. Originally hosted on Google Video, copies of it are now only available from the squeak.org website as far as I can find.  Putting it on youtube is my attempt to preserve a really important talk and computer science and computing in general.",
+    "id": "4aa1b5e2-f30a-4003-80b5-464b427d6826",
+    "meta": {
+        "duration": "PT1H4M34S"
+    },
+    "presenter": {
+        "name": "Alan Kay"
+    },
+    "slug": "alan-kay-at-oopsla-1997-the-computer-revolution-hasnt-happened-yet",
+    "source": {
+        "id": "oKg1hTOQXoY",
+        "provider": "youtube"
+    },
+    "tag": ["Inspiring", "OOPSLA 1997"],
+    "title": "The computer revolution hasnt happened yet",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/oKg1hTOQXoY/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/oKg1hTOQXoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/oKg1hTOQXoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}

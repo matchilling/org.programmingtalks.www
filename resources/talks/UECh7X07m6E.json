@@ -1,1 +1,34 @@
-{"description":"They say you can't teach an old dog new tricks, but what about a gopher? \n\nIn this talk we'll investigate a bunch of odd corners of the language, libraries, and tools that even seasoned Go programmers might not know.","id":"aa441a12-5d00-43ee-8cf4-94847330799b","meta":{"duration":"PT53M11S"},"presenter":{"name":null},"slug":"golang-uk-conference-2015-andrew-gerrand-stupid-gopher-tricks","source":{"id":"UECh7X07m6E","provider":"youtube"},"tag":["Go (Programming Language)","Computer Science (Field Of Study)","Conference"],"title":"Golang UK Conference 2015 - Andrew Gerrand - Stupid Gopher Tricks","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/UECh7X07m6E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/UECh7X07m6E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/UECh7X07m6E/hqdefault.jpg","width":480,"height":360}}}
+{
+    "description": "They say you can't teach an old dog new tricks, but what about a gopher? \n\nIn this talk we'll investigate a bunch of odd corners of the language, libraries, and tools that even seasoned Go programmers might not know.",
+    "id": "aa441a12-5d00-43ee-8cf4-94847330799b",
+    "meta": {
+        "duration": "PT53M11S"
+    },
+    "presenter": {
+        "name": "Andrew Gerrand"
+    },
+    "slug": "stupid-gopher-tricks",
+    "source": {
+        "id": "UECh7X07m6E",
+        "provider": "youtube"
+    },
+    "tag": ["golang", "Golang UK Conference 2015"],
+    "title": "Stupid Gopher Tricks",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/UECh7X07m6E/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/UECh7X07m6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/UECh7X07m6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}

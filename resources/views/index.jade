@@ -10,6 +10,16 @@ block append content
                 | 0
             lable
                 | videos
+        div#tags
+            ul
+                li.title
+                    b Popular tags:
+                each tag in locals.popularTags.length ? locals.popularTags : null
+                    li=tag
+                li.title
+                    b Popular speakers:
+                each speaker in locals.popularSpeaker.length ? locals.popularSpeaker : null
+                    li=speaker
     .wrapper
         ul#video-list
             each talk in locals.talks.length ? locals.talks : null
