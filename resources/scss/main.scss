@@ -1,7 +1,7 @@
+@import 'reset';
 @import 'card';
 @import 'header';
 @import 'headline';
-@import 'reset';
 a {
     color: #4078c0;
     :hover {
@@ -51,7 +51,7 @@ ul {
     width: 100%;
     background-color: #222;
     text-align: center;
-    padding: 2em 0 4.5em;
+    padding: 2em 0 3em;
 }
 .wrapper {
     margin: 0 auto;
@@ -60,11 +60,13 @@ ul {
         background: #222222;
         max-width: 100%;
         margin: 0;
+        &.player-large {
+            height: 450px;
+        }
         #player {
             border-radius: 10px 10px 0 0;
             display: block;
             margin: 0 auto;
-            width: 800px;
         }
     }
     &.search {
@@ -74,10 +76,11 @@ ul {
 #video-list {
     list-style: none;
     margin: 0;
-    padding: 35px;
-    background-color: #ffffff;
-    border: 1px solid #dddddd;
-    border-radius: 5px;
+    padding: 0;
+    // padding: 35px;
+    // background-color: #ffffff;
+    // border: 1px solid #dddddd;
+    // border-radius: 5px;
 }
 input#search {
     margin: 0;

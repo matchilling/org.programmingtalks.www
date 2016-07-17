@@ -16,7 +16,7 @@
         $(document).keydown(function(event) {
             if (event.keyCode == 70 && event.ctrlKey) {
                 event.preventDefault();
-                $('#search').focus();
+                $('#search').focus().select();
             }
         });
     });

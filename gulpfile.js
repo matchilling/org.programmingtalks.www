@@ -28,7 +28,7 @@ const PATHS = {
     scss: ['./resources/scss/*.scss']
 };
 
-gulp.task('default', ['build', 'copy', 'render', 'sass']);
+gulp.task('default', ['combine-talks', 'build', 'copy', 'render', 'sass']);
 
 gulp.task('bulk-download-talks', function() {
     let intg = new YouTubeIntg(env.GOOGLE_SERVER_KEY),
