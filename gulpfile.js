@@ -9,31 +9,126 @@ let babelify = require('babelify'),
     env = require('dotenv').config(),
     fs = require('fs'),
     gulp = require('gulp'),
+    ghPages = require('gulp-gh-pages'),
     jade = require('gulp-jade'),
     LineReader = require('linereader'),
     minifyHtml = require('gulp-html-minifier'),
     moment = require('moment'),
+    path = require('path'),
     reload = browserSync.reload,
     rename = require('gulp-rename'),
+    runSequence = require('run-sequence'),
     sass = require('gulp-sass'),
     source = require('vinyl-source-stream'),
     sourcemaps = require('gulp-sourcemaps'),
-    talks = require('./resources/api/talks.json'),
     YouTubeIntg = require('./lib/intg/youtube/index.js');
 
-const LOCALS = {
-    popularTags: ["Inspiring", "golang", "node.js", "Keynote", "Educational"],
-    popularSpeaker: ["Alan Kay", "Richard Hamming", "Richard Stallman", "Steve Jobs", "\"Uncle Bob\" - Robert Cecil Martin"],
-    talks: talks
+const CNAME = 'www.programmingtalks.org';
+const DISTRIBUTION = 'dist';
+const PACKAGE = require('./package.json');
+const PATH = {
+    js: ['./client/**/*.js'],
+    template: ['./resources/views/**/*.jade'],
+    scss: ['./resources/scss/*.scss'],
+    json: ['./resources/talks/*.json']
 };
 
-const PATHS = {
-    scss: ['./resources/scss/*.scss']
+let dist = function(subpath) {
+    return !subpath ? DISTRIBUTION : path.join(DISTRIBUTION, subpath);
 };
 
-gulp.task('default', ['combine-talks', 'build', 'copy', 'render', 'sass']);
+// Build then deploy to GitHub pages gh-pages branch
+gulp.task('build-deploy-gh-pages', function(callback) {
+    runSequence('dist', 'deploy-gh-pages', callback);
+});
 
-gulp.task('bulk-download-talks', function() {
+// Deploy to GitHub pages gh-pages branch
+gulp.task('deploy-gh-pages', function() {
+    return gulp.src(dist('**/*')).pipe(
+        ghPages({
+            remoteUrl: PACKAGE.repository.url,
+            silent: false,
+            branch: 'gh-pages'
+        }));
+});
+
+gulp.task('default', ['dist', 'watch']);
+
+gulp.task('dist', ['dist-api', 'dist-client-js', 'dist-css', 'dist-html'], function() {
+    fs.writeFile(dist('CNAME'), CNAME, 'utf-8');
+});
+
+gulp.task('dist-api', function() {
+    gulp.src('./resources/talks/*.json')
+        .pipe(concatJson('talks.json'))
+        .pipe(gulp.dest(dist('api')));
+});
+
+gulp.task('dist-client-js', function() {
+    browserify({
+            entries: './client/js/app.js',
+            debug: true
+        })
+        .transform(babelify)
+        .bundle()
+        .pipe(source('app.js'))
+        .pipe(gulp.dest(dist('assets')));
+});
+
+gulp.task('dist-css', function() {
+    gulp.src(PATH.scss)
+        .pipe(sourcemaps.init({
+            loadMaps: false
+        }))
+        .pipe(sass({
+            outputStyle: 'compressed'
+        }).on('error', sass.logError))
+        .pipe(concat('main.css'))
+        .pipe(sourcemaps.write())
+        .pipe(cleanCSS({
+            compatibility: 'ie8'
+        }))
+        .pipe(rename({
+            extname: '.min.css'
+        }))
+        .pipe(gulp.dest(dist('assets/css')));
+});
+
+gulp.task('dist-html', ['dist-api'], function() {
+    fs.readFile(dist('api/talks.json'), function read(err, data) {
+        if (err) throw err;
+
+        renderHtml(
+            prepareTalks(JSON.parse(data))
+        );
+    });
+
+    function prepareTalks(talks) {
+        talks.forEach(function(talk, index) {
+            talks[index].meta.duration = moment.duration(talks[index].meta.duration).humanize();
+        });
+
+        return talks;
+    }
+
+    function renderHtml(talks) {
+        gulp.src('./resources/views/index.jade')
+            .pipe(jade({
+                locals: {
+                    popularSpeaker: ["Alan Kay", "Richard Hamming", "Richard Stallman", "Steve Jobs", "\"Uncle Bob\" - Robert Cecil Martin"],
+                    popularTags: ["Inspiring", "golang", "node.js", "Keynote", "Educational"],
+                    talks: talks
+                }
+            }))
+            .pipe(minifyHtml({
+                collapseWhitespace: true
+            }))
+            .pipe(rename('index.html'))
+            .pipe(gulp.dest(dist()));
+    }
+});
+
+gulp.task('download-talks', function() {
     let intg = new YouTubeIntg(env.GOOGLE_SERVER_KEY),
         lr = new LineReader('./resources/import_video');
 
@@ -49,74 +144,15 @@ gulp.task('bulk-download-talks', function() {
     });
 });
 
-gulp.task('combine-talks', function() {
-    gulp.src('./resources/talks/*.json')
-        .pipe(concatJson('talks.json'))
-        .pipe(gulp.dest('./resources/api'));
-});
-
-gulp.task('build', function() {
-    browserify({
-            entries: './client/js/app.js',
-            debug: true
-        })
-        .transform(babelify)
-        .bundle()
-        .pipe(source('app.js'))
-        .pipe(gulp.dest('./dist/assets'));
-});
-
-gulp.task('copy', function() {
-    gulp.src('./resources/api/*.json')
-        .pipe(gulp.dest('./dist/api'));
-});
-
-gulp.task('render', function() {
-
-    // Prepare talks
-    LOCALS.talks.forEach(function(talk, index) {
-        talks[index].meta.duration = moment.duration(talks[index].meta.duration).humanize();
-    });
-
-    gulp.src('./resources/views/index.jade')
-        .pipe(jade({
-            locals: LOCALS
-        }))
-        .pipe(minifyHtml({
-            collapseWhitespace: true
-        }))
-        .pipe(rename('index.html'))
-        .pipe(gulp.dest('./dist'));
-});
-
-gulp.task('sass', function() {
-    return gulp.src(PATHS.scss)
-        .pipe(sourcemaps.init({
-            loadMaps: false
-        }))
-        .pipe(sass({
-            outputStyle: 'compressed'
-        }).on('error', sass.logError))
-        .pipe(concat('main.css'))
-        .pipe(sourcemaps.write())
-        .pipe(cleanCSS({
-            compatibility: 'ie8'
-        }))
-        .pipe(rename({
-            extname: '.min.css'
-        }))
-        .pipe(gulp.dest('./dist/assets/css'));
-});
-
 gulp.task('watch', function() {
     browserSync.init({
         server: {
-            baseDir: './dist'
+            baseDir: dist()
         }
     });
 
-    gulp.watch('./client/**/*.js', ['build']).on('change', reload);
-    gulp.watch('./resources/scss/**/*.scss', ['sass']).on('change', reload);
-    gulp.watch('./resources/views/**/*.jade', ['render']).on('change', reload);
-    gulp.watch('./resources/talks/*.json', ['combine-talks', 'copy', 'render']).on('change', reload);
+    gulp.watch(PATH.js, ['dist-client-js']).on('change', reload);
+    gulp.watch(PATH.scss, ['dist-css']).on('change', reload);
+    gulp.watch(PATH.template, ['dist-html']).on('change', reload);
+    gulp.watch(PATH.json, ['dist-api', 'dist-html']).on('change', reload);
 });

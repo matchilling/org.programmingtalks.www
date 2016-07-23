@@ -1,7 +1,7 @@
 {
     "name": "org-programmingtalks",
     "version": "1.0.0",
-    "description": "An unopinionated, curated list of the best programming talks out there.",
+    "description": "An unopinionated, curated list of the best programming talks on the Internet.",
     "scripts": {
         "build": "echo 123",
         "start": "gulp watch",
@@ -9,12 +9,16 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/matchilling/org-programmingtalks.git"
+        "url": "https://github.com/matchilling/org-programmingtalks.git"
     },
     "keywords": [
         "programming talks"
     ],
-    "author": "Mathias Schilling <m@matchilling.com> (https://www.matchilling.com)",
+    "author": {
+        "name": "Mathias Schilling",
+        "email": "m@matchilling.com",
+        "url": "https://www.matchilling.com"
+    },
     "license": "GPL-3.0",
     "bugs": {
         "url": "https://github.com/matchilling/org-programmingtalks/issues"
@@ -26,10 +30,12 @@
         "browser-sync": "^2.13.0",
         "browserify": "^13.0.1",
         "dotenv": "^2.0.0",
+        "gh-pages": "^0.11.0",
         "gulp": "^3.9.1",
         "gulp-clean-css": "^2.0.11",
         "gulp-concat": "^2.6.0",
         "gulp-concat-json": "^1.0.0",
+        "gulp-gh-pages": "^0.5.4",
         "gulp-html-minifier": "^0.1.8",
         "gulp-jade": "^1.1.0",
         "gulp-rename": "^1.2.2",
@@ -44,6 +50,5 @@
         "vinyl-source-stream": "^1.1.0",
         "youtube-api": "^2.0.2",
         "youtube-player": "^3.0.4"
-    },
-    "dependencies": {}
+    }
 }

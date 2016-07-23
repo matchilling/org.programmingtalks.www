@@ -4,4 +4,4 @@ This repository contains the source code for [www.programmingtalks.org](https://
 
 ## Deploy
 
-`git push origin --delete gh-pages && git subtree push --prefix dist origin gh-pages`
+`gulp build-deploy-gh-pages`
