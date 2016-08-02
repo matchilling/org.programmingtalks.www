@@ -1,0 +1,34 @@
+{
+    "description": "Treo creator Jeff Hawkins urges us to take a new look at the brain -- to see it not as a fast processor, but as a memory system that stores and plays back experiences to help us predict, intelligently, what will happen next.",
+    "id": "523e85f6-5c42-4d3b-8b67-d08d532cc6e9",
+    "meta": {
+        "duration": "PT22M10S"
+    },
+    "presenter": {
+        "name": "Jeff Hawkins"
+    },
+    "slug": "how-brain-science-will-change-computing",
+    "source": {
+        "id": "G6CVj5IQkzk",
+        "provider": "youtube"
+    },
+    "tag": ["TEDTalks", "Brain Science", "Neuroscience", "Artificial Intelligence (AI)", "Inspiring"],
+    "title": "How brain science will change computing",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/G6CVj5IQkzk/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/G6CVj5IQkzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/G6CVj5IQkzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}
