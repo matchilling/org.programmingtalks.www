@@ -1,0 +1,34 @@
+{
+    "description": "It's been 25 years since the first PC virus (Brain A) hit the net, and what was once an annoyance has become a sophisticated tool for crime and espionage. Computer security expert Mikko Hyppönen tells us how we can stop these new viruses from threatening the internet as we know it.",
+    "id": "952089fb-0818-48bc-9720-2069c256a9e7",
+    "meta": {
+        "duration": "PT17M35S"
+    },
+    "presenter": {
+        "name": "Mikko Hypponen"
+    },
+    "slug": "fighting-viruses-defending-the-net",
+    "source": {
+        "id": "cf3zxHuSM2Y",
+        "provider": "youtube"
+    },
+    "tag": ["TEDTalks", "Viruses", "Computer Security", "Inspiring"],
+    "title": "Fighting viruses, defending the net",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/cf3zxHuSM2Y/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/cf3zxHuSM2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/cf3zxHuSM2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}
