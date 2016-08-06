@@ -144,7 +144,7 @@ gulp.task('download-talks', function() {
     });
 });
 
-gulp.task('watch', function() {
+gulp.task('watch', ['dist'], function() {
     browserSync.init({
         server: {
             baseDir: dist()
