@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/matchilling/org-programmingtalks.git"
+        "url": "git@github.com:matchilling/org-programmingtalks.git"
     },
     "keywords": [
         "programming talks"
