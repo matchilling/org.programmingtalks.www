@@ -1,0 +1,34 @@
+{
+    "description": "Daphne Koller is enticing top universities to put their most intriguing courses online for free -- not just as a service, but as a way to research how people learn. With Coursera (cofounded by Andrew Ng), each keystroke, quiz, peer-to-peer discussion and self-graded assignment builds an unprecedented pool of data on how knowledge is processed.",
+    "id": "f0fcecf6-654a-49f6-be7d-feaa14b78891",
+    "meta": {
+        "duration": "PT20M41S"
+    },
+    "presenter": {
+        "name": "Daphne Koller"
+    },
+    "slug": "daphne-koller-what-were-learning-from-online-education",
+    "source": {
+        "id": "U6FvJ6jMGHU",
+        "provider": "youtube"
+    },
+    "tag": ["TEDTalks", "Online Education", "Inspiring"],
+    "title": "What we're learning from online education",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/U6FvJ6jMGHU/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/U6FvJ6jMGHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/U6FvJ6jMGHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}
