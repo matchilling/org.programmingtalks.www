@@ -1,0 +1,34 @@
+{
+    "description": "Sir Ken Robinson makes an entertaining and profoundly moving case for creating an education system that nurtures (rather than undermines) creativity.",
+    "id": "3af78d66-1e19-4b8e-a9cf-8d637206af42",
+    "meta": {
+        "duration": "PT20M4S"
+    },
+    "presenter": {
+        "name": "Ken Robinson"
+    },
+    "slug": "do-schools-kill-creativity-or-sir-ken-robinson-or-ted-talks",
+    "source": {
+        "id": "iG9CE55wbtY",
+        "provider": "youtube"
+    },
+    "tag": ["TEDTalks", "Inspiring", "Education", "Creativity"],
+    "title": "Do Schools Kill Creativity?",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/iG9CE55wbtY/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/iG9CE55wbtY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/iG9CE55wbtY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}
