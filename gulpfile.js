@@ -11,10 +11,10 @@ let babelify = require('babelify'),
     gulp = require('gulp'),
     ghPages = require('gulp-gh-pages'),
     jade = require('gulp-jade'),
-    LineReader = require('linereader'),
     minifyHtml = require('gulp-html-minifier'),
     moment = require('moment'),
     path = require('path'),
+    prompt = require('prompt'),
     reload = browserSync.reload,
     rename = require('gulp-rename'),
     runSequence = require('run-sequence'),
@@ -128,20 +128,28 @@ gulp.task('dist-html', ['dist-api'], function() {
     }
 });
 
-gulp.task('download-talks', function() {
+gulp.task('download-talk', function() {
     let intg = new YouTubeIntg(env.GOOGLE_SERVER_KEY),
-        lr = new LineReader('./resources/import_video');
+        schema = {
+          properties: {
+            videoSourceRef: {
+              description: 'Enter youtube video source reference',
+              pattern: /^[a-zA-Z0-9\s\-]+$/,
+              message: 'The video source reference must be only letters, numbers, spaces, or dashes',
+              required: true
+            }
+          }
+        };
 
-    lr.on('line', function(lineNumber, lineContent) {
-        let videoId = lineContent.trim();
-        let tmp_path = './resources/talks/' + videoId + '.json';
-
-        intg.getVideo(videoId, function(response) {
-            fs.writeFile(tmp_path, JSON.stringify(response), 'utf-8', function() {
-                console.info('Success: ' + videoId);
-            });
+      prompt.start();
+      prompt.get(schema, function (err, result) {
+        intg.getVideo(result.videoSourceRef, function(response) {
+          fs.writeFile('./resources/talks/' + result.videoSourceRef + '.json', JSON.stringify(response, null, 4), 'utf-8', (err) => {
+            if (err) throw err;
+            console.info('Success: ' + result.videoSourceRef);
+          });
         });
-    });
+      });
 });
 
 gulp.task('watch', ['dist'], function() {
