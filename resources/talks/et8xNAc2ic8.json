@@ -1,0 +1,38 @@
+{
+    "description": "Brian explores the trickiest, funniest parts of JavaScript.",
+    "id": "09c8fae4-db8c-4c29-814e-84dc2fd2ce2d",
+    "meta": {
+        "duration": "PT18M27S"
+    },
+    "presenter": {
+        "name": "Brian LeRoux"
+    },
+    "slug": "what-the-f-js",
+    "source": {
+        "id": "et8xNAc2ic8",
+        "provider": "youtube"
+    },
+    "tag": [
+        "dotJS 20112",
+        "Paris",
+        "JavaScript"
+    ],
+    "title": "What the f*** JS",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/et8xNAc2ic8/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/et8xNAc2ic8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/et8xNAc2ic8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}
