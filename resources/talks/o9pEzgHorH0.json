@@ -1,0 +1,36 @@
+{
+    "description": "Classes are great but they are also overused. This talk will describe examples of class overuse taken from real world code and refactor the unnecessary classes, exceptions, and modules out of them.",
+    "id": "5161fc0b-dcf8-422c-b02d-6c40679f770d",
+    "meta": {
+        "duration": "PT27M30S"
+    },
+    "presenter": {
+        "name": "Jack Diederich"
+    },
+    "slug": "stop-writing-classes",
+    "source": {
+        "id": "o9pEzgHorH0",
+        "provider": "youtube"
+    },
+    "tag": [
+        "PyCon 2012"
+    ],
+    "title": "Stop Writing Classes",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/o9pEzgHorH0/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/o9pEzgHorH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/o9pEzgHorH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}
