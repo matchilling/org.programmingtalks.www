@@ -1,11 +1,11 @@
-
 {
     "name": "org-programmingtalks",
     "version": "1.0.0",
     "description": "An unopinionated, curated list of the best programming talks on the Internet.",
     "scripts": {
-        "build": "echo 123",
-        "start": "gulp watch",
+        "download-talk": "./node_modules/.bin/gulp 'download-talk'",
+        "deploy-gh-pages": "./node_modules/.bin/gulp 'build-deploy-gh-pages'",
+        "start": "./node_modules/.bin/gulp",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
