@@ -134,8 +134,8 @@ gulp.task('download-talk', function() {
           properties: {
             videoSourceRef: {
               description: 'Enter youtube video source reference',
-              pattern: /^[a-zA-Z0-9\s\-]+$/,
-              message: 'The video source reference must be only letters, numbers, spaces, or dashes',
+              pattern: /^[a-zA-Z0-9\s\-\_]+$/,
+              message: 'The video source reference must be only letters, numbers, underscores, or dashes',
               required: true
             }
           }
