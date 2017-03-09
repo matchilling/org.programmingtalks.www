@@ -1,0 +1,4 @@
+.env
+.publish/
+dist/
+node_modules/
