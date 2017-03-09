@@ -50,7 +50,6 @@
         "slug": "^0.9.1",
         "uuid": "^2.0.2",
         "vinyl-source-stream": "^1.1.0",
-        "youtube-api": "^2.0.2",
-        "youtube-player": "^3.0.4"
+        "youtube-api": "^2.0.2"
     }
 }

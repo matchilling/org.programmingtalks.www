@@ -5,7 +5,6 @@
     let $ = require('jquery'),
         fs = require('fs'),
         http = require('http'),
-        Player = require('youtube-player'),
         playerInstance,
         Talk = require('../../lib/org-programmingtalks/entity/talk.js'),
         talks;
@@ -23,7 +22,7 @@
 
     function main() {
         getTalks(function(talks) {
-            playerInstance = new Player('player', {
+            playerInstance = new YT.Player('player', {
                 height: '450',
                 width: '854',
                 videoId: talks[Math.floor(Math.random() * talks.length)].getSourceId(),
