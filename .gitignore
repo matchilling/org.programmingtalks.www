@@ -1,5 +1,16 @@
-dist
+# Configuration
 .env
-node_modules/
+
+# Dependency directories
+node_modules
+
+# HTML class documentation
+doc
+
+# Compiled site
 .publish/
-.tmp
+dist/
+.publish/
+
+# Logs
+npm-debug.log
