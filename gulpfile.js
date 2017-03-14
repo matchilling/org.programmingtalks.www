@@ -66,8 +66,8 @@ gulp.task('dist-api', function() {
 
 gulp.task('dist-client-js', function() {
     browserify({
-            entries: './client/js/app.js',
-            debug: true
+            entries : './client/js/app.js',
+            debug   : false
         })
         .transform(babelify)
         .bundle()

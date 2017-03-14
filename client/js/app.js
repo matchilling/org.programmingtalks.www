@@ -1,11 +1,8 @@
-(function (window, document) {
+(function (window, document, $) {
 
   'use strict';
 
-  let $ = require('jquery'),
-    fs = require('fs'),
-    http = require('http'),
-    playerInstance,
+  let playerInstance,
     Talk = require('../../lib/org-programmingtalks/entity/talk.js'),
     talks;
 
@@ -121,26 +118,22 @@
   }
 
   function getTalks(callback) {
-    return http.get({
-      host: null,
-      path: '/api/talks.json',
-      protocol: 'https:'
-    }, function (response) {
-      let body = '',
-        talks = [];
-      response.on('data', function (d) {
-        body += d;
-      });
-      response.on('end', function () {
-        JSON.parse(body).forEach(function (item) {
+    var req = new XMLHttpRequest();
+
+    req.onreadystatechange = function () {
+      if (4 == req.readyState && 200 == req.status) {
+        var talks = [];
+
+        JSON.parse(req.responseText).forEach(function (item) {
           talks.push(new Talk(item));
         });
 
-        if (callback) {
-          callback(talks);
-        }
-      });
-    });
+        callback(talks);
+      }
+    }
+
+    req.open('GET', '/api/talks.json', true);
+    req.send();
   }
 
   function updateQueryString(key, value, url) {
@@ -188,4 +181,4 @@
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
 
-})(window, document);
+})(window, document, $);
