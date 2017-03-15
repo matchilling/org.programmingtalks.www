@@ -1,0 +1,38 @@
+{
+    "description": "Is it possible to imagine a future where “concert programmers” are as common a fixture in the worlds auditoriums as concert pianists? In this presentation Andrew will be live-coding the generative algorithms that will be producing the music that the audience will be listening too. As Andrew is typing he will also attempt to narrate the journey, discussing the various computational and musical choices made along the way. A must see for anyone interested in creative computing.",
+    "id": "a2ce9fae-d49e-4d5b-a59a-66ce3aed13fc",
+    "meta": {
+        "duration": "PT10M23S"
+    },
+    "presenter": {
+        "name": "Andrew Sorensen"
+    },
+    "slug": "the-concert-programmer",
+    "source": {
+        "id": "yY1FSsUV-8c",
+        "provider": "youtube"
+    },
+    "tag": [
+        "O'Reilly Open Source Convention",
+        "Musical Performance",
+        "Live Coding"
+    ],
+    "title": "The Concert Programmer",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/yY1FSsUV-8c/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/yY1FSsUV-8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/yY1FSsUV-8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}
