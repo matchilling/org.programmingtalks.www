@@ -60,7 +60,7 @@ ul {
         background: #222222;
         max-width: 100%;
         margin: 0;
-        &.player-large {
+        @media (min-width: 854px) {
             height: 450px;
         }
         #player {

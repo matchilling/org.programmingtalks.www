@@ -3,7 +3,9 @@
     background-color: #ffffff;
     margin: 0 0 1.5em;
     width: 92.5%;
+    display: -moz-inline-stack;
     display: inline-block;
+    vertical-align: top;
     padding: 5% 25px;
     border-radius: 5px;
     .title {

@@ -3,7 +3,7 @@
   'use strict';
 
   let playerInstance,
-    Talk = require('../../lib/org-programmingtalks/entity/talk.js'),
+    Talk = require('../../lib/org-programmingtalks/entity/talk'),
     talks;
 
   document.addEventListener('DOMContentLoaded', function (event) {
@@ -31,9 +31,16 @@
         });
       }
 
+      let playerHeight = 200,
+        playerWidth = '100%';
+      if (854 <= window.innerWidth) {
+        playerHeight = 450;
+        playerWidth = 854;
+      }
+
       playerInstance = new YT.Player('player', {
-        height: '450',
-        width: '854',
+        height: playerHeight,
+        width: playerWidth,
         videoId: talkSourceId,
         playerVars: {
           'autoplay': 0,
@@ -46,7 +53,7 @@
 
     let listItems = document.getElementsByClassName('title');
     for (let i = listItems.length; i--;) {
-      listItems[i].onclick = function () {
+      listItems[i].onclick = function (event) {
         clickListItem(event);
       };
     }

@@ -9,5 +9,5 @@ li(id='talk_#{ talk.id }', class='talk', data-talk-source-id='#{ talk.source.id 
             if talk.tag.length > 0
                 each tag in talk.tag
                     span.tag=tag
-        img.preview(src=talk.thumbnails.default.url, alt=talk.title)
+        img.preview(alt=talk.titlesrc=talk.thumbnails.default.url, height=talk.thumbnails.default.height, src=talk.thumbnails.default.url, width=talk.thumbnails.default.width)
         p.description=talk.description
