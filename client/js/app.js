@@ -1,5 +1,4 @@
 (function (window, document, $) {
-
   'use strict';
 
   let playerInstance,
@@ -7,8 +6,6 @@
     talks;
 
   document.addEventListener('DOMContentLoaded', function (event) {
-    main();
-
     $(document).keydown(function (event) {
       if (event.keyCode == 70 && event.ctrlKey) {
         event.preventDefault();
@@ -16,6 +13,10 @@
       }
     });
   });
+
+  window.onYouTubeIframeAPIReady = function(){
+    main()
+  };
 
   function main() {
     getTalks(function (talks) {
@@ -189,3 +190,10 @@
   }
 
 })(window, document, $);
+
+// Load youtube api async
+const tag = document.createElement('script');
+tag.src = 'https://www.youtube.com/iframe_api';
+
+const firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);

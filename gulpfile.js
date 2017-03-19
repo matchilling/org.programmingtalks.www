@@ -154,9 +154,10 @@ gulp.task('download-talk', function() {
 
 gulp.task('watch', ['dist'], function() {
     browserSync.init({
-        server: {
-            baseDir: dist()
-        }
+        logConnections : true,
+        logFileChanges : true,
+        logLevel       : 'debug',
+        server         : { baseDir: dist() }
     });
 
     gulp.watch(PATH.js, ['dist-client-js']).on('change', reload);
