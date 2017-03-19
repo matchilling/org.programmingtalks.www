@@ -1,6 +1,5 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 (function (window, document, $) {
-
   'use strict';
 
   let playerInstance,
@@ -8,8 +7,6 @@
       talks;
 
   document.addEventListener('DOMContentLoaded', function (event) {
-    main();
-
     $(document).keydown(function (event) {
       if (event.keyCode == 70 && event.ctrlKey) {
         event.preventDefault();
@@ -17,6 +14,10 @@
       }
     });
   });
+
+  window.onYouTubeIframeAPIReady = function () {
+    main();
+  };
 
   function main() {
     getTalks(function (talks) {
@@ -182,6 +183,13 @@
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
 })(window, document, $);
+
+// Load youtube api async
+const tag = document.createElement('script');
+tag.src = 'https://www.youtube.com/iframe_api';
+
+const firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
 },{"../../lib/org-programmingtalks/entity/talk":2}],2:[function(require,module,exports){
 'use strict';
