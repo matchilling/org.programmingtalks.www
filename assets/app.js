@@ -1,188 +1,277 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
-(function (window, document, $) {
+((window, document) => {
   'use strict';
 
-  let playerInstance,
-      Talk = require('../../lib/org-programmingtalks/entity/talk'),
-      talks;
+  const UrlUtil = require('../../lib/org-programmingtalks/Util/UrlUtil');
+  let playerInstance = null;
 
-  document.addEventListener('DOMContentLoaded', function (event) {
-    $(document).keydown(function (event) {
-      if (event.keyCode == 70 && event.ctrlKey) {
-        event.preventDefault();
-        $('#search').focus().select();
-      }
-    });
-  });
-
-  window.onYouTubeIframeAPIReady = function () {
+  window.onYouTubeIframeAPIReady = () => {
     main();
   };
 
-  function main() {
-    getTalks(function (talks) {
-      var talkSourceId = talks[Math.floor(Math.random() * talks.length)].getSourceId(),
-          videoId = getParameterByName('v');
+  function parseTalks(listId) {
+    const list = document.getElementById(listId);
+    if ('undefined' === list) {
+      throw new Error(`Element with id "${listId}" undefined.`);
+    }
 
-      if (videoId) {
-        talks.forEach(talk => {
-          if (videoId === talk.getId()) {
-            talkSourceId = talk.getSourceId();
-            document.title = `Programming Talks: ${talk.getTitle()}`;
-          }
+    const items = list.getElementsByTagName('li'),
+          talks = [];
+
+    for (let i = items.length; i--;) {
+      talks.push({
+        id: items[i].id,
+        sourceId: items[i].dataset.talkSourceId,
+        title: items[i].getElementsByClassName('title')[0].innerText
+      });
+    }
+
+    return talks;
+  }
+
+  function getResultCount() {
+    const resultCounter = document.getElementById('resultCount');
+    if ('undefined' === resultCount) {
+      return false;
+    }
+
+    const spans = resultCounter.getElementsByTagName('span');
+    if (0 === spans.length) {
+      return false;
+    }
+
+    return spans[0].innerHTML;
+  }
+
+  function updateResultCounter(count) {
+    const resultCounter = document.getElementById('resultCount');
+    if ('undefined' === resultCount) {
+      return false;
+    }
+
+    const spans = resultCounter.getElementsByTagName('span');
+    if (0 === spans.length) {
+      return false;
+    }
+    spans[0].innerHTML = count;
+    return true;
+  }
+
+  function main() {
+    const listId = 'video-list';
+    const talks = parseTalks(listId),
+          talkSourceId = talks[Math.floor(Math.random() * talks.length)].sourceId,
+          videoId = UrlUtil.getQueryParameter('v');
+
+    if (videoId) {
+      talks.forEach(talk => {
+        if (videoId === talk.id) {
+          talkSourceId = talk.sourceId;
+          document.title = `Programming Talks: ${talk.titless}`;
+        }
+      });
+    }
+
+    let playerHeight = 200,
+        playerWidth = '100%';
+    if (854 <= window.innerWidth) {
+      playerHeight = 450;
+      playerWidth = 854;
+    }
+
+    playerInstance = new YT.Player('player', {
+      height: playerHeight,
+      width: playerWidth,
+      videoId: talkSourceId,
+      playerVars: {
+        autoplay: 0,
+        controls: 1,
+        rel: 0,
+        showinfo: 1
+      }
+    });
+
+    const searchElement = document.getElementById('search');
+    searchElement.addEventListener('keyup', event => {
+      filterVideos(searchElement.value, listId);
+    });
+
+    const items = document.getElementById(listId).getElementsByTagName('li');
+    for (let i = items.length; i--;) {
+      items[i].getElementsByClassName('title')[0].onclick = event => {
+        clickListItem(event);
+      };
+
+      const presenter = 0 !== items[i].getElementsByClassName('presenter').length ? items[i].getElementsByClassName('presenter')[0] : null;
+
+      if (presenter) {
+        presenter.addEventListener('click', event => {
+          filterVideos(presenter.innerText, listId);
+          searchElement.value = presenter.innerText;
+          searchElement.select();
         });
       }
 
-      let playerHeight = 200,
-          playerWidth = '100%';
-      if (854 <= window.innerWidth) {
-        playerHeight = 450;
-        playerWidth = 854;
+      const tags = items[i].getElementsByClassName('tag');
+      for (let i = tags.length; i--;) {
+        if ('title' === tags[i].className) {
+          continue;
+        }
+
+        tags[i].addEventListener('click', event => {
+          filterVideos(event.target.innerText, listId);
+          searchElement.value = event.target.innerText;
+          searchElement.select();
+        });
       }
 
-      playerInstance = new YT.Player('player', {
-        height: playerHeight,
-        width: playerWidth,
-        videoId: talkSourceId,
-        playerVars: {
-          'autoplay': 0,
-          'controls': 1,
-          'rel': 0,
-          'showinfo': 1
-        }
-      });
-    });
-
-    let listItems = document.getElementsByClassName('title');
-    for (let i = listItems.length; i--;) {
-      listItems[i].onclick = function (event) {
+      [0].onclick = event => {
         clickListItem(event);
       };
     }
+    updateResultCounter(items.length);
 
-    $('#resultCount span').html(listItems.length);
-    $('#resultCount').show();
+    const tags = document.getElementById('tags').getElementsByTagName('li');
+    for (let i = tags.length; i--;) {
+      if ('title' === tags[i].className) {
+        continue;
+      }
 
-    $('input#search').keyup(function () {
-      filterVideos($(this).val());
+      tags[i].addEventListener('click', event => {
+        filterVideos(event.target.innerText, listId);
+        searchElement.value = event.target.innerText;
+        searchElement.select();
+      });
+    }
+
+    document.addEventListener('keydown', event => {
+      if (70 === event.keyCode && event.ctrlKey) {
+        event.preventDefault();
+        searchElement.select();
+      }
+    });
+  }
+
+  function fadeIn(element) {
+    if (!element) {
+      return false;
+    }
+
+    element.style.opacity = 0;
+    element.style.filter = 'alpha(opacity=0)';
+    element.style.display = 'inline-block';
+    element.style.visibility = 'visible';
+
+    element.style.opacity = 1;
+    element.style.filter = 'alpha(opacity=1)';
+  }
+
+  function fadeOut(element) {
+    if (!element) {
+      return false;
+    }
+
+    element.style.opacity = 0;
+    element.style.filter = 'alpha(opacity=0)';
+    element.style.display = 'none';
+    element.style.visibility = 'hidden';
+  }
+
+  function scrollToTop(scrollDuration) {
+    var scrollStep = -window.scrollY / (scrollDuration / 15),
+        scrollInterval = setInterval(() => {
+      if (0 !== window.scrollY) {
+        window.scrollBy(0, scrollStep);
+      } else clearInterval(scrollInterval);
+    }, 15);
+  }
+
+  function findClosestEl(el, selector) {
+    let matchesFn, parent;
+
+    // find vendor prefix
+    ['matches', 'webkitMatchesSelector', 'mozMatchesSelector', 'msMatchesSelector', 'oMatchesSelector'].some(fn => {
+      if ('function' === typeof document.body[fn]) {
+        matchesFn = fn;
+        return true;
+      }
+      return false;
     });
 
-    $('div#tags li:not(.title)').click(function () {
-      let tag = $(this).text();
+    while (el) {
+      parent = el.parentElement;
+      if (parent && parent[matchesFn](selector)) {
+        return parent;
+      }
+      el = parent;
+    }
 
-      filterVideos(tag);
-      $('input#search').val(tag).focus().select();
-    });
-
-    $('.tag').click(function () {
-      let tag = $(this).text();
-
-      filterVideos(tag);
-      $('input#search').val(tag).focus().select();
-    });
+    return null;
   }
 
   function clickListItem(event) {
-    var div = $(event.target).closest('.talk'),
-        id = div.attr('id').replace('talk_', ''),
-        title = $(event.target).closest('.title').text();
+    const listEl = findClosestEl(event.target, 'li'),
+          id = listEl.id.replace('talk_', ''),
+          title = event.target.innerText;
 
     document.title = `Programming Talks: ${title}`;
-    window.history.pushState({}, title, updateQueryString('v', id));
+    window.history.pushState({}, title, UrlUtil.updateQueryString('v', id));
 
-    playerInstance.loadVideoById($(event.target).closest('.talk').data('talkSourceId'));
+    playerInstance.loadVideoById(listEl.dataset.talkSourceId);
 
-    $('html, body').animate({
-      scrollTop: 0
-    }, 1000);
+    scrollToTop(500);
   }
 
-  function filterVideos(query) {
-    let filter = query,
-        count = 0;
+  function filterVideos(query, listId) {
+    let filter = query.toLowerCase().replace(/\s+/g, ' '),
+        list = document.getElementById(listId);
 
-    if (0 == filter.length) {
-      $('#video-list li.talk').each(function () {
-        $(this).show();
-      });
-      $('#resultCount span').html(listItems.length);
+    if ('undefined' === list) {
+      return false;
+    }
+
+    const items = list.getElementsByTagName('li');
+    if (0 === items.length) {
+      return false;
+    }
+
+    if (0 === filter.length) {
+      for (let i = items.length; i--;) {
+        fadeIn(items[i], 200);
+      }
+      updateResultCounter(items.length);
     }
 
     if (3 > filter.length) {
-      return null;
+      return false;
     }
 
-    $('#video-list li.talk').each(function () {
-      if ($(this).text().search(new RegExp(filter, 'i')) < 0) {
-        $(this).fadeOut();
+    let count = 0;
+    for (let i = items.length; i--;) {
+      const description = items[i].getElementsByClassName('description')[0].innerText,
+            presenter = 0 !== items[i].getElementsByClassName('presenter').length ? items[i].getElementsByClassName('presenter')[0].innerText : null,
+            tags = 0 !== items[i].getElementsByClassName('tag') ? items[i].getElementsByClassName('tag') : null,
+            title = items[i].getElementsByClassName('title')[0].innerText;
+
+      const searchable = ''.concat(description, presenter, title).toLowerCase();
+
+      for (let i = tags.length; i--;) {
+        searchable.concat(tags[i].innerText.toLowerCase());
+      }
+
+      if (0 > searchable.search(new RegExp(filter, 'i'))) {
+        fadeOut(items[i]);
       } else {
-        $(this).show();
+        fadeIn(items[i]);
         count++;
       }
-    });
 
-    $('#resultCount span').html(count);
-  }
-
-  function getTalks(callback) {
-    var req = new XMLHttpRequest();
-
-    req.onreadystatechange = function () {
-      if (4 == req.readyState && 200 == req.status) {
-        var talks = [];
-
-        JSON.parse(req.responseText).forEach(function (item) {
-          talks.push(new Talk(item));
-        });
-
-        callback(talks);
-      }
-    };
-
-    req.open('GET', '/api/talks.json', true);
-    req.send();
-  }
-
-  function updateQueryString(key, value, url) {
-    if (!url) url = window.location.href;
-    var re = new RegExp("([?&])" + key + "=.*?(&|#|$)(.*)", "gi"),
-        hash;
-
-    if (re.test(url)) {
-      if (typeof value !== 'undefined' && value !== null) return url.replace(re, '$1' + key + "=" + value + '$2$3');else {
-        hash = url.split('#');
-        url = hash[0].replace(re, '$1$3').replace(/(&|\?)$/, '');
-        if (typeof hash[1] !== 'undefined' && hash[1] !== null) url += '#' + hash[1];
-        return url;
-      }
-    } else {
-      if (typeof value !== 'undefined' && value !== null) {
-        var separator = url.indexOf('?') !== -1 ? '&' : '?';
-        hash = url.split('#');
-        url = hash[0] + separator + key + '=' + value;
-        if (typeof hash[1] !== 'undefined' && hash[1] !== null) url += '#' + hash[1];
-        return url;
-      } else return url;
-    }
-  }
-
-  function getParameterByName(name, url) {
-    name = name.replace(/[\[\]]/g, "\\$&");
-
-    if (!url) {
-      url = window.location.href;
+      updateResultCounter(count);
     }
 
-    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-        results = regex.exec(url);
-
-    if (!results) return null;
-
-    if (!results[2]) return '';
-
-    return decodeURIComponent(results[2].replace(/\+/g, " "));
+    return true;
   }
-})(window, document, $);
+})(window, document);
 
 // Load youtube api async
 const tag = document.createElement('script');
@@ -191,73 +280,49 @@ tag.src = 'https://www.youtube.com/iframe_api';
 const firstScriptTag = document.getElementsByTagName('script')[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-},{"../../lib/org-programmingtalks/entity/talk":2}],2:[function(require,module,exports){
+},{"../../lib/org-programmingtalks/Util/UrlUtil":2}],2:[function(require,module,exports){
 'use strict';
 
-function Talk(values) {
-    if (!(this instanceof Talk)) {
-        return new Talk();
+const UrlUtil = module.exports;
+
+UrlUtil.getQueryParameter = function (name, url) {
+  name = name.replace(/[\[\]]/g, "\\$&");
+
+  if (!url) {
+    url = window.location.href;
+  }
+
+  var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+      results = regex.exec(url);
+
+  if (!results) return null;
+
+  if (!results[2]) return '';
+
+  return decodeURIComponent(results[2].replace(/\+/g, " "));
+};
+
+UrlUtil.updateQueryString = function (key, value, url) {
+  if (!url) url = window.location.href;
+  var re = new RegExp("([?&])" + key + "=.*?(&|#|$)(.*)", "gi"),
+      hash;
+
+  if (re.test(url)) {
+    if (typeof value !== 'undefined' && value !== null) return url.replace(re, '$1' + key + "=" + value + '$2$3');else {
+      hash = url.split('#');
+      url = hash[0].replace(re, '$1$3').replace(/(&|\?)$/, '');
+      if (typeof hash[1] !== 'undefined' && hash[1] !== null) url += '#' + hash[1];
+      return url;
     }
-
-    this.description = values.description ? values.description : null;
-    this.id = values.id ? values.id : null;
-    this.meta = {
-        duration: values.meta.duration ? values.meta.duration : null
-    };
-    this.presenter = {
-        name: values.presenter.name ? values.meta.name : null
-    };
-    this.slug = values.slug ? values.slug : null;
-    this.source = {
-        id: values.source.id ? values.source.id : null,
-        provider: values.source.provider ? values.source.provider : null
-    };
-    this.tag = values.tag ? values.tag : [];
-    this.title = values.title ? values.title : null;
-    this.thumbnails = {
-        default: {
-            url: values.thumbnails.default.url ? values.thumbnails.default.url : null,
-            width: values.thumbnails.default.width ? values.thumbnails.default.width : null,
-            height: values.thumbnails.default.height ? values.thumbnails.default.height : null
-        },
-        medium: {
-            url: values.thumbnails.medium.url ? values.thumbnails.medium.url : null,
-            width: values.thumbnails.medium.width ? values.thumbnails.medium.width : null,
-            height: values.thumbnails.medium.height ? values.thumbnails.medium.height : null
-        },
-        high: {
-            url: values.thumbnails.high.url ? values.thumbnails.high.url : null,
-            width: values.thumbnails.high.width ? values.thumbnails.high.width : null,
-            height: values.thumbnails.high.height ? values.thumbnails.high.height : null
-        }
-    };
-}
-
-Talk.prototype.getDescription = function () {
-    return this.description;
+  } else {
+    if (typeof value !== 'undefined' && value !== null) {
+      var separator = url.indexOf('?') !== -1 ? '&' : '?';
+      hash = url.split('#');
+      url = hash[0] + separator + key + '=' + value;
+      if (typeof hash[1] !== 'undefined' && hash[1] !== null) url += '#' + hash[1];
+      return url;
+    } else return url;
+  }
 };
-Talk.prototype.getId = function () {
-    return this.id;
-};
-Talk.prototype.getMeta = function () {
-    return this.meta;
-};
-Talk.prototype.getPresenter = function () {
-    return this.presenter;
-};
-Talk.prototype.getSlug = function () {
-    return this.slug;
-};
-Talk.prototype.getSourceId = function () {
-    return this.source.id;
-};
-Talk.prototype.getTitle = function () {
-    return this.title;
-};
-Talk.prototype.getThumbnails = function () {
-    return this.thumbnails;
-};
-
-module.exports = Talk;
 
 },{}]},{},[1]);
