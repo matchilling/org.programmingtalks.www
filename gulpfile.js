@@ -10,6 +10,7 @@ let babelify = require('babelify'),
     fs = require('fs'),
     gulp = require('gulp'),
     ghPages = require('gulp-gh-pages'),
+    hash = require('gulp-hash'),
     jade = require('gulp-jade'),
     minifyHtml = require('gulp-html-minifier'),
     moment = require('moment'),
@@ -72,6 +73,12 @@ gulp.task('dist-client-js', function() {
         .transform(babelify)
         .bundle()
         .pipe(source('app.js'))
+        .pipe(hash())
+        .pipe(gulp.dest(dist('assets')))
+        .pipe(hash.manifest('manifest.json', {
+            deleteOld: true,
+            sourceDir: dist('assets')
+        }))
         .pipe(gulp.dest(dist('assets')));
 });
 
@@ -112,12 +119,19 @@ gulp.task('dist-html', ['dist-api'], function() {
     }
 
     function renderHtml(talks) {
+      const manifest = require(`./${dist('assets')}/manifest.json`);
+
         gulp.src('./resources/views/index.jade')
             .pipe(jade({
                 locals: {
                     popularSpeaker: ["Alan Kay", "Richard Hamming", "Richard Stallman", "Steve Jobs", "\"Uncle Bob\" - Robert Cecil Martin"],
                     popularTags: ["Inspiring", "golang", "node.js", "Keynote", "Educational"],
-                    talks: talks
+                    talks: talks,
+                    path : {
+                      js : {
+                        main : `/assets/${manifest['app.js']}`
+                      }
+                    }
                 }
             }))
             .pipe(minifyHtml({
