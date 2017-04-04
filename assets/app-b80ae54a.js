@@ -68,7 +68,7 @@
       talks.forEach(talk => {
         if (videoId === talk.id.substr(5)) {
           talkSourceId = talk.sourceId;
-          document.title = `Programming Talks: ${talk.titless}`;
+          document.title = `Programming Talks: ${talk.title}`;
         }
       });
     }
