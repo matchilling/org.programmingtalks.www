@@ -57,16 +57,17 @@
   }
 
   function main() {
-    const listId = 'video-list';
-    const talks = parseTalks(listId),
-          talkSourceId = talks[Math.floor(Math.random() * talks.length)].sourceId,
+    const listId = 'video-list',
+          talks = parseTalks(listId),
           videoId = UrlUtil.getQueryParameter('v');
+
+    let talkSourceId = talks[Math.floor(Math.random() * talks.length)].sourceId;
 
     if (videoId) {
       talks.forEach((talk) => {
-        if (videoId === talk.id) {
+        if (videoId === talk.id.substr(5)) {
           talkSourceId = talk.sourceId;
-          document.title = `Programming Talks: ${talk.titless}`;
+          document.title = `Programming Talks: ${talk.title}`;
         }
       });
     }
