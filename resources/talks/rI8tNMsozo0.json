@@ -1,1 +1,40 @@
-{"description":"Rich Hickey, the author of Clojure and designer of Datomic, is a software developer with over 20 years of experience in various domains. Rich has worked on scheduling systems, broadcast automation, audio analysis and fingerprinting, database design, yield management, exit poll systems, and machine listening, in a variety of languages.","id":"acfa88db-20e1-4112-ba84-a4bc9c40ad8c","meta":{"duration":"PT36M54S"},"presenter":{"name":null},"slug":"rails-conf-2012-keynote-simplicity-matters-by-rich-hickey","source":{"id":"rI8tNMsozo0","provider":"youtube"},"tag":["railsconf","railsconf2012","Rails","Simplicity","Software Development","Ruby (programming language)"],"title":"Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/rI8tNMsozo0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/rI8tNMsozo0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/rI8tNMsozo0/hqdefault.jpg","width":480,"height":360}}}
+{
+    "description": "Rich Hickey, the author of Clojure and designer of Datomic, is a software developer with over 20 years of experience in various domains. Rich has worked on scheduling systems, broadcast automation, audio analysis and fingerprinting, database design, yield management, exit poll systems, and machine listening, in a variety of languages.",
+    "id": "acfa88db-20e1-4112-ba84-a4bc9c40ad8c",
+    "meta": {
+        "duration": "PT36M54S"
+    },
+    "presenter": {
+        "name": "Rich Hickey"
+    },
+    "slug": "simplicity-matters",
+    "source": {
+        "id": "rI8tNMsozo0",
+        "provider": "youtube"
+    },
+    "tag": [
+        "railsconf",
+        "Rails",
+        "Simplicity",
+        "Ruby",
+        "Keynote"
+    ],
+    "title": "Simplicity Matters",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/rI8tNMsozo0/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/rI8tNMsozo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/rI8tNMsozo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}

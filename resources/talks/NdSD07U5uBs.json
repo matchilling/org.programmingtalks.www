@@ -12,7 +12,10 @@
         "id": "NdSD07U5uBs",
         "provider": "youtube"
     },
-    "tag": ["Inspiring"],
+    "tag": [
+        "Inspiring",
+        "Simplicity"
+    ],
     "title": "Power of Simplicity",
     "thumbnails": {
         "default": {

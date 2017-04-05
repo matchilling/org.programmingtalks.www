@@ -125,7 +125,7 @@ gulp.task('dist-html', ['dist-api'], function() {
             .pipe(jade({
                 locals: {
                     popularSpeaker: ["Alan Kay", "Richard Hamming", "Richard Stallman", "Steve Jobs", "\"Uncle Bob\" - Robert Cecil Martin"],
-                    popularTags: ["Inspiring", "golang", "node.js", "Keynote", "Educational"],
+                    popularTags: ["Inspiring", "golang", "node.js", "Keynote", "Educational", "Simplicity"],
                     talks: talks,
                     path : {
                       js : {
