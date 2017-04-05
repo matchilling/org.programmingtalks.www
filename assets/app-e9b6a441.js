@@ -160,7 +160,7 @@
 
     element.style.opacity = 0;
     element.style.filter = 'alpha(opacity=0)';
-    element.style.display = 'inline-block';
+    element.style.display = 'block';
     element.style.visibility = 'visible';
 
     element.style.opacity = 1;
