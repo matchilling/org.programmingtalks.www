@@ -1,0 +1,38 @@
+{
+    "description": "Towards the end of last year I attended a workshop with my colleagues in ThoughtWorks to discuss the nature of “event-driven” applications. Over the last few years we've been building lots of systems that make a lot of use of events, and they've been often praised, and often damned. Our North American office organized a summit, and ThoughtWorks senior developers from all over the world showed up to share ideas.\nThe biggest outcome of the summit was recognizing that when people talk about “events”, they actually mean some quite different things. So we spent a lot of time trying to tease out what some useful patterns might be. This note is a brief summary of the main ones we identified.",
+    "id": "5d22b62a-99eb-4d84-affa-85921772ae9c",
+    "meta": {
+        "duration": "PT50M6S"
+    },
+    "presenter": {
+        "name": "Martin Fowler"
+    },
+    "slug": "the-many-meanings-of-event-driven-architecture",
+    "source": {
+        "id": "STKCRSUsyP0",
+        "provider": "youtube"
+    },
+    "tag": [
+        "GOTO",
+        "Chicago",
+        "Keynote"
+    ],
+    "title": "The Many Meanings of Event-Driven Architecture",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/STKCRSUsyP0/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/STKCRSUsyP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/STKCRSUsyP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}
