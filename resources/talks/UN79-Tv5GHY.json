@@ -1,0 +1,38 @@
+{
+    "description": "Why do people succeed? Is it because they're smart? Or are they just lucky? Neither. Analyst Richard St. John condenses years of interviews into an unmissable 3-minute slideshow on the real secrets of success.",
+    "id": "c882cac0-2bf6-4782-965e-06f30c93c30d",
+    "meta": {
+        "duration": "PT3M34S"
+    },
+    "presenter": {
+        "name": "Richard St. John"
+    },
+    "slug": "ted-talk-richard-st-johns-8-secrets-of-success",
+    "source": {
+        "id": "UN79-Tv5GHY",
+        "provider": "youtube"
+    },
+    "tag": [
+        "TED",
+        "Success",
+        "Career"
+    ],
+    "title": "8 Secrets Of Success",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/UN79-Tv5GHY/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/UN79-Tv5GHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/UN79-Tv5GHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        }
+    }
+}
