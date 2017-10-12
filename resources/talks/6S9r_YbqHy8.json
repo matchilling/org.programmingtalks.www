@@ -1,0 +1,39 @@
+{
+  "description": "R is a domain-specific language for analyzing data. Why does data analysis need its own DSL? What does R do well and what does it do poorly? How can developers take advantage of R's strengths and mitigate its weaknesses? This talk will give some answers to these questions.",
+  "id": "37c62c46-9d8c-4982-8edf-a5fce9191ae8",
+  "meta": {
+    "duration": "PT38M9S"
+  },
+  "presenter": {
+    "name": "John Cook"
+  },
+  "slug": "the-r-language-the-good-the-bad-and-the-ugly",
+  "source": {
+    "id": "6S9r_YbqHy8",
+    "provider": "youtube"
+  },
+  "tag": [
+    "GOTO Conference",
+    "Aarhus",
+    "R Programming Language",
+    "Statistics"
+  ],
+  "title": "The R Language: The Good The Bad & The Ugly",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/6S9r_YbqHy8/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/6S9r_YbqHy8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/6S9r_YbqHy8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}
