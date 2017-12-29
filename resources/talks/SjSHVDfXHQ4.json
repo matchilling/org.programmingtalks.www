@@ -1,0 +1,39 @@
+{
+  "description": "Math is logical, functional and just ... awesome. Mathemagician Arthur Benjamin explores hidden properties of that weird and wonderful set of numbers, the Fibonacci series. (And reminds you that mathematics can be inspiring, too!)",
+  "id": "343527c3-d4da-407c-8de8-0aeca66190a1",
+  "meta": {
+    "duration": "PT6M25S"
+  },
+  "presenter": {
+    "name": "Arthur Benjamin"
+  },
+  "slug": "the-magic-of-fibonacci-numbers",
+  "source": {
+    "id": "SjSHVDfXHQ4",
+    "provider": "youtube"
+  },
+  "tag": [
+    "TED Talks",
+    "entertainment",
+    "magic",
+    "math"
+  ],
+  "title": "The magic of Fibonacci numbers",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/SjSHVDfXHQ4/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/SjSHVDfXHQ4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/SjSHVDfXHQ4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}
