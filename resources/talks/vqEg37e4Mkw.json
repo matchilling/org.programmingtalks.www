@@ -1,0 +1,38 @@
+{
+  "description": "Over the last decade or so, Refactoring has become a widely used technique to keep a high internal quality for a codebase. However most teams don't make enough use of refactoring because they aren't aware of the various workflows in which you can use it. In this keynote talk from OOP 2014 in Munich, Martin Fowler explores some of these workflows: such as Litter-Pickup Refactoring, Comprehension Refactoring, and Preparatory Refactoring. Martin also reminds people why common justifications for refactoring will sabotage your best efforts. (This talk also has a treatment as an infodeck.)",
+  "id": "98cadc8f-4923-47ca-b04a-fde41e3da655",
+  "meta": {
+    "duration": "PT27M5S"
+  },
+  "presenter": {
+    "name": "Martin Fowler"
+  },
+  "slug": "-workflows-of-refactoring",
+  "source": {
+    "id": "vqEg37e4Mkw",
+    "provider": "youtube"
+  },
+  "tag": [
+    "OOP2014",
+    "Munich",
+    "Refactoring"
+  ],
+  "title": "Workflows of Refactoring",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/vqEg37e4Mkw/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/vqEg37e4Mkw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/vqEg37e4Mkw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}
