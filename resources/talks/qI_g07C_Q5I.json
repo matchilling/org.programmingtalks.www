@@ -1,34 +1,34 @@
 {
-    "description": "Martin gives a rapid introduction to NoSQL databases: where they came from, the nature of the data models they use, and the different way you have to think about consistency. From this he outlines what kinds of circumstances you should consider using them, why they will not make relational databases obsolete, and the important consequence of polyglot persistence.",
-    "id": "9ad1d853-e32b-47ee-b7b1-8493588755c3",
-    "meta": {
-        "duration": "PT54M52S"
+  "description": "Martin gives a rapid introduction to NoSQL databases: where they came from, the nature of the data models they use, and the different way you have to think about consistency. From this he outlines what kinds of circumstances you should consider using them, why they will not make relational databases obsolete, and the important consequence of polyglot persistence.",
+  "id": "9ad1d853-e32b-47ee-b7b1-8493588755c3",
+  "meta": {
+    "duration": "PT54M52S"
+  },
+  "presenter": {
+    "name": "Martin Fowler"
+  },
+  "slug": "introduction-to-nosql",
+  "source": {
+    "id": "qI_g07C_Q5I",
+    "provider": "youtube"
+  },
+  "tag": ["GOTO", "NoSql"],
+  "title": "Introduction to NoSQL",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/qI_g07C_Q5I/default.jpg",
+      "width": 120,
+      "height": 90
     },
-    "presenter": {
-        "name": "Martin Fowlers"
+    "medium": {
+      "url": "https://i.ytimg.com/vi/qI_g07C_Q5I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
     },
-    "slug": "introduction-to-nosql",
-    "source": {
-        "id": "qI_g07C_Q5I",
-        "provider": "youtube"
-    },
-    "tag": ["GOTO", "NoSql"],
-    "title": "Introduction to NoSQL",
-    "thumbnails": {
-        "default": {
-            "url": "https://i.ytimg.com/vi/qI_g07C_Q5I/default.jpg",
-            "width": 120,
-            "height": 90
-        },
-        "medium": {
-            "url": "https://i.ytimg.com/vi/qI_g07C_Q5I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-        },
-        "high": {
-            "url": "https://i.ytimg.com/vi/qI_g07C_Q5I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-        }
+    "high": {
+      "url": "https://i.ytimg.com/vi/qI_g07C_Q5I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
     }
+  }
 }
