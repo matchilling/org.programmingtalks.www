@@ -1,0 +1,28 @@
+{
+  "description": "Integration of Ipython notebook and Julia",
+  "id": "7d19df6f-34f6-42fc-b069-b350acd8b977",
+  "meta": { "duration": "PT26M19S" },
+  "presenter": { "name": null },
+  "slug": "python-and-julia-why-do-we-need-another-language-dwight-j-browne",
+  "source": { "id": "6Q1OiMsik5g", "provider": "youtube" },
+  "tag": ["PyGotham"],
+  "title":
+    "Python and Julia. Why do we need another language? - Dwight J. Browne",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/6Q1OiMsik5g/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/6Q1OiMsik5g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/6Q1OiMsik5g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

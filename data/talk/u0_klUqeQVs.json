@@ -1,0 +1,39 @@
+{
+  "description":
+    "Andy Hunt, co-founder of The Pragmatic Programmers, LLC and a well known programmer, author, and publisher, starts the conference with his take on open source and where we're going.",
+  "id": "a9efd08d-805d-449d-9e4f-5309ac1248e1",
+  "meta": {
+    "duration": "PT24M42S"
+  },
+  "presenter": {
+    "name": "Andy Hunt"
+  },
+  "slug": "open-source-agile-and-your-brain",
+  "source": {
+    "id": "u0_klUqeQVs",
+    "provider": "youtube"
+  },
+  "tag": [
+    "All Things Open Conference 2013",
+    "Pragmatic Programmers",
+    "Keynote"
+  ],
+  "title": "Open Source, Agile, and Your Brain",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/u0_klUqeQVs/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/u0_klUqeQVs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/u0_klUqeQVs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "description":
+    "FOSDEM (Free and Open Source Development European Meeting) is a European event centered around Free and Open Source software development. It is aimed at developers and all interested in the Free and Open Source news in the world. Its goals are to enable developers to meet and to promote the awareness and use of free and open source software. More info at http://fosdem.org",
+  "id": "882129b3-60b1-4dcd-95ee-f49a895d92cd",
+  "meta": { "duration": "PT50M59S" },
+  "presenter": { "name": null },
+  "slug": "implementing-domain-specific-languages-with-llvm",
+  "source": { "id": "1Hwnagof1Wo", "provider": "youtube" },
+  "tag": ["FOSDEM", "FOSDEM2012", "2012", "maintracks", "janson"],
+  "title": "Implementing Domain Specific Languages with LLVM",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/1Hwnagof1Wo/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/1Hwnagof1Wo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/1Hwnagof1Wo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "description":
+    "Some teams are orders of magnitude more effective than others, turning around business solutions in days or even hours. Their secret is a combination of smart technology choices, great development habits and a powerful team dynamic. In this talk Dan describes a number of patterns of behaviour that he's identified working with some great teams, beyond the basics of co-location, stand-ups and pair rotation. You'll gain a new appreciation for old techniques like code reviews, and even working in silos won't seem so bad!",
+  "id": "771aa13a-6b31-44c8-8294-6796a2f4dba6",
+  "meta": {
+    "duration": "PT51M4S"
+  },
+  "presenter": {
+    "name": "Dan North"
+  },
+  "slug": "patterns-of-effective-teams",
+  "source": {
+    "id": "lvs7VEsQzKY",
+    "provider": "youtube"
+  },
+  "tag": ["GOTO Conference 2017", "Agile"],
+  "title": "Patterns of Effective Teams",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/lvs7VEsQzKY/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/lvs7VEsQzKY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/lvs7VEsQzKY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

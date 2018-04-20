@@ -1,0 +1,35 @@
+{
+  "description":
+    "In this keynote speech from JaxConf 2012, Rich Hickey, creator of Clojure and founder of Datomic gives an awesome analysis of the changing way we think about values (not the philosphoical kind) in light of the increasing complexity of information technology and the advent of Big Data. The broad subject of the talk makes it worth watching for almost anyone in the programming world, and was one of the highlights of the JaxConf lineup.",
+  "id": "f12111fe-6c20-4350-af1e-7c2fc1ecc38f",
+  "meta": {
+    "duration": "PT31M44S"
+  },
+  "presenter": {
+    "name": "Rich Hickey"
+  },
+  "slug": "the-value-of-values",
+  "source": {
+    "id": "-6BsiVyC1kM",
+    "provider": "youtube"
+  },
+  "tag": ["JaxConf 2012", "Keynote"],
+  "title": "The Value of Values",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/-6BsiVyC1kM/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/-6BsiVyC1kM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/-6BsiVyC1kM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

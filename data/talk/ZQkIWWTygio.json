@@ -1,0 +1,28 @@
+{
+  "description":
+    "Variants are Not Unions\n\nSome of the most confounding design problems occur when a value can be more than one type of thing. Variants, a.k.a. tagged unions, are an elegant solution to this problem that is not supported in an obvious way in Clojure and is not supported in most mainstream languages or databases. I'll demonstrate how and when to use tagged unions in Clojure, including a pattern-matching destructor and use with core.typed and storage in Datomic.",
+  "id": "2fd5c541-5a72-47a3-ab83-94d15522c98f",
+  "meta": { "duration": "PT37M54S" },
+  "presenter": { "name": null },
+  "slug": "jeanine-adkisson-variants-are-not-unions",
+  "source": { "id": "ZQkIWWTygio", "provider": "youtube" },
+  "tag": ["clojure"],
+  "title": "Jeanine Adkisson - Variants are Not Unions",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/ZQkIWWTygio/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/ZQkIWWTygio/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/ZQkIWWTygio/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

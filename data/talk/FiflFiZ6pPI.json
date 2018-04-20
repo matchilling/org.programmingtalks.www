@@ -1,0 +1,30 @@
+{
+  "description":
+    "Curry On Prague, July 7th, 2015\nhttp://curry-on.org\nhttp://2015.ecoop.org",
+  "id": "b9ccb466-6876-4458-b2d6-97aa44afda8e",
+  "meta": { "duration": "PT39M7S" },
+  "presenter": { "name": null },
+  "slug":
+    "philip-wadler-everything-old-is-new-again-quoted-domain-specific-languages-curry-on",
+  "source": { "id": "FiflFiZ6pPI", "provider": "youtube" },
+  "tag": [],
+  "title":
+    "Philip Wadler - Everything old is new again: Quoted domain specific languages - Curry On",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/FiflFiZ6pPI/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/FiflFiZ6pPI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/FiflFiZ6pPI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

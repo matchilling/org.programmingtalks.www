@@ -1,0 +1,28 @@
+{
+  "description":
+    "Day 1 - C++ has powerful rules for dealing with low-level program structure.  Before a program is ever executed, the compiler determines valuable information about every expression in the source code.  The compiler understands exactly how long each object's resources will be needed (lifetime), whether each expression refers to an object that the program has no other way of accessing (rvalueness), and what operations can be performed on each object (type).  Using examples from C++98 through C++14, this presentation will demonstrate how to write code that works with the compiler's knowledge to increase robustness, efficiency, and clarity.  This presentation will also demonstrate the horrible things that happen when programmers think they can do tasks that are better left to compilers.",
+  "id": "4fb142ac-4c0e-4089-aca8-f220d07f5ca5",
+  "meta": { "duration": "PT1H17M" },
+  "presenter": { "name": null },
+  "slug": "dont-help-the-compiler",
+  "source": { "id": "AKtHxKJRwp4", "provider": "youtube" },
+  "tag": ["c++", "goingnative", "goingnative 2013"],
+  "title": "Don't Help the Compiler",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/AKtHxKJRwp4/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/AKtHxKJRwp4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/AKtHxKJRwp4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

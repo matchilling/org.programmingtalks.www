@@ -1,0 +1,28 @@
+{
+  "description":
+    "Typed Clojure is an optional type system for Clojure. Typed Clojure is being used in production systems to help programmers verify, document and design correct Clojure code.\nIn this talk, we introduce the goals of Typed Clojure and discuss how effectively Typed Clojure works in practice.\nWe give an overview of the kinds of problems being solved today with Typed Clojure, and where your Clojure projects might benefit from a type system like it.\n\nby Ambrose Bonnaire-Sergeant (@ambrosebs)\n\nAmbrose is the creator of Typed Clojure.",
+  "id": "76109eab-3ac5-49e7-904e-55fddab01c02",
+  "meta": { "duration": "PT41M58S" },
+  "presenter": { "name": null },
+  "slug": "typed-clojure-in-practice-by-ambrose-bonnaire-sergeant",
+  "source": { "id": "a0gT0syAXsY", "provider": "youtube" },
+  "tag": ["Clojure (Programming Language)", "Typed Clojure", "Type System"],
+  "title": "\"Typed Clojure in Practice\" by Ambrose Bonnaire Sergeant",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/a0gT0syAXsY/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/a0gT0syAXsY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/a0gT0syAXsY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

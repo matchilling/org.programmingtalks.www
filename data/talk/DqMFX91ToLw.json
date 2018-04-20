@@ -1,0 +1,34 @@
+{
+  "description":
+    "Jafar Husain discusses interesting features that can be used today in JS6, such as Object.observe, async functions and async generators, while also giving a peek at what's being explored for JS7 to make async programming easier.",
+  "id": "328a72f5-2625-4ad3-abd7-90dd168d9b94",
+  "meta": { "duration": "PT1H11M54S" },
+  "presenter": { "name": null },
+  "slug": "netflix-javascript-talks-version-7-the-evolution-of-javascript",
+  "source": { "id": "DqMFX91ToLw", "provider": "youtube" },
+  "tag": [
+    "netflix",
+    "JavaScript",
+    "reactive programming",
+    "Web Development (Interest)",
+    "netflix ui engineering"
+  ],
+  "title": "Netflix JavaScript Talks - Version 7: The Evolution of JavaScript",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/DqMFX91ToLw/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/DqMFX91ToLw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/DqMFX91ToLw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "description":
+    "Most 12-year-olds love playing videogames — but Thomas Suarez taught himself how to create them. After developing iPhone apps like \"Bustin Jeiber,\" a whack-a-mole game, he is now using his skills to help other kids become developers.",
+  "id": "cf4d829b-4aa9-4521-a983-528c4574baae",
+  "meta": {
+    "duration": "PT4M41S"
+  },
+  "presenter": {
+    "name": "Thomas Suarez"
+  },
+  "slug": "a-12-year-old-app-developer",
+  "source": {
+    "id": "Fkd9TWUtFm0",
+    "provider": "youtube"
+  },
+  "tag": ["TEDTalks", "Education"],
+  "title": "Thomas Suarez: A 12-year-old app developer",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/Fkd9TWUtFm0/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/Fkd9TWUtFm0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/Fkd9TWUtFm0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

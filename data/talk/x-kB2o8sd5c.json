@@ -1,0 +1,28 @@
+{
+  "description":
+    "Brandon Rhodes\nWhy did I start using Python in the late 1990s? Was it for any of the reasons that I remain a fan today? In this talk we will explore how Python, even while training us to avoid and become blind to its rough edges, works to teach us ne",
+  "id": "24e415f9-9f57-4660-8099-fe738c31ffab",
+  "meta": { "duration": "PT46M56S" },
+  "presenter": { "name": null },
+  "slug": "a-python-aesthetic-beauty-and-why-i-python",
+  "source": { "id": "x-kB2o8sd5c", "provider": "youtube" },
+  "tag": ["pyconca", "pyconca2012", "BrandonRhodes"],
+  "title": "A Python Æsthetic: Beauty and Why I Python",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/x-kB2o8sd5c/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/x-kB2o8sd5c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/x-kB2o8sd5c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

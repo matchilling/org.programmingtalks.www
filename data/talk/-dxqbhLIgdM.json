@@ -1,0 +1,35 @@
+{
+  "description":
+    "Rust aims to build a solid foundation for building safe software systems faster. We can ensure fewer mistakes enter our code base with immutability by default, no concept of null, and proven memory safety. Rust's state of the art compiler helps developers catch errors as early as possible without paying a penalty at runtime. Developers can write high level code in a modern language without sacrificing expressiveness, development time, or execution speed. We will explore how Rust's concept of Ownership is the key to providing compile-time safety. These guarantees apply even in the face of concurrency, allowing you to easily write multi-threaded programs correctly the first time. Rust 1.0 was released May 15th. Start building better software today.\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/HdB0/",
+  "id": "f706e3f8-b378-4833-aba8-6c11d1455d44",
+  "meta": {
+    "duration": "PT45M2S"
+  },
+  "presenter": {
+    "name": "Alex Burkhart"
+  },
+  "slug": "lambdaconf-2015-in-rust-we-trust",
+  "source": {
+    "id": "-dxqbhLIgdM",
+    "provider": "youtube"
+  },
+  "tag": ["Rust", "LambdaConf 2015"],
+  "title": "In Rust We Trust",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/-dxqbhLIgdM/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/-dxqbhLIgdM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/-dxqbhLIgdM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

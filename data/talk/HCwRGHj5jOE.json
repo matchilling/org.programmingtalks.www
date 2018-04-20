@@ -1,0 +1,28 @@
+{
+  "description":
+    "Joe Armstrong\nHistory of Erlang, right from the horse's mouth.\n\n\nhttp://www.meetup.com/ErlangChicago/events/124283112/\n\nYou are seeing it right! Joe Armstrong, the Father of Erlang will be here, in Chicago! In July! 2013! This is a fantastic opportunity to hang out with one of Computer Science's luminary thinkers and personalities.\n\nJoe will be speaking on \"Sherlock's Last Case\" - from a chapter of his recently released 2nd edition of Programming Erlang.\n\nIf you're even remotely interest",
+  "id": "ae60ed37-97df-49ac-8e9d-8acf4b08e30c",
+  "meta": { "duration": "PT1H20S" },
+  "presenter": { "name": null },
+  "slug": "26-years-with-erlang-or-how-i-got-my-grey-hairs",
+  "source": { "id": "HCwRGHj5jOE", "provider": "youtube" },
+  "tag": ["chicago_erlang_user_group", "july2013", "JoeArmstrong"],
+  "title": "26 years with Erlang or How I got my grey hairs",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/HCwRGHj5jOE/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/HCwRGHj5jOE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/HCwRGHj5jOE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

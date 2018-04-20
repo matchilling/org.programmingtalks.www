@@ -1,0 +1,35 @@
+{
+  "description":
+    "Presented by Madeleine Udell at JuliaCon 2014.\n\nLink to slides: http://goo.gl/Nfy14D\n\nJulia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library. The library, largely written in Julia itself, also integrates mature, best-of-breed C and Fortran libraries for linear algebra, random number generation, signal processing, and string processing. In addition, the Julia developer community is contributing a number of external packages through Julia's built-in package manager at a rapid pace.",
+  "id": "0956f075-6f11-4b3e-8ce6-edee992410cf",
+  "meta": { "duration": "PT40M12S" },
+  "presenter": { "name": null },
+  "slug": "convex-optimization-in-julia",
+  "source": { "id": "SoI0lEaUvTs", "provider": "youtube" },
+  "tag": [
+    "julialang",
+    "technical computing",
+    "scientific computing",
+    "Convex Optimization",
+    "Convex Function",
+    "Mathematical Optimization (Field Of Study)"
+  ],
+  "title": "Convex Optimization in Julia",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/SoI0lEaUvTs/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/SoI0lEaUvTs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/SoI0lEaUvTs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

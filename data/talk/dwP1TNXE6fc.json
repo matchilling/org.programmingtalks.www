@@ -1,0 +1,45 @@
+{
+  "description":
+    "HackHands.com interviews Jafar Husain (Technical Lead at Netflix) about Reactive Programming concepts and it's usage on Netflix.com.\n\nAbout the Interviewee:\nJafar Husain is a highly skilled software developer with twelve-years of experience designing and developing enterprise software for prestigious corporations and organizations. Jafar Husain currently works for Netflix.",
+  "id": "f6aa03a4-e04f-41be-b392-4c31637cdd39",
+  "meta": {
+    "duration": "PT9M18S"
+  },
+  "presenter": {
+    "name": null
+  },
+  "slug": "reactive-programming-overview-jafar-husain-from-netflix",
+  "source": {
+    "id": "dwP1TNXE6fc",
+    "provider": "youtube"
+  },
+  "tag": [
+    "Reactive Programming",
+    "Software",
+    "Netflix (Business Operation)",
+    "Computer Programming (Conference Subject)",
+    "Database (Software Genre)",
+    "nosql",
+    "reactive extensions",
+    "Reactive.io",
+    "Technology"
+  ],
+  "title": "Reactive Programming Overview (Jafar Husain from Netflix)",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/dwP1TNXE6fc/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/dwP1TNXE6fc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/dwP1TNXE6fc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

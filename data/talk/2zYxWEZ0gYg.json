@@ -1,0 +1,35 @@
+{
+  "description":
+    "There are now several frameworks designed to address the demand for \"big agile.\"\n\nIn this talk Jez will explain the flaws in such frameworks, why they so often fail to produce the desired effects, and what we should do instead. He will also address some common organizational obstacles to moving fast at scale: governance, budgeting, and the project paradigm - and discuss how to address them. Warning: this talk will include liberal use of real, statistically sound data.",
+  "id": "42536321-d52a-4ae3-81da-0441dd7a1221",
+  "meta": {
+    "duration": "PT51M2S"
+  },
+  "presenter": {
+    "name": "Jez Humble"
+  },
+  "slug": "why-scaling-agile-doesnt-work",
+  "source": {
+    "id": "2zYxWEZ0gYg",
+    "provider": "youtube"
+  },
+  "tag": ["GOTO Conference", "Agile", "Scrum"],
+  "title": "Why Scaling Agile Doesn't Work",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/2zYxWEZ0gYg/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/2zYxWEZ0gYg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/2zYxWEZ0gYg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

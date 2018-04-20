@@ -1,0 +1,28 @@
+{
+  "description":
+    "Boston Haskell, February 18, 2015\nNikhil builds an Enigma machine. First in Cryptol, then in hardware by way of Haskell.\nSlides and code available here:  https://github.com/rsnikhil/Enigma_Cryptol_Bluespec_BSV.git",
+  "id": "75f64f53-cf77-4c07-9020-4a6fe4eeabd4",
+  "meta": { "duration": "PT59M41S" },
+  "presenter": { "name": null },
+  "slug": "rishiyur-s-nikhil-enigmatic-haskell-haskellish-enigma",
+  "source": { "id": "9-u2n4GgcVw", "provider": "youtube" },
+  "tag": ["Haskell"],
+  "title": "Rishiyur S. Nikhil - Enigmatic Haskell, Haskellish Enigma",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/9-u2n4GgcVw/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/9-u2n4GgcVw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/9-u2n4GgcVw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

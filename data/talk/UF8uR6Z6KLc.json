@@ -1,0 +1,41 @@
+{
+  "description":
+    "Drawing from some of the most pivotal points in his life, Steve Jobs, chief executive officer and co-founder of Apple Computer and of Pixar Animation Studios, urged graduates to pursue their dreams and see the opportunities in life's setbacks.",
+  "id": "cc2af1c0-9354-4d3d-afc6-e1e068dd9206",
+  "meta": {
+    "duration": "PT15M5S"
+  },
+  "presenter": {
+    "name": "Steve Jobs"
+  },
+  "slug": "steve-jobs-stanford-commencement-address",
+  "source": {
+    "id": "UF8uR6Z6KLc",
+    "provider": "youtube"
+  },
+  "tag": [
+    "Stanford University",
+    "Educational",
+    "Keynote",
+    "Inspiring",
+    "Commencement Speech"
+  ],
+  "title": "Steve Jobs' 2005 Stanford Commencement Address",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/UF8uR6Z6KLc/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/UF8uR6Z6KLc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/UF8uR6Z6KLc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

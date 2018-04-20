@@ -1,0 +1,28 @@
+{
+  "description":
+    "Dave Beazley's presentation from PyCon'2010 in Atlanta Georgia.   This is a mirror of the original presentation hosted at http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2010-understanding-the-python-gil-82-3273690.",
+  "id": "2f6e96f2-151f-4f85-9006-8f7435b96ee3",
+  "meta": { "duration": "PT46M10S" },
+  "presenter": { "name": null },
+  "slug": "understanding-the-python-gil",
+  "source": { "id": "Obt-vMVdM8s", "provider": "youtube" },
+  "tag": ["Python (programming Language)"],
+  "title": "Understanding the Python GIL",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/Obt-vMVdM8s/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/Obt-vMVdM8s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/Obt-vMVdM8s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

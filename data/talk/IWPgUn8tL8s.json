@@ -1,0 +1,35 @@
+{
+  "description":
+    "As developers, we are asked to absorb even more information than ever before. More APIs, more documentation, more patterns, more layers of abstraction. Now Twitter and Facebook compete with Email and Texts for our attention, keeping us up-to-date on our friends' dietary details and movie attendance second-by-second. Does all this information take a toll on your psyche or sharpen the saw? Is it a matter of finding the right tools and filters to capture what you need, or do you just need to unplug? Is ZEB (zero email bounce) a myth or are there substantive techniques for prioritizing your live as a developer? Join Scott Hanselman as we explore this topic...perhaps we'll crowd-source the answers!",
+  "id": "5500a6b0-eeda-4877-857b-9ed5efdca082",
+  "meta": {
+    "duration": "PT1H1M53S"
+  },
+  "presenter": {
+    "name": "Scott Hanselman"
+  },
+  "slug": "its-not-what-you-read-its-what-you-ignore",
+  "source": {
+    "id": "IWPgUn8tL8s",
+    "provider": "youtube"
+  },
+  "tag": ["devday", "productivity"],
+  "title": "It's not what you read, it's what you ignore",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/IWPgUn8tL8s/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/IWPgUn8tL8s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/IWPgUn8tL8s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

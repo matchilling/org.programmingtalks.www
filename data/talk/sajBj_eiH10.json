@@ -1,0 +1,39 @@
+{
+  "description": " ",
+  "id": "4a397ec6-d185-466f-8138-b6337c064ebc",
+  "meta": { "duration": "PT46M47S" },
+  "presenter": { "name": null },
+  "slug": "using-c11-to-speed-up-your-qt-5-programs-marc-mutz",
+  "source": { "id": "sajBj_eiH10", "provider": "youtube" },
+  "tag": [
+    "Using",
+    "C++11",
+    "to",
+    "speed",
+    "up",
+    "your",
+    "Qt",
+    "5",
+    "programs",
+    "Marc",
+    "Mutz"
+  ],
+  "title": "Using C++11 to speed up your Qt 5 programs   Marc Mutz",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/sajBj_eiH10/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/sajBj_eiH10/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/sajBj_eiH10/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "description":
+    "Here we see Steve Jobs & the almost bankrupt at the time Apple Computer making a temporary deal with Bill Gates & Microsoft. The crowd was not too happy about it.",
+  "id": "ecb4ede7-b404-4e30-b3ed-ab32d9dc42a9",
+  "meta": {
+    "duration": "PT12M6S"
+  },
+  "presenter": {
+    "name": "Steve Jobs"
+  },
+  "slug": "macworld-boston-1997-the-microsoft-deal",
+  "source": {
+    "id": "WxOp5mBY9IY",
+    "provider": "youtube"
+  },
+  "tag": ["Apple", "Macworld", "Keynote", "Microsoft"],
+  "title": "Macworld Boston 1997-The Microsoft Deal",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/WxOp5mBY9IY/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/WxOp5mBY9IY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/WxOp5mBY9IY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

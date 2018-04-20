@@ -1,0 +1,35 @@
+{
+  "description":
+    "The controversial website WikiLeaks collects and posts highly classified documents and video. Founder Julian Assange, who's reportedly being sought for questioning by US authorities, talks to TED's Chris Anderson about how the site operates, what it has accomplished -- and what drives him. The interview includes graphic footage of a recent US airstrike in Baghdad.",
+  "id": "3b54c645-320c-4d82-91ea-ba551330039e",
+  "meta": {
+    "duration": "PT19M34S"
+  },
+  "presenter": {
+    "name": "Julian Assange"
+  },
+  "slug": "why-the-world-needs-wikileaks",
+  "source": {
+    "id": "HNOnvp5t7Do",
+    "provider": "youtube"
+  },
+  "tag": ["TEDTalks", "WikiLeaks"],
+  "title": "Why the world needs WikiLeaks",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/HNOnvp5t7Do/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/HNOnvp5t7Do/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/HNOnvp5t7Do/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

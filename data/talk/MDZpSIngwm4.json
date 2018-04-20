@@ -1,0 +1,35 @@
+{
+  "description":
+    "Rationale and high level design of Om Next.\n\nAbout the speaker: David Nolen is a software engineer for Cognitect. He enjoys making music, writing JavaScript, writing ClojureScript, and exploring new approaches to user interface programming.",
+  "id": "e9ccf1d3-3983-4401-af18-c7a13056d077",
+  "meta": {
+    "duration": "PT39M23S"
+  },
+  "presenter": {
+    "name": "David Nolen"
+  },
+  "slug": "om-next-david-nolen",
+  "source": {
+    "id": "MDZpSIngwm4",
+    "provider": "youtube"
+  },
+  "tag": ["Clojure"],
+  "title": "Om Next",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/MDZpSIngwm4/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/MDZpSIngwm4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/MDZpSIngwm4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

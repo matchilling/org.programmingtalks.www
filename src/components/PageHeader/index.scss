@@ -1,0 +1,72 @@
+header {
+  padding: 2em 0 3em;
+  background-color: #222;
+
+  a {
+    color: #ffffff;
+    text-decoration: none;
+
+    h1 {
+      &::before {
+        content: '>_';
+        margin-right: 25px;
+      }
+
+      &:hover {
+        color: #ffffff;
+        text-decoration: none;
+      }
+      color: #ffffff;
+      font-family: monospace;
+      font-size: 1.0em;
+      margin: 0 auto;
+      font-weight: 400;
+      width: 16em;
+      height: 1.3em;
+      -webkit-animation: typing 5s steps(30, end), blink-caret 1.5s step-end infinite;
+      -moz-animation: typing 5s steps(30, end), blink-caret 1.5s step-end infinite;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 0.15em solid;
+      text-align: center;
+    }
+  }
+  @-webkit-keyframes typing {
+    from {
+      width: 0;
+    }
+
+    to {
+      width: 16.3em;
+    }
+  }
+  @-moz-keyframes typing {
+    from {
+      width: 0;
+    }
+
+    to {
+      width: 16.3em;
+    }
+  }
+  @-webkit-keyframes blink-caret {
+    from,
+    to {
+      border-color: transparent;
+    }
+
+    50% {
+      border-color: #ffffff;
+    }
+  }
+  @-moz-keyframes blink-caret {
+    from,
+    to {
+      border-color: transparent;
+    }
+
+    50% {
+      border-color: #ffffff;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "description":
+    "David Beazley presentation on the Python GIL, presented at the Chicago Python User's group meeting, June, 2009.   This is a mirror of the original content at http://blip.tv/carlfk/mindblowing-python-gil-2243379",
+  "id": "e4b2cd42-d687-41d6-a74b-6ab6b843df9b",
+  "meta": { "duration": "PT1H1M3S" },
+  "presenter": { "name": null },
+  "slug": "inside-the-python-gil",
+  "source": { "id": "ph374fJqFPE", "provider": "youtube" },
+  "tag": ["Python (programming Language)"],
+  "title": "Inside the Python GIL.",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/ph374fJqFPE/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/ph374fJqFPE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/ph374fJqFPE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

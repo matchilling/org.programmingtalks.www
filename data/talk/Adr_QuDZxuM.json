@@ -1,0 +1,28 @@
+{
+  "description":
+    "Walker Hale\nThis talk covers the power and metaprogramming features of Python that cater to mad scientists and evil geniuses. This will also be of interest to others who just want to use of Python in a more power (hungry) way. The core concept is tha",
+  "id": "a5d3775b-6db8-47b1-8e31-808021d394b9",
+  "meta": { "duration": "PT37M13S" },
+  "presenter": { "name": null },
+  "slug": "python-metaprogramming-for-mad-scientists-and-evil-geniuses",
+  "source": { "id": "Adr_QuDZxuM", "provider": "youtube" },
+  "tag": ["psf", "python pycon pycon2012", "pycon_2012", "WalkerHale"],
+  "title": "Python Metaprogramming for Mad Scientists and Evil Geniuses",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/Adr_QuDZxuM/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/Adr_QuDZxuM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/Adr_QuDZxuM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

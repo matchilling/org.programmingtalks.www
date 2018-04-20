@@ -1,0 +1,34 @@
+{
+  "description":
+    "The D Programming Language Conference, May 21-23 2014, Menlo Park, CA.",
+  "id": "f44a7aea-5dc5-4cb3-9275-7161b8c7f52e",
+  "meta": { "duration": "PT48M37S" },
+  "presenter": { "name": null },
+  "slug": "dconf-2014-sdc-a-d-compiler-as-a-library-by-amaury-sechet",
+  "source": { "id": "AhR4PSExnqk", "provider": "youtube" },
+  "tag": [
+    "D programming language",
+    "programming languages",
+    "programming",
+    "dconf",
+    "dlang"
+  ],
+  "title": "DConf 2014: SDC, a D Compiler as a Library by Amaury Sechet",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/AhR4PSExnqk/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/AhR4PSExnqk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/AhR4PSExnqk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

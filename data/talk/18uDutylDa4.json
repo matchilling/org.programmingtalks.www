@@ -1,0 +1,35 @@
+{
+  "description":
+    "Facebook COO Sheryl Sandberg looks at why a smaller percentage of women than men reach the top of their professions -- and offers 3 powerful pieces of advice to women aiming for the C-suite.",
+  "id": "54a79d10-d23a-4433-b6cb-16012b557823",
+  "meta": {
+    "duration": "PT15M29S"
+  },
+  "presenter": {
+    "name": "Sheryl Sandberg"
+  },
+  "slug": "why-we-have-too-few-women-leaders",
+  "source": {
+    "id": "18uDutylDa4",
+    "provider": "youtube"
+  },
+  "tag": ["TEDTalks", "Career", "Feminism"],
+  "title": "Why we have too few women leaders",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/18uDutylDa4/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/18uDutylDa4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/18uDutylDa4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

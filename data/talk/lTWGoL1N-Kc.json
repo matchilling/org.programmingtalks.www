@@ -1,0 +1,27 @@
+{
+  "description": null,
+  "id": "592ed7e0-1ec2-49b1-ab3e-64d78a569581",
+  "meta": { "duration": "PT46M10S" },
+  "presenter": { "name": null },
+  "slug": "douglas-crockford-really-javascript",
+  "source": { "id": "lTWGoL1N-Kc", "provider": "youtube" },
+  "tag": ["jsconf"],
+  "title": "Douglas Crockford: Really. JavaScript.",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/lTWGoL1N-Kc/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/lTWGoL1N-Kc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/lTWGoL1N-Kc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

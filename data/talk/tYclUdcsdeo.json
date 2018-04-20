@@ -1,0 +1,35 @@
+{
+  "description":
+    "In the fall of 2011 Peter Norvig taught a class with Sebastian Thrun on artificial intelligence at Stanford attended by 175 students in situ -- and over 100,000 via an interactive webcast. He shares what he learned about teaching to a global classroom.",
+  "id": "97183daa-6f56-487c-8572-a34c0de7ac23",
+  "meta": {
+    "duration": "PT6M12S"
+  },
+  "presenter": {
+    "name": "Peter Norvig"
+  },
+  "slug": "the-100000-student-classroom",
+  "source": {
+    "id": "tYclUdcsdeo",
+    "provider": "youtube"
+  },
+  "tag": ["TEDtalks", "Inspiring"],
+  "title": "The 100,000-student classroom",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/tYclUdcsdeo/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/tYclUdcsdeo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/tYclUdcsdeo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

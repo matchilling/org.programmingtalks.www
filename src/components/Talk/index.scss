@@ -1,0 +1,92 @@
+@import './../../styles/color';
+
+.talk-info {
+  background-color: $brand-white;
+  border: 1px solid $brand-grey;
+  border-radius: 5px;
+  margin: 0 0 1.5em;
+  padding: 5% 25px;
+
+  .talk-description {
+    margin: 0.5em 0;
+    padding: 0;
+
+    img {
+      float: left;
+      margin: 0 10px 10px 0;
+      vertical-align: middle;
+    }
+  }
+
+  .talk-title {
+    font-size: 22px;
+    margin: 0 0 10px;
+    padding: 0;
+
+    a {
+      color: $brand-black;
+      text-decoration: none;
+
+      &:hover {
+        color: $brand-blue-light;
+      }
+    }
+  }
+
+  .talk-meta {
+    font-size: 80%;
+    margin: 0.5em 0 0.8em;
+
+    .talk-duration {
+      display: inline-block;
+      margin: 0 10px 0 0;
+
+      &::before {
+        height: 13px;
+        width: 13px;
+        display: inline-block;
+        content: '';
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAEG0lEQVQ4EQEQBO/7AAAAAAAAAAAAAAAAAAAAAAC5ubk6tbW1obW1td+0tLT9tLS0/bS0tOG1tbWjubm5PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+vr4Mtra2pbOzs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/tbW1p76+vgwAAAAAAAAAAAAAAAAAwMDACrW1tcW5ubletra2m7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/tLS0y8DAwA4AAAAAAAAAAAC2trafs7Oz/7S0tMXExMQMtbW1wbOzs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/tbW1rQAAAAAAurq6NLOzs/+zs7P/s7Oz/7a2tp+8vLwWtLS037Ozs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/ubm5QgC1tbWbs7Oz/7Ozs/+zs7P/s7Oz/7e3t3C5ubkws7Oz87Ozs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+1tbWrALS0tNuzs7P/s7Oz/7Ozs/+zs7P/s7Oz+7i4uEa4uLhUs7Oz/bOzs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7S0tO0AtLS0+7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz7bq6uiS3t7dItbW1rbOzs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/wC0tLT7s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/tra2pQAAAAC8vLwis7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/ALS0tNuzs7P/s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+3t7d6ubm5JrW1ta+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7S0tOsAtbW1m7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/tbW1w8LCwg60tLTXs7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/tbW1qwC6uro2s7Oz/7Ozs/+zs7P/s7Oz/7Ozs++7u7sgtra2l7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+5ublGAAAAAAC1tbWjs7Oz/7Ozs/+zs7P/t7e3bri4uE6zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/tbW1tQAAAAAAAAAAAL6+vgy1tbXHs7Oz/7Ozs/+0tLTps7Oz77Ozs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7S0tNm8vLwUAAAAAAAAAAAAAAAAAL6+vgy1tbWls7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+zs7P/s7Oz/7Ozs/+1tbW1vLy8FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5ublAtbW1rbS0tO+zs7P/s7Oz/7S0tO+1tbWtubm5RgAAAAAAAAAAAAAAAAAAAADDj5GUWULQcwAAAABJRU5ErkJggg==");
+        background-size: cover;
+        top: 2px;
+        position: relative;
+        margin-right: 5px;
+      }
+    }
+
+    .talk-presenter {
+      display: inline-block;
+      margin: 0 10px 0 0;
+
+      &::before {
+        color: $brand-grey-dark;
+        content: 'By: ';
+      }
+
+      a {
+        color: $brand-black;
+      }
+    }
+
+    .talk-tag-list {
+      margin: 0;
+      padding: 0;
+      display: inline-block;
+
+      .talk-tag-list-item {
+        font-size: 80%;
+        display: inline-block;
+        margin: 0 5px 5px 0;
+        background-color: $brand-grey-light;
+        padding: 3px 4px;
+        border-radius: 3px;
+        text-transform: capitalize;
+
+        a {
+          color: $brand-black;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
