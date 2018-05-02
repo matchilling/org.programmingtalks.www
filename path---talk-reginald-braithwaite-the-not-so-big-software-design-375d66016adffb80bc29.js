@@ -1,2 +1,0 @@
-webpackJsonp([0xaee7ae9521d6],{3126:function(e,t){e.exports={data:{talkJson:{description:null,meta:{duration:"PT47M31S"},presenter:{name:null},slug:"reginald-braithwaite-the-not-so-big-software-design",source:{id:"arsK-CN5YDg",provider:"youtube"},tag:[],title:"Reginald Braithwaite - The Not-So-Big Software Design"},allTalkJson:null},pathContext:{slug:"reginald-braithwaite-the-not-so-big-software-design",tags:[]}}}});
-//# sourceMappingURL=path---talk-reginald-braithwaite-the-not-so-big-software-design-375d66016adffb80bc29.js.map
