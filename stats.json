@@ -5,8 +5,8 @@
       "path---tag-elixirconfeu-82d8351fe4faa7d0e308.js.map"
     ],
     "path---tag-clojure": [
-      "path---tag-clojure-6460bdc0111999903cf2.js",
-      "path---tag-clojure-6460bdc0111999903cf2.js.map"
+      "path---tag-clojure-e238b0dbef607f2de791.js",
+      "path---tag-clojure-e238b0dbef607f2de791.js.map"
     ],
     "path---tag-product-web": [
       "path---tag-product-web-17d76cd2d40aba1fa0dd.js",
@@ -1233,8 +1233,8 @@
       "path---tag-open-source-convention-ac5659bfb3e1bce52ec9.js.map"
     ],
     "path---speaker-rich-hickey": [
-      "path---speaker-rich-hickey-b8623ac9225dddd71137.js",
-      "path---speaker-rich-hickey-b8623ac9225dddd71137.js.map"
+      "path---speaker-rich-hickey-ebb153cf026779b476f0.js",
+      "path---speaker-rich-hickey-ebb153cf026779b476f0.js.map"
     ],
     "path---tag-computing": [
       "path---tag-computing-298004513f96bc8d04ab.js",
@@ -1885,8 +1885,8 @@
       "path---tag-sopa-d2d75c9da8a8e460c667.js.map"
     ],
     "path---talk-steve-jobs-stanford-commencement-address": [
-      "path---talk-steve-jobs-stanford-commencement-address-d67162b41e1b38240d02.js",
-      "path---talk-steve-jobs-stanford-commencement-address-d67162b41e1b38240d02.js.map"
+      "path---talk-steve-jobs-stanford-commencement-address-23349504ba6929828744.js",
+      "path---talk-steve-jobs-stanford-commencement-address-23349504ba6929828744.js.map"
     ],
     "path---tag-golang": [
       "path---tag-golang-6f5b20f62546ec09c079.js",
@@ -2081,8 +2081,8 @@
       "path---tag-bram-verburg-0c5869c5269aa0c7825b.js.map"
     ],
     "path---talk-transducers": [
-      "path---talk-transducers-3a51943672287fac8400.js",
-      "path---talk-transducers-3a51943672287fac8400.js.map"
+      "path---talk-transducers-b4c8609ae09951602ab1.js",
+      "path---talk-transducers-b4c8609ae09951602ab1.js.map"
     ],
     "path---tag-example": [
       "path---tag-example-e24f2c4809f434583eeb.js",
@@ -2869,8 +2869,8 @@
       "path---talk-andreas-gal-j-2-mejs-a-multi-threaded-java-vm-in-javascript-or-jsconfar-2014-f4743efc1078f408412f.js.map"
     ],
     "path---index": [
-      "path---index-bb69d370eee055552686.js",
-      "path---index-bb69d370eee055552686.js.map"
+      "path---index-cc8b319f70d07bb76806.js",
+      "path---index-cc8b319f70d07bb76806.js.map"
     ],
     "path---tag-spotify": [
       "path---tag-spotify-442a3cb3c2b51de7a8f4.js",
@@ -3057,8 +3057,8 @@
       "path---talk-python-and-julia-why-do-we-need-another-language-dwight-j-browne-6d0a80422cbcbe1352c1.js.map"
     ],
     "path---talk-rethinking-design-risk-and-software": [
-      "path---talk-rethinking-design-risk-and-software-953b7e35c289a785408c.js",
-      "path---talk-rethinking-design-risk-and-software-953b7e35c289a785408c.js.map"
+      "path---talk-rethinking-design-risk-and-software-a6392dd8c41a3560a27b.js",
+      "path---talk-rethinking-design-risk-and-software-a6392dd8c41a3560a27b.js.map"
     ],
     "path---tag-space": [
       "path---tag-space-c0647e34e5cd23eb6e40.js",
@@ -3177,8 +3177,8 @@
       "path---tag-effective-56f72b03bded67223587.js.map"
     ],
     "path---talk-transducers-from-clojure-to-c": [
-      "path---talk-transducers-from-clojure-to-c-7a10c04d64dbfcda63e4.js",
-      "path---talk-transducers-from-clojure-to-c-7a10c04d64dbfcda63e4.js.map"
+      "path---talk-transducers-from-clojure-to-c-3c6dee2edf1ad21d7198.js",
+      "path---talk-transducers-from-clojure-to-c-3c6dee2edf1ad21d7198.js.map"
     ],
     "path---tag-yeoman": [
       "path---tag-yeoman-d825246d4a478c4604de.js",
@@ -3765,8 +3765,8 @@
       "path---tag-goingnative-2013-129e0cdfff492b3167ab.js.map"
     ],
     "path---talk-why-google-glass": [
-      "path---talk-why-google-glass-a9f77c65752b73332b07.js",
-      "path---talk-why-google-glass-a9f77c65752b73332b07.js.map"
+      "path---talk-why-google-glass-adc07fa52188d6a19195.js",
+      "path---talk-why-google-glass-adc07fa52188d6a19195.js.map"
     ],
     "path---tag-gotoo-conference": [
       "path---tag-gotoo-conference-0d894039fa957338bbb5.js",
@@ -4201,8 +4201,8 @@
       "path---talk-parallax-performance-3054179db35d9a407394.js.map"
     ],
     "path---tag-inspiring": [
-      "path---tag-inspiring-d3d9807562a2d567f51f.js",
-      "path---tag-inspiring-d3d9807562a2d567f51f.js.map"
+      "path---tag-inspiring-7d72858a1e97375f51e7.js",
+      "path---tag-inspiring-7d72858a1e97375f51e7.js.map"
     ],
     "path---tag-minify": [
       "path---tag-minify-f605eaf900e3bc9c8c99.js",
@@ -4529,8 +4529,8 @@
       "path---tag-event-video-recording-108678e721ff65477ae0.js.map"
     ],
     "path---talk-making-games-at-runtime-with-clojure": [
-      "path---talk-making-games-at-runtime-with-clojure-86a887c38b850f7c6e81.js",
-      "path---talk-making-games-at-runtime-with-clojure-86a887c38b850f7c6e81.js.map"
+      "path---talk-making-games-at-runtime-with-clojure-69fa5ef4be102cf49dd7.js",
+      "path---talk-making-games-at-runtime-with-clojure-69fa5ef4be102cf49dd7.js.map"
     ],
     "path---speaker-vincent-batts": [
       "path---speaker-vincent-batts-0b18ee3654d18bc2127e.js",
@@ -4633,8 +4633,8 @@
       "path---tag-operating-system-software-genre-92b9fdbea0f7713d429a.js.map"
     ],
     "path---talk-the-language-of-the-system": [
-      "path---talk-the-language-of-the-system-3e96e70b807086101737.js",
-      "path---talk-the-language-of-the-system-3e96e70b807086101737.js.map"
+      "path---talk-the-language-of-the-system-87ab2c85a7373e2cd8b0.js",
+      "path---talk-the-language-of-the-system-87ab2c85a7373e2cd8b0.js.map"
     ],
     "path---tag-dana-s-scott": [
       "path---tag-dana-s-scott-468f231db0986b6e8a2b.js",
@@ -4693,8 +4693,8 @@
       "path---tag-canada-d5f19f65d22de2363595.js.map"
     ],
     "app": [
-      "app-001c198538c115ff7990.js",
-      "app-001c198538c115ff7990.js.map"
+      "app-7be9eb008a2483e5f0ef.js",
+      "app-7be9eb008a2483e5f0ef.js.map"
     ],
     "path---tag-mutz": [
       "path---tag-mutz-0d27521299d25a50c22f.js",
@@ -4745,8 +4745,8 @@
       "path---tag-the-perfect-job-0446eaa0acdb96627a8c.js.map"
     ],
     "path---talk-john-papa-10-angularjs-patterns-code-on-the-beach-2014": [
-      "path---talk-john-papa-10-angularjs-patterns-code-on-the-beach-2014-355201ec796d108742d5.js",
-      "path---talk-john-papa-10-angularjs-patterns-code-on-the-beach-2014-355201ec796d108742d5.js.map"
+      "path---talk-john-papa-10-angularjs-patterns-code-on-the-beach-2014-f33a1e6a37d7145780a2.js",
+      "path---talk-john-papa-10-angularjs-patterns-code-on-the-beach-2014-f33a1e6a37d7145780a2.js.map"
     ],
     "path---tag-beach": [
       "path---tag-beach-7641049c3cb11ccd45e7.js",
@@ -5237,8 +5237,8 @@
       "path---tag-database-50d8f79e3ab060a97b45.js.map"
     ],
     "path---talk-coreasync-for-asynchronous-programming": [
-      "path---talk-coreasync-for-asynchronous-programming-8cd436a96419e8f0ebf8.js",
-      "path---talk-coreasync-for-asynchronous-programming-8cd436a96419e8f0ebf8.js.map"
+      "path---talk-coreasync-for-asynchronous-programming-69ac33122903844176e9.js",
+      "path---talk-coreasync-for-asynchronous-programming-69ac33122903844176e9.js.map"
     ],
     "path---tag-chandler-carruth": [
       "path---tag-chandler-carruth-f6991382b5ecdfa0d421.js",
@@ -5289,8 +5289,8 @@
       "path---tag-django-35acf1f15856d54ad3d5.js.map"
     ],
     "path---talk-om-next-david-nolen": [
-      "path---talk-om-next-david-nolen-28dd247849c16d8f5f32.js",
-      "path---talk-om-next-david-nolen-28dd247849c16d8f5f32.js.map"
+      "path---talk-om-next-david-nolen-57312cfa3620f57935ed.js",
+      "path---talk-om-next-david-nolen-57312cfa3620f57935ed.js.map"
     ],
     "path---tag-occasion": [
       "path---tag-occasion-18d281068e43b03e25c1.js",
@@ -5333,8 +5333,8 @@
       "path---tag-optimization-tips-92606c159347eedafbca.js.map"
     ],
     "path---talk-clojure-concurrency": [
-      "path---talk-clojure-concurrency-e253d50e54bc1eac0fef.js",
-      "path---talk-clojure-concurrency-e253d50e54bc1eac0fef.js.map"
+      "path---talk-clojure-concurrency-6f8e642185aa9d3f7050.js",
+      "path---talk-clojure-concurrency-6f8e642185aa9d3f7050.js.map"
     ],
     "path---tag-tricks": [
       "path---tag-tricks-b6495b20387d01f1c818.js",
