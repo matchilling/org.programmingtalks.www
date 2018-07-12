@@ -1005,8 +1005,8 @@
       "path---tag-julia-6d5f91b17fc984c8fe53.js.map"
     ],
     "path---speaker-kevlin-henney": [
-      "path---speaker-kevlin-henney-f46f80bb39ff115c512a.js",
-      "path---speaker-kevlin-henney-f46f80bb39ff115c512a.js.map"
+      "path---speaker-kevlin-henney-dbca2cccd6683da0237a.js",
+      "path---speaker-kevlin-henney-dbca2cccd6683da0237a.js.map"
     ],
     "path---talk-propositions-as-types-by-philip-wadler": [
       "path---talk-propositions-as-types-by-philip-wadler-dadb1ffc4d18d7de7f8d.js",
@@ -1976,6 +1976,10 @@
       "path---tag-stanford-university-64ec519337a54d6a0794.js",
       "path---tag-stanford-university-64ec519337a54d6a0794.js.map"
     ],
+    "path---talk-old-is-the-new-new": [
+      "path---talk-old-is-the-new-new-3a641d3c9f629fe0272e.js",
+      "path---talk-old-is-the-new-new-3a641d3c9f629fe0272e.js.map"
+    ],
     "path---tag-dbx-conference-2013": [
       "path---tag-dbx-conference-2013-cae315748d3a9e9ca847.js",
       "path---tag-dbx-conference-2013-cae315748d3a9e9ca847.js.map"
@@ -2545,8 +2549,8 @@
       "path---tag-software-gr-9a8a682ddcdae2fb6c6a.js.map"
     ],
     "path---talk-deconstructing-the-database": [
-      "path---talk-deconstructing-the-database-22477f9c7256a90754ee.js",
-      "path---talk-deconstructing-the-database-22477f9c7256a90754ee.js.map"
+      "path---talk-deconstructing-the-database-ed01ece0e2f39b9372b0.js",
+      "path---talk-deconstructing-the-database-ed01ece0e2f39b9372b0.js.map"
     ],
     "path---tag-dconf-2017": [
       "path---tag-dconf-2017-27ea17b3749af67efa0d.js",
@@ -2885,8 +2889,8 @@
       "path---talk-andreas-gal-j-2-mejs-a-multi-threaded-java-vm-in-javascript-or-jsconfar-2014-f4743efc1078f408412f.js.map"
     ],
     "path---index": [
-      "path---index-3f8b8341b63b0507bede.js",
-      "path---index-3f8b8341b63b0507bede.js.map"
+      "path---index-8ad2ca3393b569f10502.js",
+      "path---index-8ad2ca3393b569f10502.js.map"
     ],
     "path---tag-spotify": [
       "path---tag-spotify-442a3cb3c2b51de7a8f4.js",
@@ -3661,8 +3665,8 @@
       "path---tag-mathematical-optimization-field-of-study-30dd88ed5a1912c11618.js.map"
     ],
     "path---tag-keynote": [
-      "path---tag-keynote-160e096341eaa9d570a2.js",
-      "path---tag-keynote-160e096341eaa9d570a2.js.map"
+      "path---tag-keynote-3f5a542cae91cea23e78.js",
+      "path---tag-keynote-3f5a542cae91cea23e78.js.map"
     ],
     "path---tag-asynchronous-programming": [
       "path---tag-asynchronous-programming-9b7661add5cb08ab1e2d.js",
@@ -3821,8 +3825,8 @@
       "path---talk-superoptimizing-llvm-52ec63e5f7c62f6d7421.js.map"
     ],
     "path---tag-architecture": [
-      "path---tag-architecture-9e2426a91ea51ded3c0c.js",
-      "path---tag-architecture-9e2426a91ea51ded3c0c.js.map"
+      "path---tag-architecture-b2ea682f90c015b1a250.js",
+      "path---tag-architecture-b2ea682f90c015b1a250.js.map"
     ],
     "path---tag-progressive-web-app-summit-2016": [
       "path---tag-progressive-web-app-summit-2016-72c3bb5459ad88117203.js",
@@ -4123,6 +4127,10 @@
     "path---talk-whence-complexity-michael-nygard": [
       "path---talk-whence-complexity-michael-nygard-aaa393e08bf06d599d84.js",
       "path---talk-whence-complexity-michael-nygard-aaa393e08bf06d599d84.js.map"
+    ],
+    "path---tag-languages": [
+      "path---tag-languages-31ea374ccabdc6a64be4.js",
+      "path---tag-languages-31ea374ccabdc6a64be4.js.map"
     ],
     "path---talk-parsing-with-derivatives": [
       "path---talk-parsing-with-derivatives-a778d1d46bb26137326e.js",
@@ -4693,8 +4701,8 @@
       "path---tag-emberjs-20-b888536fb16c8bfd2608.js.map"
     ],
     "path---tag-goto-conference": [
-      "path---tag-goto-conference-ccacd49caa96c7c720ac.js",
-      "path---tag-goto-conference-ccacd49caa96c7c720ac.js.map"
+      "path---tag-goto-conference-c4771e83ca02e37c0cce.js",
+      "path---tag-goto-conference-c4771e83ca02e37c0cce.js.map"
     ],
     "path---tag-cppcon-2015": [
       "path---tag-cppcon-2015-45d2f2850ab066c82003.js",
@@ -4717,8 +4725,8 @@
       "path---tag-canada-d5f19f65d22de2363595.js.map"
     ],
     "app": [
-      "app-fda416cf5331589baf9d.js",
-      "app-fda416cf5331589baf9d.js.map"
+      "app-e7bf032a07acc42a9deb.js",
+      "app-e7bf032a07acc42a9deb.js.map"
     ],
     "path---tag-mutz": [
       "path---tag-mutz-0d27521299d25a50c22f.js",
