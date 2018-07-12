@@ -869,8 +869,8 @@
       "path---talk-the-value-of-values-fd8baa7ca9866cd2a340.js.map"
     ],
     "path---talk-high-performance-systems-in-go-lang": [
-      "path---talk-high-performance-systems-in-go-lang-9727314073e4742133a3.js",
-      "path---talk-high-performance-systems-in-go-lang-9727314073e4742133a3.js.map"
+      "path---talk-high-performance-systems-in-go-lang-fb9d24576b7da5fa6b08.js",
+      "path---talk-high-performance-systems-in-go-lang-fb9d24576b7da5fa6b08.js.map"
     ],
     "path---tag-contest": [
       "path---tag-contest-ea94c4a2753da8c87429.js",
@@ -1345,8 +1345,8 @@
       "path---tag-marc-02c1f482b9909b94f866.js.map"
     ],
     "path---talk-golang-the-good-the-bad-and-the-ugly": [
-      "path---talk-golang-the-good-the-bad-and-the-ugly-0997cebdd0100a029b90.js",
-      "path---talk-golang-the-good-the-bad-and-the-ugly-0997cebdd0100a029b90.js.map"
+      "path---talk-golang-the-good-the-bad-and-the-ugly-b720d81c38b1a6c4fd40.js",
+      "path---talk-golang-the-good-the-bad-and-the-ugly-b720d81c38b1a6c4fd40.js.map"
     ],
     "path---talk-slightly-advanced-python-some-python-internals": [
       "path---talk-slightly-advanced-python-some-python-internals-03fd26adbc75d971eb05.js",
@@ -1897,8 +1897,8 @@
       "path---talk-steve-jobs-stanford-commencement-address-23349504ba6929828744.js.map"
     ],
     "path---tag-golang": [
-      "path---tag-golang-6f5b20f62546ec09c079.js",
-      "path---tag-golang-6f5b20f62546ec09c079.js.map"
+      "path---tag-golang-b1de092032586ed44975.js",
+      "path---tag-golang-b1de092032586ed44975.js.map"
     ],
     "path---talk-jessica-kerr-functional-principles-for-object-oriented-development": [
       "path---talk-jessica-kerr-functional-principles-for-object-oriented-development-cd838807009a45dcf6e8.js",
@@ -2889,8 +2889,8 @@
       "path---talk-andreas-gal-j-2-mejs-a-multi-threaded-java-vm-in-javascript-or-jsconfar-2014-f4743efc1078f408412f.js.map"
     ],
     "path---index": [
-      "path---index-8ad2ca3393b569f10502.js",
-      "path---index-8ad2ca3393b569f10502.js.map"
+      "path---index-299fe8687f98443b0060.js",
+      "path---index-299fe8687f98443b0060.js.map"
     ],
     "path---tag-spotify": [
       "path---tag-spotify-442a3cb3c2b51de7a8f4.js",
@@ -3800,6 +3800,10 @@
       "path---tag-higgs-32a4486861eafbec3870.js",
       "path---tag-higgs-32a4486861eafbec3870.js.map"
     ],
+    "path---speaker-sameer-ajmani": [
+      "path---speaker-sameer-ajmani-3e515404be6188fb3457.js",
+      "path---speaker-sameer-ajmani-3e515404be6188fb3457.js.map"
+    ],
     "path---talk-google-io-2013-advanced-go-concurrency-patterns": [
       "path---talk-google-io-2013-advanced-go-concurrency-patterns-68629ebb81d71b50b946.js",
       "path---talk-google-io-2013-advanced-go-concurrency-patterns-68629ebb81d71b50b946.js.map"
@@ -4113,8 +4117,8 @@
       "path---talk-erlang-factory-2016-fred-hebert-a-brief-history-of-time-e8fc3c90b6a3e927d591.js.map"
     ],
     "path---talk-go-for-pythonistas": [
-      "path---talk-go-for-pythonistas-353a97c615d51cf05cf6.js",
-      "path---talk-go-for-pythonistas-353a97c615d51cf05cf6.js.map"
+      "path---talk-go-for-pythonistas-8b85daa32f0e6116286d.js",
+      "path---talk-go-for-pythonistas-8b85daa32f0e6116286d.js.map"
     ],
     "path---speaker-andy-hunt": [
       "path---speaker-andy-hunt-12f1f72a2aaa69c34f05.js",
@@ -4327,6 +4331,10 @@
     "path---tag-introduction": [
       "path---tag-introduction-e2f5cdff48ae4a1f728c.js",
       "path---tag-introduction-e2f5cdff48ae4a1f728c.js.map"
+    ],
+    "path---talk-simulating-a-real-world-system-coffee-shop-in-go": [
+      "path---talk-simulating-a-real-world-system-coffee-shop-in-go-740219c98e395f3c7680.js",
+      "path---talk-simulating-a-real-world-system-coffee-shop-in-go-740219c98e395f3c7680.js.map"
     ],
     "path---tag-simplicity": [
       "path---tag-simplicity-c8298b10ac5772181c11.js",
@@ -4549,8 +4557,8 @@
       "path---talk-the-r-language-the-good-the-bad-and-the-ugly-dc6bc0aa476fc19a13b2.js.map"
     ],
     "path---talk-golang-practical-go-programming": [
-      "path---talk-golang-practical-go-programming-135ce0e692dfd5e2e0c4.js",
-      "path---talk-golang-practical-go-programming-135ce0e692dfd5e2e0c4.js.map"
+      "path---talk-golang-practical-go-programming-abeb9dbe16c7b753629a.js",
+      "path---talk-golang-practical-go-programming-abeb9dbe16c7b753629a.js.map"
     ],
     "path---tag-event-video-recording": [
       "path---tag-event-video-recording-108678e721ff65477ae0.js",
@@ -4725,8 +4733,8 @@
       "path---tag-canada-d5f19f65d22de2363595.js.map"
     ],
     "app": [
-      "app-e7bf032a07acc42a9deb.js",
-      "app-e7bf032a07acc42a9deb.js.map"
+      "app-44fecac6f6dc5fc8ebe3.js",
+      "app-44fecac6f6dc5fc8ebe3.js.map"
     ],
     "path---tag-mutz": [
       "path---tag-mutz-0d27521299d25a50c22f.js",
@@ -5293,8 +5301,8 @@
       "path---tag-lambda-calculus-f67f33fa1f61eaa907ca.js.map"
     ],
     "path---talk-stupid-gopher-tricks": [
-      "path---talk-stupid-gopher-tricks-9ac5bf84d8123362c635.js",
-      "path---talk-stupid-gopher-tricks-9ac5bf84d8123362c635.js.map"
+      "path---talk-stupid-gopher-tricks-1d63b90b14f279921b9a.js",
+      "path---talk-stupid-gopher-tricks-1d63b90b14f279921b9a.js.map"
     ],
     "path---tag-videos-for-developers": [
       "path---tag-videos-for-developers-9aa04759d0d5010f2aa1.js",
