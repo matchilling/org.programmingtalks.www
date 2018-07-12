@@ -1,0 +1,35 @@
+{
+  "description":
+    "The Model-View-Controller (MVC) approach to user interfaces was first proposed by Trygve Reenskaug in a 1979 Xerox PARC note. As Object Oriented methodologies gained popularity, MVC too gained traction as a natural and logical way to construct user interfaces despite obvious shortcomings. Even though OO researchers moved forward with alternative approaches likes Morphic and constraint based systems, MVC today maintains a stranglehold on mainstream developer approaches to UI.\n\nCan functional programming take the good lessons from MVC while advancing the state of the art? Functional Reactive Programming and its derivatives primarily solve complexities around events - what of component modularity and abstraction?\n\nWe'll examine how a new library for ClojureScript called Om, a simple functional layer over Facebook's React, makes some traditional hard problems in MVC based UIs simple without abandoning the abstractions OO programmers find so useful. These concepts are easily portable to other systems provided the presence of persistent data structures.",
+  "id": "8fcf0777-3a47-42a8-b15a-b490540f5a77",
+  "meta": {
+    "duration": "PT27M2S"
+  },
+  "presenter": {
+    "name": "David Nolen"
+  },
+  "slug": "the-functional-final-frontier",
+  "source": {
+    "id": "DMtwq3QtddY",
+    "provider": "youtube"
+  },
+  "tag": ["Clojure", "Functional Programming"],
+  "title": "The Functional Final Frontier",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/DMtwq3QtddY/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/DMtwq3QtddY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/DMtwq3QtddY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

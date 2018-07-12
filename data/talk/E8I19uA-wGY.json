@@ -1,0 +1,31 @@
+{
+  "description":
+    "In object-oriented development, we are all familiar with design patterns such as the Strategy pattern and Decorator pattern, and design principles such as SOLID. The functional programming community has design patterns and principles as well. This talk will provide an overview of some of these, and present some demonstrations of FP design in practice.",
+  "id": "f7374719-5177-40a8-923b-05b6cad0b83d",
+  "meta": { "duration": "PT1H5M44S" },
+  "presenter": { "name": null },
+  "slug": "functional-programming-design-patterns-by-scott-wlaschin",
+  "source": { "id": "E8I19uA-wGY", "provider": "youtube" },
+  "tag": [
+    "Software Design Pattern (Field Of Study)",
+    "Functional Programming (Programming Language Paradigm)"
+  ],
+  "title": "Functional programming design patterns by Scott Wlaschin",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/E8I19uA-wGY/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/E8I19uA-wGY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/E8I19uA-wGY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "description":
+    "How Billions of Trivial Data Points can Lead to Understanding\r\n\r\nPeter Norvig (Director of Research, Google) presents as part of the UBC Department of Computer Science's Distinguished Lecture Series, September 23, 2010.\r\n\r\nIn decades past, models of human language were wrought from the sweat and pencils of linguists. In the modern day, it is more common to think of language modeling as an exercise in probabilistic inference from data: we observe how words and combinations of words are used, and from that build computer models of what the phrases mean. This approach is hopeless with a small amount of data, but somewhere in the range of millions or billions of examples, we pass a threshold, and the hopeless suddenly becomes effective, and computer models sometimes meet or exceed human performance. This talk gives examples of the data available in large repositories of text, images, and videos, and shows some tasks that can be accomplished with the resulting models.",
+  "id": "0702d9aa-888d-4a61-a96c-ea9e8a7d66d9",
+  "meta": { "duration": "PT1H2M57S" },
+  "presenter": { "name": null },
+  "slug": "peter-norvig-the-unreasonable-effectiveness-of-data",
+  "source": { "id": "yvDCzhbjYWs", "provider": "youtube" },
+  "tag": [
+    "UBC",
+    "Computer",
+    "Science",
+    "CPSC",
+    "Distinguished",
+    "Lecture",
+    "Series",
+    "DLS",
+    "Peter",
+    "Norvig",
+    "PeterNorvig"
+  ],
+  "title": "Peter Norvig - The Unreasonable Effectiveness of Data",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/yvDCzhbjYWs/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/yvDCzhbjYWs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/yvDCzhbjYWs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

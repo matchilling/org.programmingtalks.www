@@ -1,0 +1,35 @@
+{
+  "description":
+    "Guy Steele's keynote at the 1998 ACM OOPSLA conference on \"Growing a Language\" discusses the importance of and issues associated with designing a programming language that can be grown by its users.\n\nACM OOPSLA conference\nSpeaker: Guy L. Steele Jr.",
+  "id": "dc0284f7-2b46-4cb4-9ec8-43e1df2efc19",
+  "meta": {
+    "duration": "PT53M31S"
+  },
+  "presenter": {
+    "name": "Guy Steele"
+  },
+  "slug": "growing-a-language-by-guy-steele",
+  "source": {
+    "id": "_ahvzDzKdB0",
+    "provider": "youtube"
+  },
+  "tag": ["googlevideo"],
+  "title": "Growing a Language, by Guy Steele",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/_ahvzDzKdB0/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/_ahvzDzKdB0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/_ahvzDzKdB0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

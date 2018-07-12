@@ -1,0 +1,35 @@
+{
+  "description":
+    "\"Speaker: Dan Callahan\n\nRust is a new systems programming language from Mozilla that combines strong compile-time correctness guarantees with fast performance... and it plays nice with ctypes! Come learn how you can call Rust functions from Python code and finally say goodbye to hacking C!\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
+  "id": "b9ec9895-bf40-48ac-b714-72c330d7d507",
+  "meta": {
+    "duration": "PT29M18S"
+  },
+  "presenter": {
+    "name": "Dan Callahan"
+  },
+  "slug": "my-pythons-a-little-rust-y",
+  "source": {
+    "id": "3CwJ0MH-4MA",
+    "provider": "youtube"
+  },
+  "tag": ["PyCon 2015"],
+  "title": "My Python's a little Rust-y",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/3CwJ0MH-4MA/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/3CwJ0MH-4MA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/3CwJ0MH-4MA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

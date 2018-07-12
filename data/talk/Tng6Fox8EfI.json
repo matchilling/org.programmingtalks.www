@@ -1,0 +1,35 @@
+{
+  "description":
+    "We are the modern day scribes. Nothing happens in our society without us. But so far, we are unorganized, undisciplined, and we have no unifying ethics or standards. Society is becoming aware of us.\nSoftware developers have become both villains and heroes in our culture. More importantly, our society depends critically upon us. What oath, if any, should we swear? How would we enforce it?",
+  "id": "665ad35a-03e3-4a3f-93bd-d37416ac5b07",
+  "meta": {
+    "duration": "PT59M15S"
+  },
+  "presenter": {
+    "name": "\"Uncle Bob\" - Robert Cecil Martin"
+  },
+  "slug": "the-scribes-oath",
+  "source": {
+    "id": "Tng6Fox8EfI",
+    "provider": "youtube"
+  },
+  "tag": ["GOTO Conference", "Amsterdam"],
+  "title": "The Scribe's Oath",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/Tng6Fox8EfI/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/Tng6Fox8EfI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/Tng6Fox8EfI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

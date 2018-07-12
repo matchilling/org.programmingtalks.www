@@ -1,0 +1,35 @@
+{
+  "description":
+    "Tech enthusiast Kevin Kelly asks \"What does technology want?\" and discovers that its movement toward ubiquity and complexity is much like the evolution of life.",
+  "id": "71c59f4a-f28d-4311-be61-13ab6fb44fae",
+  "meta": {
+    "duration": "PT20M40S"
+  },
+  "presenter": {
+    "name": "Kevin Kelly"
+  },
+  "slug": "how-technology-evolves",
+  "source": {
+    "id": "ap-ZC21bk18",
+    "provider": "youtube"
+  },
+  "tag": ["TEDTalks", "Inspiring"],
+  "title": "How technology evolves",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/ap-ZC21bk18/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/ap-ZC21bk18/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/ap-ZC21bk18/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

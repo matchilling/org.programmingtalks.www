@@ -1,16 +1,14 @@
-# Configuration
+# Project dependencies
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+.cache
+node_modules
+yarn-error.log
+
+# Env
 .env
 
-# Dependency directories
-node_modules
+# Build directory
+/public
 
-# HTML class documentation
-doc
-
-# Compiled site
-.publish/
-dist/
-.publish/
-
-# Logs
-npm-debug.log
+# IDEs
+.idea/

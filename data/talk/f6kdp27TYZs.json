@@ -1,0 +1,28 @@
+{
+  "description":
+    "Rob Pike\n\nConcurrency is the key to designing high performance network services. Go's concurrency primitives (goroutines and channels) provide a simple and efficient means of expressing concurrent execution. In this talk we see how tricky concurrency problems can be solved gracefully with simple Go code.\n\nFor all I/O 2012 sessions, go to https://developers.google.com/io/",
+  "id": "dc6bbcbd-4a76-439b-9cc5-f6dccc2af9cb",
+  "meta": { "duration": "PT51M27S" },
+  "presenter": { "name": null },
+  "slug": "google-io-2012-go-concurrency-patterns",
+  "source": { "id": "f6kdp27TYZs", "provider": "youtube" },
+  "tag": ["gdl", "cloud"],
+  "title": "Google I/O 2012 - Go Concurrency Patterns",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/f6kdp27TYZs/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/f6kdp27TYZs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/f6kdp27TYZs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

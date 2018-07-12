@@ -1,0 +1,28 @@
+{
+  "description":
+    "\"Speaker: Josh Triplett\n\nWe've ported Python to run directly on hardware, without an OS, as a testing and exploration environment for firmware, ACPI, and UEFI. This talk will explore porting Python to a new platform, embedding Python, recreating enough of libc and POSIX to run Python without an OS, and binding to platform-specific services. Includes live demo of bare-metal Python, directly driving hardware.\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
+  "id": "1bc43d50-8e59-406c-b248-09d1d10d9ca2",
+  "meta": { "duration": "PT32M57S" },
+  "presenter": { "name": null },
+  "slug": "josh-triplett-porting-python-to-run-without-an-os-pycon-2015",
+  "source": { "id": "bYQ_lq5dcvM", "provider": "youtube" },
+  "tag": [],
+  "title": "Josh Triplett - Porting Python to run without an OS - PyCon 2015",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/bYQ_lq5dcvM/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/bYQ_lq5dcvM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/bYQ_lq5dcvM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "description":
+    "Keynote: New Heights by Chris McCord\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/IDIZ/",
+  "id": "70c79cb1-5c08-44e2-810b-66d2671787b6",
+  "meta": { "duration": "PT48M43S" },
+  "presenter": { "name": null },
+  "slug": "elixirdaze-2016-keynote-new-heights-by-chris-mccord",
+  "source": { "id": "E6RTBlO9TZQ", "provider": "youtube" },
+  "tag": [],
+  "title": "ElixirDaze 2016 - Keynote: New Heights by Chris McCord",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/E6RTBlO9TZQ/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/E6RTBlO9TZQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/E6RTBlO9TZQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "description":
+    "Curry On Prague, July 7th, 2015\nhttp://curry-on.org\nhttp://2015.ecoop.org",
+  "id": "ad2bb66e-b1ef-4aa6-b728-6c4e55667941",
+  "meta": { "duration": "PT44M" },
+  "presenter": { "name": null },
+  "slug": "cliff-click-bits-of-advice-for-vm-writers-curry-on",
+  "source": { "id": "vzzABBxo44g", "provider": "youtube" },
+  "tag": [],
+  "title": "Cliff Click - Bits of advice for VM writers - Curry On",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/vzzABBxo44g/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/vzzABBxo44g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/vzzABBxo44g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

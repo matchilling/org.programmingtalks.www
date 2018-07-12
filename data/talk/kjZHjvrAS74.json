@@ -1,0 +1,28 @@
+{
+  "description":
+    "\"Speaker: Tom Eastman\n\nIt’s not in the OWASP Top 10, but you don’t have to look far to hear stories of security vulnerabilities involving deserialization of user input. In this talk I’ll go over what the threat is and how you might be making yourself vulnerable. I’ll cover the features (not bugs: features) of XML, YAML, and JSON that make them surprisingly dangerous, and how to protect your code from them.\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
+  "id": "1c4ed987-36ee-4950-9dbb-bd73aab5e634",
+  "meta": { "duration": "PT29M54S" },
+  "presenter": { "name": null },
+  "slug": "tom-eastman-serialization-formats-are-not-toys-pycon-2015",
+  "source": { "id": "kjZHjvrAS74", "provider": "youtube" },
+  "tag": [],
+  "title": "Tom Eastman - Serialization formats are not toys - PyCon 2015",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/kjZHjvrAS74/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/kjZHjvrAS74/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/kjZHjvrAS74/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

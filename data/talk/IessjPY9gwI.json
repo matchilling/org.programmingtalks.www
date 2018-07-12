@@ -1,0 +1,35 @@
+{
+  "description":
+    "It's not a demo, more of a philosophical argument: Why did Sergey Brin and his team at Google want to build an eye-mounted camera/computer, codenamed Glass? Onstage at TED2013, Brin calls for a new way of seeing our relationship with our mobile computers -- not hunched over a screen but meeting the world heads-up.",
+  "id": "30248b9d-442f-460a-9c15-328f133f0ac4",
+  "meta": {
+    "duration": "PT7M16S"
+  },
+  "presenter": {
+    "name": "Sergey Brin"
+  },
+  "slug": "why-google-glass",
+  "source": {
+    "id": "IessjPY9gwI",
+    "provider": "youtube"
+  },
+  "tag": ["TEDTalks", "Design", "User Interface", "Google"],
+  "title": "Why Google Glass?",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/IessjPY9gwI/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/IessjPY9gwI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/IessjPY9gwI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

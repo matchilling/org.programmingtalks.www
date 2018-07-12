@@ -1,0 +1,35 @@
+{
+  "description":
+    "Large Scale JavaScript Application Architecture  \nTime: Wednesday @ 10:40am | Room E-131\nhttp://html5devconf.com/index.html     #HTML5DevConf\n\nLearn how to build your team and technology without losing development time. In this presentation, you'll learn how to design a large-scale javascript application on a scalable front-end architecture to promote code modularization and division of labor. We'll synthesize a number of programming patterns to help you decouple application views, data, business logic as well as navigation paradigms and transitions between states to keep your product agile and moving forward.",
+  "id": "2685128a-2f90-4f58-8be3-4b44cb8512e9",
+  "meta": {
+    "duration": "PT50M40S"
+  },
+  "presenter": {
+    "name": "Dan Lynch"
+  },
+  "slug": "large-scale-javascript-application-architecture",
+  "source": {
+    "id": "kNrnRG1YgAQ",
+    "provider": "youtube"
+  },
+  "tag": ["HTML5DevConf 2014", "JavaScript", "Node.js", "Code Modularization"],
+  "title": "Large Scale JavaScript Application Architecture",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/kNrnRG1YgAQ/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/kNrnRG1YgAQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/kNrnRG1YgAQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

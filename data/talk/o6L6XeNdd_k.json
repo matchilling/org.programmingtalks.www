@@ -1,0 +1,28 @@
+{
+  "description":
+    "Read more information here: http://www.hakkalabs.co/articles/mathematics-lectures-for-software-engineers-category-theory-by-tom-lagatta\n\nFilmed at the March 11, 2014 LispNYC meetup at Meetup HQ in NYC.",
+  "id": "8e780281-16bc-4fbe-895f-a874d3ebacac",
+  "meta": { "duration": "PT1H36M54S" },
+  "presenter": { "name": null },
+  "slug": "category-theory-by-tom-lagatta",
+  "source": { "id": "o6L6XeNdd_k", "provider": "youtube" },
+  "tag": [],
+  "title": "Category Theory by Tom LaGatta",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/o6L6XeNdd_k/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/o6L6XeNdd_k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/o6L6XeNdd_k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

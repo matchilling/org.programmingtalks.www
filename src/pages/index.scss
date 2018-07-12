@@ -1,0 +1,23 @@
+.popular {
+  .title {
+    font-size: 90%;
+    font-weight: 400;
+    color: #b3b3b3;
+  }
+
+  .tags {
+    color: #b3b3b3;
+    font-size: 0.9em;
+    margin: 0 1em 1.3em 1em;
+    padding: 0;
+
+    .tags-item {
+      display: inline-block;
+      margin: 0 0.3em;
+
+      a {
+        color: #b3b3b3;
+      }
+    }
+  }
+}

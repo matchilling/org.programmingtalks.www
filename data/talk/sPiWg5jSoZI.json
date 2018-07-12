@@ -1,0 +1,28 @@
+{
+  "description":
+    "David Beazley\nSome of the most significant changes in Python 3 are related to metaprogramming.  In this tutorial, I'll cover decorators, class decorators, descriptors, and metaclasses.  However, the focus will be on idioms and examples that are only",
+  "id": "c710c295-66ee-41d2-8fd6-c45e981d0c41",
+  "meta": { "duration": "PT3H24S" },
+  "presenter": { "name": null },
+  "slug": "python-3-metaprogramming",
+  "source": { "id": "sPiWg5jSoZI", "provider": "youtube" },
+  "tag": ["psf", "pycon2013", "tutorial", "DavidBeazley"],
+  "title": "Python 3 Metaprogramming",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/sPiWg5jSoZI/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/sPiWg5jSoZI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/sPiWg5jSoZI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

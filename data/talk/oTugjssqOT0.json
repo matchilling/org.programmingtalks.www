@@ -1,0 +1,35 @@
+{
+  "description":
+    "Carnegie Mellon Professor Randy Pausch gave a lecture on Time Management at the University of Virginia in November 2007. Randy Pausch.",
+  "id": "2f401dcb-c35d-4b83-bf17-e6c904427e98",
+  "meta": {
+    "duration": "PT1H16M22S"
+  },
+  "presenter": {
+    "name": "Randy Pausch"
+  },
+  "slug": "time-management",
+  "source": {
+    "id": "oTugjssqOT0",
+    "provider": "youtube"
+  },
+  "tag": ["Carnegie Mellon University", "Time Management", "Productivity"],
+  "title": "Time Management",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/oTugjssqOT0/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/oTugjssqOT0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/oTugjssqOT0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

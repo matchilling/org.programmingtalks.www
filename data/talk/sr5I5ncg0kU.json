@@ -1,0 +1,28 @@
+{
+  "description":
+    "ElixirDaze 2016 - Explicit Elixir by Paul Lamb\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/IDDb/",
+  "id": "bd338e21-ebee-42e2-97dc-bee8deaf4115",
+  "meta": { "duration": "PT27M51S" },
+  "presenter": { "name": null },
+  "slug": "elixirdaze-2016-explicit-elixir-by-paul-lamb",
+  "source": { "id": "sr5I5ncg0kU", "provider": "youtube" },
+  "tag": [],
+  "title": "ElixirDaze 2016 - Explicit Elixir by Paul Lamb",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/sr5I5ncg0kU/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/sr5I5ncg0kU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/sr5I5ncg0kU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

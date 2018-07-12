@@ -1,0 +1,37 @@
+{
+  "description":
+    "\"Linux Sucks\".  2014 edition.  Recorded live at LinuxFest Northwest on April 26th, 2014.\n\nHow to yell at me:\nBlog: http://www.lunduke.com\nTwitter: http://twitter.com/BryanLunduke\nG+: https://plus.google.com/+BryanLunduke",
+  "id": "9e869e1e-5014-4b96-af51-3bb06290ca6d",
+  "meta": { "duration": "PT44M59S" },
+  "presenter": { "name": null },
+  "slug": "linux-sucks-2014",
+  "source": { "id": "5pOxlazS3zs", "provider": "youtube" },
+  "tag": [
+    "linux",
+    "sucks",
+    "lunduke",
+    "open",
+    "source",
+    "GNU/Linux",
+    "(Operating",
+    "System)"
+  ],
+  "title": "\"Linux Sucks\" - 2014",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/5pOxlazS3zs/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/5pOxlazS3zs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/5pOxlazS3zs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

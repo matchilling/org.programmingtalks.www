@@ -1,55 +1,50 @@
 {
-    "name": "org-programmingtalks",
-    "version": "1.0.0",
-    "description": "An unopinionated, curated list of the best programming talks on the Internet.",
-    "scripts": {
-        "download-talk": "./node_modules/.bin/gulp 'download-talk'",
-        "deploy-gh-pages": "./node_modules/.bin/gulp 'build-deploy-gh-pages'",
-        "start": "./node_modules/.bin/gulp",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:matchilling/org-programmingtalks.git"
-    },
-    "keywords": [
-        "programming talks"
-    ],
-    "author": {
-        "name": "Mathias Schilling",
-        "email": "m@matchilling.com",
-        "url": "https://www.matchilling.com"
-    },
-    "license": "GPL-3.0",
-    "bugs": {
-        "url": "https://github.com/matchilling/org-programmingtalks/issues"
-    },
-    "homepage": "https://www.programmingtalks.org/",
-    "devDependencies": {
-        "babel": "^6.5.2",
-        "babelify": "^7.3.0",
-        "browser-sync": "^2.13.0",
-        "browserify": "^13.0.1",
-        "dotenv": "^2.0.0",
-        "gh-pages": "^0.11.0",
-        "gulp": "^3.9.1",
-        "gulp-clean-css": "^2.0.11",
-        "gulp-concat": "^2.6.0",
-        "gulp-concat-json": "^1.0.0",
-        "gulp-gh-pages": "^0.5.4",
-        "gulp-hash": "^4.1.0",
-        "gulp-html-minifier": "^0.1.8",
-        "gulp-jade": "^1.1.0",
-        "gulp-rename": "^1.2.2",
-        "gulp-sass": "^2.3.2",
-        "gulp-sourcemaps": "^1.6.0",
-        "moment": "^2.14.1",
-        "prompt": "^1.0.0",
-        "request": "^2.72.0",
-        "run-sequence": "^1.2.2",
-        "slug": "^0.9.1",
-        "uuid": "^2.0.2",
-        "vinyl-source-stream": "^1.1.0",
-        "youtube-api": "^2.0.2"
-    }
+  "name": "org-programmingtalks",
+  "description": "An unopinionated, curated list of the best programming talks on the Internet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mathias Schilling",
+    "email": "m@matchilling.com",
+    "url": "https://www.matchilling.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matchilling/org.programmingtalks.www/issues"
+  },
+  "homepage": "https://www.programmingtalks.org",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "gatsby": "^1.9.256",
+    "gatsby-link": "^1.6.41",
+    "gatsby-plugin-google-analytics": "^1.0.31",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-sass": "^1.0.26",
+    "gatsby-plugin-sharp": "^1.6.44",
+    "gatsby-plugin-sitemap": "^1.2.23",
+    "gatsby-source-filesystem": "^1.5.35",
+    "gatsby-transformer-json": "^1.0.17",
+    "gatsby-transformer-sharp": "^1.6.24",
+    "gh-pages": "^1.1.0",
+    "moment": "^2.22.1",
+    "react-helmet": "^5.2.0",
+    "react-redux": "^5.0.7",
+    "react-youtube": "^7.6.0",
+    "redux": "^4.0.0",
+    "uuid": "^3.2.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "build": "node --max_old_space_size=12000 --stack-size=100000 ./node_modules/.bin/gatsby build --prefix-paths",
+    "deploy": "npm run build && gh-pages -d public",
+    "develop": "gatsby develop",
+    "download:video": "./bin/download_talk",
+    "format:data": "prettier --write 'data/**/*.json'",
+    "format:src": "prettier --write 'bin/*' 'src/**/*.js' 'gatsby-*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  }
 }

@@ -1,0 +1,28 @@
+{
+  "description":
+    "Dan Doel's talk at the Boston Haskell Meetup, Sept 17, 2014\nSlides: https://drive.google.com/file/d/0B8Kkr1O1jFwcRmhxbzBMR1Ntb3c/edit?usp=sharing",
+  "id": "1cff0cdf-9d39-4722-8301-25d7bb4f676e",
+  "meta": { "duration": "PT1H9M40S" },
+  "presenter": { "name": null },
+  "slug": "dan-doel-introduction-to-low-level-haskell-optimization",
+  "source": { "id": "McFNkLPTOSY", "provider": "youtube" },
+  "tag": ["Haskell"],
+  "title": "Dan Doel - Introduction to Low Level Haskell Optimization",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/McFNkLPTOSY/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/McFNkLPTOSY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/McFNkLPTOSY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "description":
+    "Haskell is a beautiful functional language, written by smart computer scientists, and having clever and elegant functional constructs. It clearly separates pure and impure parts of the program.\nGame programming on the other hand is a very hands-on discipline, trying to wring out the most of the machine's performance, and aiming for one thing, in disregard of all else: a pleasant, challenging experience for the player.\nI aim to bring intersect those worlds and describe the process, and the specifics, of writing a Haskell game. Functional reactive programming, bindings to graphical libraries, etc, will all have a role to play.\n\nby Elise Huard (@elise_huard)\n\nElise Huard is a software consultant who's been crafting and bashing together software for about 15 years now. Her skill set comprises talking to people, Haskell, Clojure, R, javascript, ruby, C, scaling, and a good few bits and bobs beside.\nShe's spoken at a fair number of conferences, most of them Ruby, some of them javascript, some of them\npolyglot.\nShe's based in Berlin, Germany. She enjoys reading sci-fi, traveling, cooking, tinkering, and spending time with her husband and baby daughter.",
+  "id": "ef8573f0-983a-4cc2-87d3-6c50624b10ec",
+  "meta": { "duration": "PT29M37S" },
+  "presenter": { "name": null },
+  "slug": "writing-a-game-in-haskell-by-elise-huard",
+  "source": { "id": "1MNTerD8IuI", "provider": "youtube" },
+  "tag": [
+    "Haskell",
+    "game programming",
+    "Functional Programming (Programming Language Paradigm)"
+  ],
+  "title": "\"Writing a game in Haskell\" by Elise Huard",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/1MNTerD8IuI/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/1MNTerD8IuI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/1MNTerD8IuI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

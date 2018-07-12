@@ -1,0 +1,28 @@
+{
+  "description":
+    "Speaker: David Beazley\n\nPython generators have long been useful for solving all sorts of problems involving iteration and data flow. However, one of their more powerful uses is in customizing various aspects of program control flow. In this tutorial, we'll look at some more exotic uses of generators such as writing context managers, inlining callback functions, eliminating recursion, implementing actors, and more.\n\nSlides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",
+  "id": "5c128ace-bf34-4496-9d74-680470901562",
+  "meta": { "duration": "PT3H50M55S" },
+  "presenter": { "name": null },
+  "slug": "david-beazley-generators-the-final-frontier-pycon-2014",
+  "source": { "id": "D1twn9kLmYg", "provider": "youtube" },
+  "tag": ["PyCon2014"],
+  "title": "David Beazley: Generators: The Final Frontier - PyCon 2014",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/D1twn9kLmYg/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/D1twn9kLmYg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/D1twn9kLmYg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "description":
+    "Aaron Swartz keynote - \"How we stopped SOPA\"  at F2C:Freedom to Connect 2012, Washington DC on May 21 2012.\n\nhttp://freedom-to-connect.net/",
+  "id": "20445198-fd77-4212-a004-7f773aa5da67",
+  "meta": {
+    "duration": "PT22M52S"
+  },
+  "presenter": {
+    "name": "Aaron Swartz"
+  },
+  "slug": "f2c2012-aaron-swartz-keynote-how-we-stopped-sopa",
+  "source": {
+    "id": "Fgh2dFngFsg",
+    "provider": "youtube"
+  },
+  "tag": ["SOPA", "freedom to connect", "internet freedom", "Keynote"],
+  "title": "\"How we stopped SOPA\"",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/Fgh2dFngFsg/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/Fgh2dFngFsg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/Fgh2dFngFsg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

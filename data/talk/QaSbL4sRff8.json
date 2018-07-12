@@ -1,0 +1,30 @@
+{
+  "description":
+    "With no real coding experience, I decided to sit down and teach myself to code by making one website a day, every day, for 180 days. In this session, I'll cover what inspired me to take the path of self directed learning and what challenges I faced along the way. The first websites I made were simple and only used a tiny bit of html and css. By the end I was making dynamic, interactive apps. In this talk I'll present a selection of some of my favorite websites from the project which include games, toys, physics simulations, data visualizations and real time communication apps.\n\nhttps://www.jsconfar.com/",
+  "id": "2687c20f-16d9-4756-9515-5fdde2d75bb2",
+  "meta": { "duration": "PT22M3S" },
+  "presenter": { "name": null },
+  "slug":
+    "jennifer-de-walt-how-i-learned-to-code-by-making-180-websites-in-180-days-or-jsconfar-2014",
+  "source": { "id": "QaSbL4sRff8", "provider": "youtube" },
+  "tag": [],
+  "title":
+    "Jennifer De Walt: How I learned to Code by Making 180 websites in 180 days | JSConf.ar 2014",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/QaSbL4sRff8/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/QaSbL4sRff8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/QaSbL4sRff8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

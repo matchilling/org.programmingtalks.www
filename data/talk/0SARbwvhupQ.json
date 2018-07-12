@@ -1,0 +1,35 @@
+{
+  "description":
+    "Google I/O 2009 - The Myth of the Genius Programmer\r\n\r\nBrian Fitzpatrick, Ben Collins-Sussman\r\n\r\nA pervasive elitism hovers in the background of collaborative software development:  everyone secretly wants to be seen as a genius.  In this talk, we discuss how to avoid this trap and gracefully exchange personal ego for personal growth and super-charged collaboration.  We'll also examine how software tools affect social behaviors, and how to successfully manage the growth of new ideas.\r\n\r\nFor presentation slides and all I/O sessions, please go to: code.google.com/events/io/sessions.html",
+  "id": "3d53f11f-8e79-47d2-a945-d29ccd7acd76",
+  "meta": {
+    "duration": "PT55M17S"
+  },
+  "presenter": {
+    "name": "Brian Fitzpatrick & Ben Collins-Sussman"
+  },
+  "slug": "google-io-2009-the-myth-of-the-genius-programmer",
+  "source": {
+    "id": "0SARbwvhupQ",
+    "provider": "youtube"
+  },
+  "tag": ["google", "Google I/O 2009"],
+  "title": "The Myth of the Genius Programmer",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/0SARbwvhupQ/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/0SARbwvhupQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/0SARbwvhupQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

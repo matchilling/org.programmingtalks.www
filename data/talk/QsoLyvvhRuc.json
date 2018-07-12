@@ -1,0 +1,28 @@
+{
+  "description":
+    "In this talk, we will present our OpenCL SDK and its core technology -- the vectorizer compiler. We plan to present an overview of our vectorizer and discuss our experience with the LLVM compiler toolkit over the last few years. We will discuss some of our design decisions and our and plans for future features (future instruction sets, vector select, predicated instructions, etc).",
+  "id": "3e20c531-737a-431d-a4ce-109aad5163f5",
+  "meta": { "duration": "PT35M45S" },
+  "presenter": { "name": null },
+  "slug": "intel-opencl-sdk-vectorizer",
+  "source": { "id": "QsoLyvvhRuc", "provider": "youtube" },
+  "tag": ["LLVM", "OpenCL", "Software Development Kit", "Intel"],
+  "title": "Intel OpenCL SDK Vectorizer",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/QsoLyvvhRuc/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/QsoLyvvhRuc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/QsoLyvvhRuc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

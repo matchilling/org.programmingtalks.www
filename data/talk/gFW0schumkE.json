@@ -1,0 +1,28 @@
+{
+  "description":
+    "By popular demand, Defcon's angry little roboticist is back with more stories of robot designs gone awry that make practical lessons on making better robots. Drinking will happen: vodka-absconding scoundrels are not invited.\n\nThis talk will cover material assuming the average audience member is a relatively intelligent coder with a high-school physics/math background and has seen linear algebra/calculus before. The intent is to navigate people new to robotics around many lessons my teams and I learned the \"hard way,\" and to introduce enough vocabulary for a self-teaching student to bridge the gap between amateur and novice professional robotics. It will not cover why your Arduino doesn't work when you plugged your USB tx into your RS232 tx.",
+  "id": "7666f685-cf99-4f2f-a048-850e763c6a55",
+  "meta": { "duration": "PT49M51S" },
+  "presenter": { "name": null },
+  "slug": "katy-levinson-defcon-20-robots-youre-still-doing-it-wrong",
+  "source": { "id": "gFW0schumkE", "provider": "youtube" },
+  "tag": ["Robot", "Robots", "Katy Levinson", "DEFCON 20"],
+  "title": "Katy Levinson Defcon 20 - Robots: You're Still Doing It Wrong",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/gFW0schumkE/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/gFW0schumkE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/gFW0schumkE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

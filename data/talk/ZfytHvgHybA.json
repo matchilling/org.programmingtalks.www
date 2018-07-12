@@ -1,0 +1,35 @@
+{
+  "description":
+    "An incredible talk by Bret Victor about the essence of digital art.",
+  "id": "3a7f11bf-636d-4f7d-8a36-b5d6bda72f92",
+  "meta": {
+    "duration": "PT53M33S"
+  },
+  "presenter": {
+    "name": "Bret Victor"
+  },
+  "slug": "stop-drawing-dead-fish",
+  "source": {
+    "id": "ZfytHvgHybA",
+    "provider": "youtube"
+  },
+  "tag": ["Inspiring", "Digital Art"],
+  "title": "Stop Drawing Dead Fish",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/ZfytHvgHybA/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/ZfytHvgHybA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/ZfytHvgHybA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

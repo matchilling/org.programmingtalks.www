@@ -1,0 +1,38 @@
+{
+  "description":
+    "Martin Odersky, the creator of Scala, talks to the SF Scala user group about what's next for Scala.\n\nA few of the topics Martin will cover include:\n- Commercial adoption of scala\n- Scala: What it was, What it is, and Where it's going\n- Scala Eclipse IDE\n- Play Framework 2.0\n- Scala 2.10\n\n** Check out the slides at: http://mrkn.co/f/575",
+  "id": "5a06f0cc-bab2-4b1b-b8a2-bb3070d0c660",
+  "meta": { "duration": "PT1H15M6S" },
+  "presenter": { "name": null },
+  "slug": "lead-designer-of-scala-martin-odersky-whats-next-for-scala",
+  "source": { "id": "qqQNqIy5LdM", "provider": "youtube" },
+  "tag": [
+    "Scala",
+    "2.10",
+    "What's",
+    "Next",
+    "Martin",
+    "Odersky",
+    "SF Scala",
+    "Marakana",
+    "TechTV"
+  ],
+  "title": "Lead Designer of Scala, Martin Odersky: What's Next for Scala",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/qqQNqIy5LdM/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/qqQNqIy5LdM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/qqQNqIy5LdM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

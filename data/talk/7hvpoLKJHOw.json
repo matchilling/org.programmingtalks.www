@@ -1,0 +1,27 @@
+{
+  "description": null,
+  "id": "40b5542a-a9c0-4828-bb84-246006be716f",
+  "meta": { "duration": "PT35M22S" },
+  "presenter": { "name": null },
+  "slug": "how-to-build-a-brain-with-python",
+  "source": { "id": "7hvpoLKJHOw", "provider": "youtube" },
+  "tag": [],
+  "title": "How to build a brain with Python",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/7hvpoLKJHOw/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/7hvpoLKJHOw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/7hvpoLKJHOw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

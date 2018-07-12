@@ -1,0 +1,28 @@
+{
+  "description":
+    "Steve Vinoski\nhttp://www.chicagoerlang.com/steve-vinoski.html\nErlang was built to be \"fast enough\" for most problems. But what if you need to go super fast? To turn the dial to 11? In this talk Steve will cover Erlang's turbo booster --- the *NIF*. And it's not as simple as it sounds!",
+  "id": "cf7a75f6-b977-46bb-89d4-fe26ce9f44a3",
+  "meta": { "duration": "PT26M47S" },
+  "presenter": { "name": null },
+  "slug": "optimizing-native-code-for-erlang",
+  "source": { "id": "57AkoJfojK8", "provider": "youtube" },
+  "tag": ["erlang_factory", "chicago_erlang_factory_lite_2014", "SteveVinoski"],
+  "title": "Optimizing Native Code for Erlang",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/57AkoJfojK8/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/57AkoJfojK8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/57AkoJfojK8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

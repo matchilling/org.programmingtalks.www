@@ -1,0 +1,28 @@
+{
+  "description":
+    "\"Speaker: Thomas Ballinger\n\nHave you ever wanted to add a status bar to your command line program?\nOr maybe color the output a bit? Or do you want to write a fullscreen terminal application like ls, top, vim, or emacs? Then you need to speak a bit of terminal! This talk describes how to talk to your terminal from scratch and goes on to show why Python libraries Blessings and Urwid are so awesome.\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
+  "id": "05722db6-13c1-41ce-af1a-aaba5320b99b",
+  "meta": { "duration": "PT28M7S" },
+  "presenter": { "name": null },
+  "slug": "thomas-ballinger-terminal-whispering-pycon-2015",
+  "source": { "id": "WAitSilLDUA", "provider": "youtube" },
+  "tag": [],
+  "title": "Thomas Ballinger - Terminal whispering - PyCon 2015",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/WAitSilLDUA/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/WAitSilLDUA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/WAitSilLDUA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

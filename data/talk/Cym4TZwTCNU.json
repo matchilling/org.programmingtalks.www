@@ -1,0 +1,35 @@
+{
+  "description":
+    "Rich Hickey, author of Clojure, and designer of Datomic presents a new way to look at database architectures in this talk from JaxConf 2012.",
+  "id": "56991e9e-314d-44f4-802a-4a33922c1335",
+  "meta": {
+    "duration": "PT1H6M24S"
+  },
+  "presenter": {
+    "name": "Rich Hickey"
+  },
+  "slug": "deconstructing-the-database",
+  "source": {
+    "id": "Cym4TZwTCNU",
+    "provider": "youtube"
+  },
+  "tag": ["Database", "JaxConf 2012", "Architecture"],
+  "title": "Deconstructing the Database",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/Cym4TZwTCNU/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/Cym4TZwTCNU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/Cym4TZwTCNU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}

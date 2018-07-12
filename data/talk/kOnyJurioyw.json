@@ -1,0 +1,28 @@
+{
+  "description":
+    "JVMLS 2015 - Multi-Language Runtime - Mark Stoodley\n\nThe JVM Language Summit is an open technical collaboration among language designers, compiler writers, tool builders, runtime engineers, and VM architects. In 2015, it convened at Oracle's Santa Clara, CA campus on August 10-12.",
+  "id": "a104013c-acff-4565-bdeb-80ab7055859d",
+  "meta": { "duration": "PT47M8S" },
+  "presenter": { "name": null },
+  "slug": "jvmls-2015-multi-language-runtime",
+  "source": { "id": "kOnyJurioyw", "provider": "youtube" },
+  "tag": ["Java", "JVM", "JVMLS", "JVM Language Summit"],
+  "title": "JVMLS 2015 - Multi-Language Runtime",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/kOnyJurioyw/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/kOnyJurioyw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/kOnyJurioyw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  }
+}
