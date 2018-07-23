@@ -20,17 +20,6 @@ class Player extends React.Component {
     videoId: null,
   }
 
-  onStateChange(event) {
-    const player = event.target
-
-    console.group('Player')
-    console.log('volumen', player.getVolume())
-    console.log('getCurrentTime', player.getCurrentTime())
-    console.groupEnd()
-
-    // this.updateDimensions.bind(this)
-  }
-
   constructor() {
     super()
 
@@ -47,31 +36,20 @@ class Player extends React.Component {
     }
   }
 
-  /**
-   * Add event listener
-   */
   componentDidMount() {
     this.updateDimensions()
     window.addEventListener('resize', this.updateDimensions.bind(this))
-
-    // this.onStateChange.bind(this)
   }
 
-  /**
-   * Remove event listener
-   */
   componentWillUnmount() {
     window.removeEventListener('resize', this.updateDimensions.bind(this))
   }
 
-  /**
-   * Calculate & Update state of new dimensions
-   */
   updateDimensions() {
     if (854 <= window.innerWidth) {
       this.setState({ height: 450, width: 854 })
     } else {
-      this.setState({ height: 225, width: 427 })
+      this.setState({ height: 225, width: window.outerWidth })
     }
   }
 
@@ -88,7 +66,7 @@ class Player extends React.Component {
           onPause={this.props.onPause}
           onEnd={this.props.onEnd}
           onError={this.props.onError}
-          onStateChange={this.onStateChange}
+          onStateChange={this.props.onStateChange}
           onPlaybackRateChange={this.props.onPlaybackRateChange}
           onPlaybackQualityChange={this.props.onPlaybackQualityChange}
         />
