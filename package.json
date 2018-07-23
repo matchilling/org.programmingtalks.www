@@ -39,7 +39,7 @@
     "build": "node --max_old_space_size=12000 --stack-size=100000 ./node_modules/.bin/gatsby build --prefix-paths",
     "deploy": "npm run build && gh-pages -d public",
     "develop": "gatsby develop",
-    "download:video": "./bin/download_talk",
+    "download:video": "node ./script/download_talk.js",
     "format:data": "prettier --write 'data/**/*.json'",
     "format:src": "prettier --write 'bin/*' 'src/**/*.js' 'gatsby-*.js'",
     "test": "echo \"Error: no test specified\" && exit 1"
