@@ -13,9 +13,9 @@
   },
   "homepage": "https://www.programmingtalks.org",
   "dependencies": {
-    "dotenv": "^5.0.1",
-    "gatsby": "^1.9.273",
-    "gatsby-link": "^1.6.45",
+    "dotenv": "^6.0.0",
+    "gatsby": "^1.9.277",
+    "gatsby-link": "^1.6.46",
     "gatsby-plugin-google-analytics": "^1.0.31",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-plugin-sass": "^1.0.26",
