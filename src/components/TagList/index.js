@@ -3,10 +3,6 @@ import PropTypes from 'prop-types'
 import React from 'react'
 
 class TagList extends React.Component {
-  static defaultProps = {
-    className: 'tag-list',
-  }
-
   render() {
     return (
       <ul className={this.props.className}>
@@ -18,6 +14,10 @@ class TagList extends React.Component {
       </ul>
     )
   }
+}
+
+TagList.defaultProps = {
+  className: 'tag-list',
 }
 
 TagList.propTypes = {

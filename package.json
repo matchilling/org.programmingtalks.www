@@ -12,8 +12,25 @@
     "url": "https://github.com/matchilling/org.programmingtalks.www/issues"
   },
   "homepage": "https://www.programmingtalks.org",
-  "dependencies": {
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "build": "node --max_old_space_size=12000 --stack-size=100000 ./node_modules/.bin/gatsby build --prefix-paths",
+    "deploy": "npm run build && gh-pages -d public",
+    "develop": "gatsby develop",
+    "download:video": "node ./script/download_talk.js",
+    "format:data": "prettier --write 'data/**/*.json'",
+    "format:src": "prettier --write 'bin/*' 'src/**/*.js' 'config/**/*.js' 'gatsby-*.js'",
+    "test": "jest --config=config/jest.js"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.4.0",
     "dotenv": "^6.0.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-15": "^1.0.6",
+    "enzyme-adapter-react-16": "^1.1.1",
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-google-analytics": "^1.0.31",
@@ -25,26 +42,22 @@
     "gatsby-transformer-json": "^1.0.20",
     "gatsby-transformer-sharp": "^1.6.27",
     "gh-pages": "^1.2.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^23.4.1",
     "moment": "^2.22.2",
+    "prettier": "^1.13.7",
+    "react": "^15.6.2",
     "react-helmet": "^5.2.0",
     "react-redux": "^5.0.7",
+    "react-test-renderer": "^15.6.2",
     "react-youtube": "^7.6.0",
     "redux": "^4.0.0",
     "uuid": "^3.3.2"
   },
-  "keywords": [
-    "gatsby"
-  ],
-  "scripts": {
-    "build": "node --max_old_space_size=12000 --stack-size=100000 ./node_modules/.bin/gatsby build --prefix-paths",
-    "deploy": "npm run build && gh-pages -d public",
-    "develop": "gatsby develop",
-    "download:video": "node ./script/download_talk.js",
-    "format:data": "prettier --write 'data/**/*.json'",
-    "format:src": "prettier --write 'bin/*' 'src/**/*.js' 'gatsby-*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "devDependencies": {
-    "prettier": "^1.13.7"
+  "babel": {
+    "presets": [
+      "env",
+      "react"
+    ]
   }
 }
