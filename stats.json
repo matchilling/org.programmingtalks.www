@@ -5,8 +5,8 @@
       "path---tag-elixirconfeu-82d8351fe4faa7d0e308.js.map"
     ],
     "path---tag-clojure": [
-      "path---tag-clojure-16b7ad19ff3fcc01ebdb.js",
-      "path---tag-clojure-16b7ad19ff3fcc01ebdb.js.map"
+      "path---tag-clojure-6460bdc0111999903cf2.js",
+      "path---tag-clojure-6460bdc0111999903cf2.js.map"
     ],
     "path---tag-product-web": [
       "path---tag-product-web-17d76cd2d40aba1fa0dd.js",
@@ -21,8 +21,8 @@
       "path---tag-speaker-dbcd8b02750ccaf88a89.js.map"
     ],
     "path---talk-dconf-2014-sdc-a-d-compiler-as-a-library-by-amaury-sechet": [
-      "path---talk-dconf-2014-sdc-a-d-compiler-as-a-library-by-amaury-sechet-f430feeee5dfbf2bb225.js",
-      "path---talk-dconf-2014-sdc-a-d-compiler-as-a-library-by-amaury-sechet-f430feeee5dfbf2bb225.js.map"
+      "path---talk-dconf-2014-sdc-a-d-compiler-as-a-library-by-amaury-sechet-a6dae4b68ce609c4fe67.js",
+      "path---talk-dconf-2014-sdc-a-d-compiler-as-a-library-by-amaury-sechet-a6dae4b68ce609c4fe67.js.map"
     ],
     "path---tag-pyconca": [
       "path---tag-pyconca-e4a7391d6b1b97ea8302.js",
@@ -81,8 +81,8 @@
       "path---tag-time-management-eadef89f7e79f7e9d906.js.map"
     ],
     "path---talk-atmosphere-2013-your-css-is-a-mess-jonathan-snook-shopify": [
-      "path---talk-atmosphere-2013-your-css-is-a-mess-jonathan-snook-shopify-ab754eb591ff29c45941.js",
-      "path---talk-atmosphere-2013-your-css-is-a-mess-jonathan-snook-shopify-ab754eb591ff29c45941.js.map"
+      "path---talk-atmosphere-2013-your-css-is-a-mess-jonathan-snook-shopify-b9d1413f4c833024d864.js",
+      "path---talk-atmosphere-2013-your-css-is-a-mess-jonathan-snook-shopify-b9d1413f4c833024d864.js.map"
     ],
     "path---tag-angularjs-software": [
       "path---tag-angularjs-software-e6613197e37e0b277c56.js",
@@ -117,12 +117,12 @@
       "path---talk-lambdaconf-2015-full-stack-fp-in-datomic-clojure-and-clojurescript-priyatam-mudivarti-aebcd7d3a083215f1948.js.map"
     ],
     "path---tag-tedtalks": [
-      "path---tag-tedtalks-1af5f75f2819dad21707.js",
-      "path---tag-tedtalks-1af5f75f2819dad21707.js.map"
+      "path---tag-tedtalks-c8d7a570d4186ddc06c6.js",
+      "path---tag-tedtalks-c8d7a570d4186ddc06c6.js.map"
     ],
     "component---src-templates-speaker-index-js": [
-      "component---src-templates-speaker-index-js-89565b7cc35aab78e295.js",
-      "component---src-templates-speaker-index-js-89565b7cc35aab78e295.js.map"
+      "component---src-templates-speaker-index-js-84656d5074a074275d8b.js",
+      "component---src-templates-speaker-index-js-84656d5074a074275d8b.js.map"
     ],
     "path---tag-developer": [
       "path---tag-developer-b79ed4bb15e04713b463.js",
@@ -269,12 +269,12 @@
       "path---tag-copernicus-center-for-interdisciplinary-studies-f98de7cfa05705783c7c.js.map"
     ],
     "path---talk-the-post-javascript-apocalypse": [
-      "path---talk-the-post-javascript-apocalypse-602d39f764525a845c2a.js",
-      "path---talk-the-post-javascript-apocalypse-602d39f764525a845c2a.js.map"
+      "path---talk-the-post-javascript-apocalypse-3bd110cc55d4eef0b034.js",
+      "path---talk-the-post-javascript-apocalypse-3bd110cc55d4eef0b034.js.map"
     ],
     "path---talk-what-the-heck-is-the-event-loop-anyway": [
-      "path---talk-what-the-heck-is-the-event-loop-anyway-3a3d00098c35b4460694.js",
-      "path---talk-what-the-heck-is-the-event-loop-anyway-3a3d00098c35b4460694.js.map"
+      "path---talk-what-the-heck-is-the-event-loop-anyway-e2b40458d4f0632420dc.js",
+      "path---talk-what-the-heck-is-the-event-loop-anyway-e2b40458d4f0632420dc.js.map"
     ],
     "path---tag-java-8": [
       "path---tag-java-8-7af2943daef9971da44a.js",
@@ -293,12 +293,12 @@
       "path---talk-allison-kaptur-bytes-in-the-machine-inside-the-cpython-interpreter-pycon-2015-eb2979875c4a902c69fb.js.map"
     ],
     "path---talk-elixir-conf-2014-keynote-elixir-by-jose-valim": [
-      "path---talk-elixir-conf-2014-keynote-elixir-by-jose-valim-57ec3c396af162b458bf.js",
-      "path---talk-elixir-conf-2014-keynote-elixir-by-jose-valim-57ec3c396af162b458bf.js.map"
+      "path---talk-elixir-conf-2014-keynote-elixir-by-jose-valim-1235d1064641e4a64087.js",
+      "path---talk-elixir-conf-2014-keynote-elixir-by-jose-valim-1235d1064641e4a64087.js.map"
     ],
     "path---talk-the-birth-of-the-computer": [
-      "path---talk-the-birth-of-the-computer-d3cc529aa18b14b5e9e3.js",
-      "path---talk-the-birth-of-the-computer-d3cc529aa18b14b5e9e3.js.map"
+      "path---talk-the-birth-of-the-computer-036ac39a54be9cf85b17.js",
+      "path---talk-the-birth-of-the-computer-036ac39a54be9cf85b17.js.map"
     ],
     "path---speaker-paul-irish": [
       "path---speaker-paul-irish-e0e33da59830d04d0673.js",
@@ -401,16 +401,16 @@
       "path---tag-steven-holmes-a7e10df937e1b0fccb42.js.map"
     ],
     "path---tag-erlang-factory": [
-      "path---tag-erlang-factory-98144d3da20d77692759.js",
-      "path---tag-erlang-factory-98144d3da20d77692759.js.map"
+      "path---tag-erlang-factory-9fe55d4ef28ed59264a2.js",
+      "path---tag-erlang-factory-9fe55d4ef28ed59264a2.js.map"
     ],
     "path---tag-technology": [
       "path---tag-technology-0dfe3ea381982b30ced6.js",
       "path---tag-technology-0dfe3ea381982b30ced6.js.map"
     ],
     "path---talk-why-the-world-needs-wikileaks": [
-      "path---talk-why-the-world-needs-wikileaks-3dd92fd30bff04b02a42.js",
-      "path---talk-why-the-world-needs-wikileaks-3dd92fd30bff04b02a42.js.map"
+      "path---talk-why-the-world-needs-wikileaks-30cde0960e9de84e1a16.js",
+      "path---talk-why-the-world-needs-wikileaks-30cde0960e9de84e1a16.js.map"
     ],
     "path---tag-210": [
       "path---tag-210-84ef552b233eeeaf690f.js",
@@ -477,8 +477,8 @@
       "path---tag-oscon-a93a5d0890d58f84e70f.js.map"
     ],
     "path---tag-jsconf": [
-      "path---tag-jsconf-6c8776d72c0aaa45dc79.js",
-      "path---tag-jsconf-6c8776d72c0aaa45dc79.js.map"
+      "path---tag-jsconf-e5cb9e0557daf2e0c6b7.js",
+      "path---tag-jsconf-e5cb9e0557daf2e0c6b7.js.map"
     ],
     "path---tag-technology-industry": [
       "path---tag-technology-industry-3cf56ea3ad3653b260a0.js",
@@ -629,8 +629,8 @@
       "path---tag-convolutional-neural-networks-446dccf7687e6d163abb.js.map"
     ],
     "path---talk-rishiyur-s-nikhil-enigmatic-haskell-haskellish-enigma": [
-      "path---talk-rishiyur-s-nikhil-enigmatic-haskell-haskellish-enigma-d350117349c4de7b0981.js",
-      "path---talk-rishiyur-s-nikhil-enigmatic-haskell-haskellish-enigma-d350117349c4de7b0981.js.map"
+      "path---talk-rishiyur-s-nikhil-enigmatic-haskell-haskellish-enigma-dae3cfb3f706ad34652d.js",
+      "path---talk-rishiyur-s-nikhil-enigmatic-haskell-haskellish-enigma-dae3cfb3f706ad34652d.js.map"
     ],
     "path---tag-http": [
       "path---tag-http-1eec5b565215d273e06e.js",
@@ -641,12 +641,12 @@
       "path---tag-thread-7bf23415517354e2ac40.js.map"
     ],
     "path---talk-javascript-the-good-parts": [
-      "path---talk-javascript-the-good-parts-c2a17e2d853abb67cf9d.js",
-      "path---talk-javascript-the-good-parts-c2a17e2d853abb67cf9d.js.map"
+      "path---talk-javascript-the-good-parts-d86cb4af3989bb18f2ee.js",
+      "path---talk-javascript-the-good-parts-d86cb4af3989bb18f2ee.js.map"
     ],
     "path---talk-solving-the-real-callback-hell-great-british-node-conf": [
-      "path---talk-solving-the-real-callback-hell-great-british-node-conf-ce8f7e50ee9538acccd0.js",
-      "path---talk-solving-the-real-callback-hell-great-british-node-conf-ce8f7e50ee9538acccd0.js.map"
+      "path---talk-solving-the-real-callback-hell-great-british-node-conf-50847687aaf19952a6bd.js",
+      "path---talk-solving-the-real-callback-hell-great-british-node-conf-50847687aaf19952a6bd.js.map"
     ],
     "path---tag-stevevinoski": [
       "path---tag-stevevinoski-08947cedc6e423142407.js",
@@ -677,8 +677,8 @@
       "path---tag-demos-85cf5b8ac4e6ad45d81d.js.map"
     ],
     "path---talk-immutability-interactivity-and-javascript": [
-      "path---talk-immutability-interactivity-and-javascript-92ef112e8e887e14f8dc.js",
-      "path---talk-immutability-interactivity-and-javascript-92ef112e8e887e14f8dc.js.map"
+      "path---talk-immutability-interactivity-and-javascript-fb4aa0eb625d99c15dea.js",
+      "path---talk-immutability-interactivity-and-javascript-fb4aa0eb625d99c15dea.js.map"
     ],
     "path---tag-computer": [
       "path---tag-computer-a69f7f8d43d7a38f3b95.js",
@@ -737,8 +737,8 @@
       "path---tag-cppcon-b99bb3b98299f6557a65.js.map"
     ],
     "path---tag-pycon-2012": [
-      "path---tag-pycon-2012-7ea9a19c38c5fa50159d.js",
-      "path---tag-pycon-2012-7ea9a19c38c5fa50159d.js.map"
+      "path---tag-pycon-2012-2b0d8f8b329554b210b4.js",
+      "path---tag-pycon-2012-2b0d8f8b329554b210b4.js.map"
     ],
     "path---talk-workflows-of-refactoring": [
       "path---talk-workflows-of-refactoring-c36ae012a60ae861bdb6.js",
@@ -749,8 +749,8 @@
       "path---tag-robots-af962a77f2cc49b8455d.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-8e8d7cb49edabe261ea8.js",
-      "component---src-pages-index-js-8e8d7cb49edabe261ea8.js.map"
+      "component---src-pages-index-js-b90c45e2db823cc09d1c.js",
+      "component---src-pages-index-js-b90c45e2db823cc09d1c.js.map"
     ],
     "path---talk-elixirdaze-2016-keynote-new-heights-by-chris-mccord": [
       "path---talk-elixirdaze-2016-keynote-new-heights-by-chris-mccord-4060f20c6db33890c914.js",
@@ -777,8 +777,8 @@
       "path---talk-racify-non-reactive-code-by-dave-lee-github-reactive-cocoa-developer-conference-9d2ff8a54290730f4436.js.map"
     ],
     "path---talk-lenses-folds-and-traversals": [
-      "path---talk-lenses-folds-and-traversals-e2a2cded5b9fbf138165.js",
-      "path---talk-lenses-folds-and-traversals-e2a2cded5b9fbf138165.js.map"
+      "path---talk-lenses-folds-and-traversals-dd714fee28d07177db89.js",
+      "path---talk-lenses-folds-and-traversals-dd714fee28d07177db89.js.map"
     ],
     "path---tag-gdl": [
       "path---tag-gdl-d5c31cd40a8fed4b4e4f.js",
@@ -801,8 +801,8 @@
       "path---tag-montreal-citytownvillage-070f3d21c59a621856b0.js.map"
     ],
     "path---talk-lets-use-video-to-reinvent-education": [
-      "path---talk-lets-use-video-to-reinvent-education-7434fa6fd3d497f57e22.js",
-      "path---talk-lets-use-video-to-reinvent-education-7434fa6fd3d497f57e22.js.map"
+      "path---talk-lets-use-video-to-reinvent-education-1f6c39f71c70cf79129f.js",
+      "path---talk-lets-use-video-to-reinvent-education-1f6c39f71c70cf79129f.js.map"
     ],
     "path---tag-of": [
       "path---tag-of-3c5aa743471bafcbbc5d.js",
@@ -869,8 +869,8 @@
       "path---talk-the-value-of-values-72891ce339d9aa468da5.js.map"
     ],
     "path---talk-high-performance-systems-in-go-lang": [
-      "path---talk-high-performance-systems-in-go-lang-9c99ffb131be47c9d18c.js",
-      "path---talk-high-performance-systems-in-go-lang-9c99ffb131be47c9d18c.js.map"
+      "path---talk-high-performance-systems-in-go-lang-fb9d24576b7da5fa6b08.js",
+      "path---talk-high-performance-systems-in-go-lang-fb9d24576b7da5fa6b08.js.map"
     ],
     "path---tag-contest": [
       "path---tag-contest-ea94c4a2753da8c87429.js",
@@ -933,8 +933,8 @@
       "path---speaker-tim-ruffles-bef2c69a03de357c3024.js.map"
     ],
     "path---talk-purescript-maybe-this-time-we-get-javascript-right-by-bodil-stokke": [
-      "path---talk-purescript-maybe-this-time-we-get-javascript-right-by-bodil-stokke-ce57934c65e12f857f16.js",
-      "path---talk-purescript-maybe-this-time-we-get-javascript-right-by-bodil-stokke-ce57934c65e12f857f16.js.map"
+      "path---talk-purescript-maybe-this-time-we-get-javascript-right-by-bodil-stokke-110e65d9995e4256d4b1.js",
+      "path---talk-purescript-maybe-this-time-we-get-javascript-right-by-bodil-stokke-110e65d9995e4256d4b1.js.map"
     ],
     "path---tag-program-correctness": [
       "path---tag-program-correctness-20f177c30f1ef4b877fc.js",
@@ -993,8 +993,8 @@
       "path---talk-marcus-lagergren-the-java-virtual-machine-is-over-the-polyglot-vm-is-here-17f6e4e46e07a302a66d.js.map"
     ],
     "path---talk-things-that-matter": [
-      "path---talk-things-that-matter-7e452cf09fa8f795e293.js",
-      "path---talk-things-that-matter-7e452cf09fa8f795e293.js.map"
+      "path---talk-things-that-matter-a6285cd753a437eebf94.js",
+      "path---talk-things-that-matter-a6285cd753a437eebf94.js.map"
     ],
     "path---tag-docker": [
       "path---tag-docker-971f825b4a1b7c027bb3.js",
@@ -1033,8 +1033,8 @@
       "path---tag-joshua-a7b5f569525203beda36.js.map"
     ],
     "path---talk-dconf-2014-day-2-talk-2-refactoring-jit-compilation-by-maxime-chevalier-boisvert": [
-      "path---talk-dconf-2014-day-2-talk-2-refactoring-jit-compilation-by-maxime-chevalier-boisvert-a3077d0a16d6c53c21f3.js",
-      "path---talk-dconf-2014-day-2-talk-2-refactoring-jit-compilation-by-maxime-chevalier-boisvert-a3077d0a16d6c53c21f3.js.map"
+      "path---talk-dconf-2014-day-2-talk-2-refactoring-jit-compilation-by-maxime-chevalier-boisvert-cb9f623d736ad5df8bb2.js",
+      "path---talk-dconf-2014-day-2-talk-2-refactoring-jit-compilation-by-maxime-chevalier-boisvert-cb9f623d736ad5df8bb2.js.map"
     ],
     "path---tag-purescript": [
       "path---tag-purescript-4dc3854596684481c5b7.js",
@@ -1049,8 +1049,8 @@
       "path---tag-lisp-f869479ee8aac66285d3.js.map"
     ],
     "path---talk-make-simple-tasks-simple": [
-      "path---talk-make-simple-tasks-simple-57c4c1fa27ddf2dab80c.js",
-      "path---talk-make-simple-tasks-simple-57c4c1fa27ddf2dab80c.js.map"
+      "path---talk-make-simple-tasks-simple-00eb354f499e52fde186.js",
+      "path---talk-make-simple-tasks-simple-00eb354f499e52fde186.js.map"
     ],
     "path---talk-scala-collections-why-not": [
       "path---talk-scala-collections-why-not-9042234c2935754802ed.js",
@@ -1129,12 +1129,12 @@
       "path---talk-faith-evolution-and-programming-languages-7400d902b2ff08478998.js.map"
     ],
     "component---src-templates-tag-index-js": [
-      "component---src-templates-tag-index-js-055e330c8484f977c052.js",
-      "component---src-templates-tag-index-js-055e330c8484f977c052.js.map"
+      "component---src-templates-tag-index-js-b5b20751ed7636061c74.js",
+      "component---src-templates-tag-index-js-b5b20751ed7636061c74.js.map"
     ],
     "path---tag-user-interface-speech-topic": [
-      "path---tag-user-interface-speech-topic-7bde495140ad50160875.js",
-      "path---tag-user-interface-speech-topic-7bde495140ad50160875.js.map"
+      "path---tag-user-interface-speech-topic-acce4e53af10a2f216aa.js",
+      "path---tag-user-interface-speech-topic-acce4e53af10a2f216aa.js.map"
     ],
     "path---tag-underscorejs": [
       "path---tag-underscorejs-f3acb1c00d3f8f2cb0a1.js",
@@ -1149,8 +1149,8 @@
       "path---speaker-brian-ford-d4fec832c0e9fbb47686.js.map"
     ],
     "path---talk-scott-meyers-the-most-important-design-guideline": [
-      "path---talk-scott-meyers-the-most-important-design-guideline-2568286c73c933ec1e59.js",
-      "path---talk-scott-meyers-the-most-important-design-guideline-2568286c73c933ec1e59.js.map"
+      "path---talk-scott-meyers-the-most-important-design-guideline-11d5cdbce1484674091f.js",
+      "path---talk-scott-meyers-the-most-important-design-guideline-11d5cdbce1484674091f.js.map"
     ],
     "path---talk-functional-programming-bodil-stokke": [
       "path---talk-functional-programming-bodil-stokke-4715bf38229a6aa8c367.js",
@@ -1189,8 +1189,8 @@
       "path---talk-peter-norvig-the-unreasonable-effectiveness-of-data-0f0741684eaf12a47b7d.js.map"
     ],
     "path---talk-eric-shull-communicating-sequential-processes-september-22-2015": [
-      "path---talk-eric-shull-communicating-sequential-processes-september-22-2015-e87651de7c1e40b1ecce.js",
-      "path---talk-eric-shull-communicating-sequential-processes-september-22-2015-e87651de7c1e40b1ecce.js.map"
+      "path---talk-eric-shull-communicating-sequential-processes-september-22-2015-c0c754fdf52035987e59.js",
+      "path---talk-eric-shull-communicating-sequential-processes-september-22-2015-c0c754fdf52035987e59.js.map"
     ],
     "path---tag-jug": [
       "path---tag-jug-c5210e23520827d40ca1.js",
@@ -1213,8 +1213,8 @@
       "path---speaker-angelina-fabbro-397ac58499cdb7ca51d2.js.map"
     ],
     "path---talk-droidcon-montreal-jake-wharton-a-few-ok-libraries": [
-      "path---talk-droidcon-montreal-jake-wharton-a-few-ok-libraries-cf947fc87a3c92214e49.js",
-      "path---talk-droidcon-montreal-jake-wharton-a-few-ok-libraries-cf947fc87a3c92214e49.js.map"
+      "path---talk-droidcon-montreal-jake-wharton-a-few-ok-libraries-613243371c0525bd2bc6.js",
+      "path---talk-droidcon-montreal-jake-wharton-a-few-ok-libraries-613243371c0525bd2bc6.js.map"
     ],
     "path---tag-opencl": [
       "path---tag-opencl-e94e55f2a0d6d94f6950.js",
@@ -1225,8 +1225,8 @@
       "path---tag-gil-tene-ebdf8bcbce43e6afe680.js.map"
     ],
     "path---talk-brian-beckman-dont-fear-the-monad": [
-      "path---talk-brian-beckman-dont-fear-the-monad-1866dfd37db0396af330.js",
-      "path---talk-brian-beckman-dont-fear-the-monad-1866dfd37db0396af330.js.map"
+      "path---talk-brian-beckman-dont-fear-the-monad-c06249a490203c55e584.js",
+      "path---talk-brian-beckman-dont-fear-the-monad-c06249a490203c55e584.js.map"
     ],
     "path---talk-simplifying-scala-collections-bill-venners": [
       "path---talk-simplifying-scala-collections-bill-venners-bd308feb16830d41d47d.js",
@@ -1289,8 +1289,8 @@
       "path---tag-the-25c9a520736ec3cddf0e.js.map"
     ],
     "path---talk-unconventional-programming-with-chemical-computing-by-carin-meier": [
-      "path---talk-unconventional-programming-with-chemical-computing-by-carin-meier-06ad480510d0a0a8d2f4.js",
-      "path---talk-unconventional-programming-with-chemical-computing-by-carin-meier-06ad480510d0a0a8d2f4.js.map"
+      "path---talk-unconventional-programming-with-chemical-computing-by-carin-meier-5275f7e738094f1832ae.js",
+      "path---talk-unconventional-programming-with-chemical-computing-by-carin-meier-5275f7e738094f1832ae.js.map"
     ],
     "path---tag-api": [
       "path---tag-api-b70f7e7fa8c64360b9bf.js",
@@ -1305,16 +1305,16 @@
       "path---tag-monoid-2d52cf891b29f8e899ca.js.map"
     ],
     "path---talk-pete-hunt-react-rethinking-best-practices-jsconf-eu-2013": [
-      "path---talk-pete-hunt-react-rethinking-best-practices-jsconf-eu-2013-69a3057d0602646b7df2.js",
-      "path---talk-pete-hunt-react-rethinking-best-practices-jsconf-eu-2013-69a3057d0602646b7df2.js.map"
+      "path---talk-pete-hunt-react-rethinking-best-practices-jsconf-eu-2013-1c99b2bf5f66f6c7f747.js",
+      "path---talk-pete-hunt-react-rethinking-best-practices-jsconf-eu-2013-1c99b2bf5f66f6c7f747.js.map"
     ],
     "path---tag-acm": [
       "path---tag-acm-63f28366ef8aaa57811c.js",
       "path---tag-acm-63f28366ef8aaa57811c.js.map"
     ],
     "path---talk-effective-java-still-effective-after-all-these-years": [
-      "path---talk-effective-java-still-effective-after-all-these-years-d79499a02ebf13674a15.js",
-      "path---talk-effective-java-still-effective-after-all-these-years-d79499a02ebf13674a15.js.map"
+      "path---talk-effective-java-still-effective-after-all-these-years-af4da41bfd949e74e3e9.js",
+      "path---talk-effective-java-still-effective-after-all-these-years-af4da41bfd949e74e3e9.js.map"
     ],
     "path---tag-marcus-lagergreen": [
       "path---tag-marcus-lagergreen-0e7c56312b5b1f9d1508.js",
@@ -1429,8 +1429,8 @@
       "path---tag-representational-state-transfer-internet-protocol-7bfb0f6148d3251a3c2a.js.map"
     ],
     "path---talk-kicking-the-complexity-habit-dan-north": [
-      "path---talk-kicking-the-complexity-habit-dan-north-fc1bcd44cb18187652be.js",
-      "path---talk-kicking-the-complexity-habit-dan-north-fc1bcd44cb18187652be.js.map"
+      "path---talk-kicking-the-complexity-habit-dan-north-0abf2b6c9f479a7d8e4c.js",
+      "path---talk-kicking-the-complexity-habit-dan-north-0abf2b6c9f479a7d8e4c.js.map"
     ],
     "path---tag-source": [
       "path---tag-source-44223e18ccebe7747a7f.js",
@@ -1501,12 +1501,12 @@
       "path---tag-open-source-tools-40018d983e817317837d.js.map"
     ],
     "path---talk-clojurescript-lisps-revenge": [
-      "path---talk-clojurescript-lisps-revenge-25d5aa097f8e01c40230.js",
-      "path---talk-clojurescript-lisps-revenge-25d5aa097f8e01c40230.js.map"
+      "path---talk-clojurescript-lisps-revenge-1fd7cf3d9eda82e8c147.js",
+      "path---talk-clojurescript-lisps-revenge-1fd7cf3d9eda82e8c147.js.map"
     ],
     "path---talk-how-brain-science-will-change-computing": [
-      "path---talk-how-brain-science-will-change-computing-1e85212a3f3ddd397e0b.js",
-      "path---talk-how-brain-science-will-change-computing-1e85212a3f3ddd397e0b.js.map"
+      "path---talk-how-brain-science-will-change-computing-b1a7054b9a10af029dab.js",
+      "path---talk-how-brain-science-will-change-computing-b1a7054b9a10af029dab.js.map"
     ],
     "path---tag-user-interface": [
       "path---tag-user-interface-3f3c72185774f0fdb2a1.js",
@@ -1529,8 +1529,8 @@
       "path---tag-28-c-3-behind-enemy-lines-c356cb1894c3670dbdcd.js.map"
     ],
     "path---talk-the-many-meanings-of-event-driven-architecture": [
-      "path---talk-the-many-meanings-of-event-driven-architecture-96aae2dfe401ffc12164.js",
-      "path---talk-the-many-meanings-of-event-driven-architecture-96aae2dfe401ffc12164.js.map"
+      "path---talk-the-many-meanings-of-event-driven-architecture-d20ef3b11bb407bb8699.js",
+      "path---talk-the-many-meanings-of-event-driven-architecture-d20ef3b11bb407bb8699.js.map"
     ],
     "path---speaker-joshua-bloch": [
       "path---speaker-joshua-bloch-8ed4e05efd8eb1938717.js",
@@ -1741,8 +1741,8 @@
       "path---tag-w-hugh-woodin-ae97f86e9653aebe1439.js.map"
     ],
     "path---talk-the-scribes-oath": [
-      "path---talk-the-scribes-oath-a78c75104bc5c883dea5.js",
-      "path---talk-the-scribes-oath-a78c75104bc5c883dea5.js.map"
+      "path---talk-the-scribes-oath-278cdf2470749c530c0b.js",
+      "path---talk-the-scribes-oath-278cdf2470749c530c0b.js.map"
     ],
     "path---talk-functional-programming-design-patterns-by-scott-wlaschin": [
       "path---talk-functional-programming-design-patterns-by-scott-wlaschin-cbd2118261a99659da34.js",
@@ -1769,8 +1769,8 @@
       "path---tag-kate-gregory-1ac5ad983099e1c119ac.js.map"
     ],
     "path---tag-dlang": [
-      "path---tag-dlang-1f91c9b5ffe459ad3515.js",
-      "path---tag-dlang-1f91c9b5ffe459ad3515.js.map"
+      "path---tag-dlang-a97a64a5675bf60607ab.js",
+      "path---tag-dlang-a97a64a5675bf60607ab.js.map"
     ],
     "path---tag-computer-science-field": [
       "path---tag-computer-science-field-a36d871dd77987d4c940.js",
@@ -1849,8 +1849,8 @@
       "path---talk-jsconfus-2013-adam-solove-constraint-programming-in-the-browser-cce8fafae861e4e72492.js.map"
     ],
     "path---talk-mozilla-raw-webgl": [
-      "path---talk-mozilla-raw-webgl-6e1f3dcde70fa72c8078.js",
-      "path---talk-mozilla-raw-webgl-6e1f3dcde70fa72c8078.js.map"
+      "path---talk-mozilla-raw-webgl-7109571334b29e47a97c.js",
+      "path---talk-mozilla-raw-webgl-7109571334b29e47a97c.js.map"
     ],
     "path---talk-doing-with-images-makes-symbols": [
       "path---talk-doing-with-images-makes-symbols-6a714f835297fb0ee610.js",
@@ -1897,8 +1897,8 @@
       "path---talk-steve-jobs-stanford-commencement-address-222dcb85e03e101b0993.js.map"
     ],
     "path---tag-golang": [
-      "path---tag-golang-1b5cb33919c9b22fbc88.js",
-      "path---tag-golang-1b5cb33919c9b22fbc88.js.map"
+      "path---tag-golang-64e7cefd8068c70641d7.js",
+      "path---tag-golang-64e7cefd8068c70641d7.js.map"
     ],
     "path---talk-jessica-kerr-functional-principles-for-object-oriented-development": [
       "path---talk-jessica-kerr-functional-principles-for-object-oriented-development-cd838807009a45dcf6e8.js",
@@ -1957,8 +1957,8 @@
       "path---tag-group-c43d440ca6c8bbf9560e.js.map"
     ],
     "path---talk-codedive-conference-2014-scott-meyers-support-for-embedded-programming-in-c-11-and-c-14": [
-      "path---talk-codedive-conference-2014-scott-meyers-support-for-embedded-programming-in-c-11-and-c-14-6069b479bc29dfbd28e5.js",
-      "path---talk-codedive-conference-2014-scott-meyers-support-for-embedded-programming-in-c-11-and-c-14-6069b479bc29dfbd28e5.js.map"
+      "path---talk-codedive-conference-2014-scott-meyers-support-for-embedded-programming-in-c-11-and-c-14-eb68565bb13a025b2c7d.js",
+      "path---talk-codedive-conference-2014-scott-meyers-support-for-embedded-programming-in-c-11-and-c-14-eb68565bb13a025b2c7d.js.map"
     ],
     "path---talk-philip-wadler-everything-old-is-new-again-quoted-domain-specific-languages-curry-on": [
       "path---talk-philip-wadler-everything-old-is-new-again-quoted-domain-specific-languages-curry-on-41ff2aedce8337709726.js",
@@ -1977,8 +1977,8 @@
       "path---tag-stanford-university-64ec519337a54d6a0794.js.map"
     ],
     "path---talk-old-is-the-new-new": [
-      "path---talk-old-is-the-new-new-0882d30d5dff4d35a2f2.js",
-      "path---talk-old-is-the-new-new-0882d30d5dff4d35a2f2.js.map"
+      "path---talk-old-is-the-new-new-372c2c5331f43a486ea7.js",
+      "path---talk-old-is-the-new-new-372c2c5331f43a486ea7.js.map"
     ],
     "path---tag-dbx-conference-2013": [
       "path---tag-dbx-conference-2013-cae315748d3a9e9ca847.js",
@@ -2021,8 +2021,8 @@
       "path---talk-eve-by-chris-granger-3e26ef15f9f61268f5e5.js.map"
     ],
     "path---talk-framing-the-discussion-with-edsls": [
-      "path---talk-framing-the-discussion-with-edsls-17f664e9254eba1217a0.js",
-      "path---talk-framing-the-discussion-with-edsls-17f664e9254eba1217a0.js.map"
+      "path---talk-framing-the-discussion-with-edsls-e5bd7bb7a8ba3e5fea45.js",
+      "path---talk-framing-the-discussion-with-edsls-e5bd7bb7a8ba3e5fea45.js.map"
     ],
     "path---tag-raymondchandleriii": [
       "path---tag-raymondchandleriii-a03d93b833b98570a43f.js",
@@ -2037,8 +2037,8 @@
       "path---speaker-dan-lynch-1acbfb4892749b9687e8.js.map"
     ],
     "path---talk-on-being-wrong": [
-      "path---talk-on-being-wrong-2ca83676c29b562a5215.js",
-      "path---talk-on-being-wrong-2ca83676c29b562a5215.js.map"
+      "path---talk-on-being-wrong-a4aeac75e37f6646df7c.js",
+      "path---talk-on-being-wrong-a4aeac75e37f6646df7c.js.map"
     ],
     "path---tag-microsoft-research": [
       "path---tag-microsoft-research-a701acad83e785c35cbe.js",
@@ -2097,8 +2097,8 @@
       "path---tag-bram-verburg-0c5869c5269aa0c7825b.js.map"
     ],
     "path---talk-transducers": [
-      "path---talk-transducers-4aead37c42c3ecf89598.js",
-      "path---talk-transducers-4aead37c42c3ecf89598.js.map"
+      "path---talk-transducers-3a51943672287fac8400.js",
+      "path---talk-transducers-3a51943672287fac8400.js.map"
     ],
     "path---tag-example": [
       "path---tag-example-e24f2c4809f434583eeb.js",
@@ -2129,8 +2129,8 @@
       "path---tag-turing-centennial-184db76f1f0b59bb9846.js.map"
     ],
     "path---talk-jepsen-iv-hope-springs-eternal-kyle-kingsbury": [
-      "path---talk-jepsen-iv-hope-springs-eternal-kyle-kingsbury-18ab934ee52995603470.js",
-      "path---talk-jepsen-iv-hope-springs-eternal-kyle-kingsbury-18ab934ee52995603470.js.map"
+      "path---talk-jepsen-iv-hope-springs-eternal-kyle-kingsbury-366e19d9a143faa77d0c.js",
+      "path---talk-jepsen-iv-hope-springs-eternal-kyle-kingsbury-366e19d9a143faa77d0c.js.map"
     ],
     "path---tag-benchmark-literature-subject": [
       "path---tag-benchmark-literature-subject-496bffdfc93197663e35.js",
@@ -2173,8 +2173,8 @@
       "path---tag-summer-school-51a5a702b9dfec2ab7fd.js.map"
     ],
     "path---talk-speed-and-scale-how-to-get-there-adrian-cockcroft": [
-      "path---talk-speed-and-scale-how-to-get-there-adrian-cockcroft-d0564733dad271224a1a.js",
-      "path---talk-speed-and-scale-how-to-get-there-adrian-cockcroft-d0564733dad271224a1a.js.map"
+      "path---talk-speed-and-scale-how-to-get-there-adrian-cockcroft-6b34139398005bb54dc3.js",
+      "path---talk-speed-and-scale-how-to-get-there-adrian-cockcroft-6b34139398005bb54dc3.js.map"
     ],
     "path---tag-mobiconf": [
       "path---tag-mobiconf-2be5d4f2dfe9aac5b26c.js",
@@ -2205,16 +2205,16 @@
       "path---tag-application-software-software-genre-f0f6d2737b9b328c530d.js.map"
     ],
     "path---talk-no-really-robots-and-javascript": [
-      "path---talk-no-really-robots-and-javascript-e43dc417f4765ac35b2f.js",
-      "path---talk-no-really-robots-and-javascript-e43dc417f4765ac35b2f.js.map"
+      "path---talk-no-really-robots-and-javascript-c4119877eeeb413d2b1b.js",
+      "path---talk-no-really-robots-and-javascript-c4119877eeeb413d2b1b.js.map"
     ],
     "path---tag-set-theory-field-of-study": [
       "path---tag-set-theory-field-of-study-a6028af9788e433f2b5a.js",
       "path---tag-set-theory-field-of-study-a6028af9788e433f2b5a.js.map"
     ],
     "path---tag-c-11": [
-      "path---tag-c-11-3a4e228cab5a0ee6e882.js",
-      "path---tag-c-11-3a4e228cab5a0ee6e882.js.map"
+      "path---tag-c-11-dab00c361f47d592b007.js",
+      "path---tag-c-11-dab00c361f47d592b007.js.map"
     ],
     "path---tag-developers": [
       "path---tag-developers-40da7bd64a33e6c6959b.js",
@@ -2265,12 +2265,12 @@
       "path---tag-zandra-norman-39018c6b7c3690cd1b84.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-95b9ae97f71bd97c046a.js",
-      "component---src-layouts-index-js-95b9ae97f71bd97c046a.js.map"
+      "component---src-layouts-index-js-b5707113852b599a80a7.js",
+      "component---src-layouts-index-js-b5707113852b599a80a7.js.map"
     ],
     "path---talk-dan-doel-introduction-to-low-level-haskell-optimization": [
-      "path---talk-dan-doel-introduction-to-low-level-haskell-optimization-424694a23c4805391af9.js",
-      "path---talk-dan-doel-introduction-to-low-level-haskell-optimization-424694a23c4805391af9.js.map"
+      "path---talk-dan-doel-introduction-to-low-level-haskell-optimization-a79135a13d4ebedb674f.js",
+      "path---talk-dan-doel-introduction-to-low-level-haskell-optimization-a79135a13d4ebedb674f.js.map"
     ],
     "path---tag-nobel-prize": [
       "path---tag-nobel-prize-97eee63cbf38746c0a98.js",
@@ -2305,8 +2305,8 @@
       "path---tag-game-programmer-45b2132a7ab17340bf0b.js.map"
     ],
     "path---talk-idee-fixe": [
-      "path---talk-idee-fixe-a51dc75bfd43926d5867.js",
-      "path---talk-idee-fixe-a51dc75bfd43926d5867.js.map"
+      "path---talk-idee-fixe-3f222516688a82bf4d59.js",
+      "path---talk-idee-fixe-3f222516688a82bf4d59.js.map"
     ],
     "path---talk-timothy-baldridge-coreasync": [
       "path---talk-timothy-baldridge-coreasync-4187856ccbe9e12fcb4b.js",
@@ -2489,8 +2489,8 @@
       "path---tag-bartosz-milewski-6d3b39bcf80438fb0daa.js.map"
     ],
     "path---talk-designing-for-performance-martin-thompson": [
-      "path---talk-designing-for-performance-martin-thompson-ccd17079fd71cc7e3db9.js",
-      "path---talk-designing-for-performance-martin-thompson-ccd17079fd71cc7e3db9.js.map"
+      "path---talk-designing-for-performance-martin-thompson-e9f6197f23a4e88e025d.js",
+      "path---talk-designing-for-performance-martin-thompson-e9f6197f23a4e88e025d.js.map"
     ],
     "path---tag-elm-programming-language": [
       "path---tag-elm-programming-language-eeb4ba04ec850d5ca11a.js",
@@ -2557,8 +2557,8 @@
       "path---tag-dconf-2017-27ea17b3749af67efa0d.js.map"
     ],
     "path---talk-netflix-javascript-talks-async-javascript-with-reactive-extensions": [
-      "path---talk-netflix-javascript-talks-async-javascript-with-reactive-extensions-afcb6c769e9f7909fc1a.js",
-      "path---talk-netflix-javascript-talks-async-javascript-with-reactive-extensions-afcb6c769e9f7909fc1a.js.map"
+      "path---talk-netflix-javascript-talks-async-javascript-with-reactive-extensions-80a36195dc20768d455f.js",
+      "path---talk-netflix-javascript-talks-async-javascript-with-reactive-extensions-80a36195dc20768d455f.js.map"
     ],
     "path---tag-ndc-conferences": [
       "path---tag-ndc-conferences-fabad54388202da9d807.js",
@@ -2581,8 +2581,8 @@
       "path---tag-scheme-ef29c69494db6fc96c5b.js.map"
     ],
     "path---talk-ember-20-erik-bryn": [
-      "path---talk-ember-20-erik-bryn-636422a2a031453878ae.js",
-      "path---talk-ember-20-erik-bryn-636422a2a031453878ae.js.map"
+      "path---talk-ember-20-erik-bryn-af2eb15cc96cc50ce49a.js",
+      "path---talk-ember-20-erik-bryn-af2eb15cc96cc50ce49a.js.map"
     ],
     "path---talk-writing-quick-code-in-c-quickly": [
       "path---talk-writing-quick-code-in-c-quickly-9a72c9e477f6adc64a85.js",
@@ -2657,8 +2657,8 @@
       "path---tag-ecmascript-programming-language-580dee4a0ba247f2aa22.js.map"
     ],
     "path---talk-benchmarking-javascript-vyacheslav-egorov": [
-      "path---talk-benchmarking-javascript-vyacheslav-egorov-614e5bf875c7363d871b.js",
-      "path---talk-benchmarking-javascript-vyacheslav-egorov-614e5bf875c7363d871b.js.map"
+      "path---talk-benchmarking-javascript-vyacheslav-egorov-86317dbfe1decd1fbadf.js",
+      "path---talk-benchmarking-javascript-vyacheslav-egorov-86317dbfe1decd1fbadf.js.map"
     ],
     "path---speaker-alex-burkhart": [
       "path---speaker-alex-burkhart-da2f1403b1fdf900f74b.js",
@@ -2705,8 +2705,8 @@
       "path---tag-reactive-extensions-5c5b68a6346f7cde0045.js.map"
     ],
     "path---talk-dconf-2014-the-last-thing-d-needs-scott-meyers": [
-      "path---talk-dconf-2014-the-last-thing-d-needs-scott-meyers-8fb38a070f1429b44a95.js",
-      "path---talk-dconf-2014-the-last-thing-d-needs-scott-meyers-8fb38a070f1429b44a95.js.map"
+      "path---talk-dconf-2014-the-last-thing-d-needs-scott-meyers-1712a1b8cc9feda6e0bb.js",
+      "path---talk-dconf-2014-the-last-thing-d-needs-scott-meyers-1712a1b8cc9feda6e0bb.js.map"
     ],
     "path---tag-code": [
       "path---tag-code-3c2cb08555fd1dc98fa0.js",
@@ -2749,8 +2749,8 @@
       "path---talk-the-100000-student-classroom-2f634adc936176272375.js.map"
     ],
     "path---talk-power-use-of-unix-dan-north": [
-      "path---talk-power-use-of-unix-dan-north-9ac24214fdcee476ae93.js",
-      "path---talk-power-use-of-unix-dan-north-9ac24214fdcee476ae93.js.map"
+      "path---talk-power-use-of-unix-dan-north-4e8b6de69389bf529ece.js",
+      "path---talk-power-use-of-unix-dan-north-4e8b6de69389bf529ece.js.map"
     ],
     "path---tag-structure": [
       "path---tag-structure-1fc937056bfa5196b38c.js",
@@ -2793,8 +2793,8 @@
       "path---tag-live-code-63177b0724361ebfe2c2.js.map"
     ],
     "path---talk-the-algebra-of-algebraic-data-types": [
-      "path---talk-the-algebra-of-algebraic-data-types-54d9da19e1af96e9f247.js",
-      "path---talk-the-algebra-of-algebraic-data-types-54d9da19e1af96e9f247.js.map"
+      "path---talk-the-algebra-of-algebraic-data-types-40414a8c0a8f16aef9a1.js",
+      "path---talk-the-algebra-of-algebraic-data-types-40414a8c0a8f16aef9a1.js.map"
     ],
     "path---talk-the-programmer": [
       "path---talk-the-programmer-ed6f498072810bac70d4.js",
@@ -2809,8 +2809,8 @@
       "path---tag-politics-e5cb19aa070efb040b1d.js.map"
     ],
     "path---talk-why-scaling-agile-doesnt-work": [
-      "path---talk-why-scaling-agile-doesnt-work-aa07d0ebb8033992cb0f.js",
-      "path---talk-why-scaling-agile-doesnt-work-aa07d0ebb8033992cb0f.js.map"
+      "path---talk-why-scaling-agile-doesnt-work-9104197219b9936f2466.js",
+      "path---talk-why-scaling-agile-doesnt-work-9104197219b9936f2466.js.map"
     ],
     "path---tag-applications": [
       "path---tag-applications-0e4878ad43b86143c905.js",
@@ -2889,8 +2889,8 @@
       "path---talk-andreas-gal-j-2-mejs-a-multi-threaded-java-vm-in-javascript-or-jsconfar-2014-f4743efc1078f408412f.js.map"
     ],
     "path---index": [
-      "path---index-be8bd06e2824c59d4f10.js",
-      "path---index-be8bd06e2824c59d4f10.js.map"
+      "path---index-58dd0850c71dab10829d.js",
+      "path---index-58dd0850c71dab10829d.js.map"
     ],
     "path---tag-spotify": [
       "path---tag-spotify-442a3cb3c2b51de7a8f4.js",
@@ -2953,8 +2953,8 @@
       "path---tag-chicago-erlang-user-group-bd8a4ea4fc899d200699.js.map"
     ],
     "path---talk-do-schools-kill-creativity-or-sir-ken-robinson-or-ted-talks": [
-      "path---talk-do-schools-kill-creativity-or-sir-ken-robinson-or-ted-talks-7b46333c4b47dbda4374.js",
-      "path---talk-do-schools-kill-creativity-or-sir-ken-robinson-or-ted-talks-7b46333c4b47dbda4374.js.map"
+      "path---talk-do-schools-kill-creativity-or-sir-ken-robinson-or-ted-talks-90ce813dfe23c063ae10.js",
+      "path---talk-do-schools-kill-creativity-or-sir-ken-robinson-or-ted-talks-90ce813dfe23c063ae10.js.map"
     ],
     "path---talk-programming-well-with-others-social-skills-for-geeks": [
       "path---talk-programming-well-with-others-social-skills-for-geeks-01b33a006e725a077f23.js",
@@ -2977,8 +2977,8 @@
       "path---tag-asynchronicity-0fb9b832b3ef5cf54690.js.map"
     ],
     "path---tag-haskell": [
-      "path---tag-haskell-3690f5b6320b76fbcdf0.js",
-      "path---tag-haskell-3690f5b6320b76fbcdf0.js.map"
+      "path---tag-haskell-0a9ad208c7fa0670fa69.js",
+      "path---tag-haskell-0a9ad208c7fa0670fa69.js.map"
     ],
     "path---speaker-richard-stallman": [
       "path---speaker-richard-stallman-d4eb8ff398db401bf06d.js",
@@ -2989,16 +2989,16 @@
       "path---tag-video-games-acc54cbacc387a2ca5a3.js.map"
     ],
     "path---talk-ted-talk-richard-st-johns-8-secrets-of-success": [
-      "path---talk-ted-talk-richard-st-johns-8-secrets-of-success-e342ee6ff783e3c0db82.js",
-      "path---talk-ted-talk-richard-st-johns-8-secrets-of-success-e342ee6ff783e3c0db82.js.map"
+      "path---talk-ted-talk-richard-st-johns-8-secrets-of-success-eba27fe67f1ed4247b96.js",
+      "path---talk-ted-talk-richard-st-johns-8-secrets-of-success-eba27fe67f1ed4247b96.js.map"
     ],
     "path---speaker-chandler-carruth": [
       "path---speaker-chandler-carruth-675fb203a58994f2c6af.js",
       "path---speaker-chandler-carruth-675fb203a58994f2c6af.js.map"
     ],
     "path---talk-is-nodejs-better": [
-      "path---talk-is-nodejs-better-4cd3b8281a41c1b76374.js",
-      "path---talk-is-nodejs-better-4cd3b8281a41c1b76374.js.map"
+      "path---talk-is-nodejs-better-8d4df7e4f97a89c7c013.js",
+      "path---talk-is-nodejs-better-8d4df7e4f97a89c7c013.js.map"
     ],
     "path---tag-open-source-software-industry": [
       "path---tag-open-source-software-industry-2dc4955384b8ed9b4713.js",
@@ -3069,8 +3069,8 @@
       "path---tag-build-javascript-c74f5897ab2090aba482.js.map"
     ],
     "path---talk-how-technology-evolves": [
-      "path---talk-how-technology-evolves-a09e8d7ec92f54e97b1f.js",
-      "path---talk-how-technology-evolves-a09e8d7ec92f54e97b1f.js.map"
+      "path---talk-how-technology-evolves-1a13d52c081783a571e8.js",
+      "path---talk-how-technology-evolves-1a13d52c081783a571e8.js.map"
     ],
     "path---talk-python-and-julia-why-do-we-need-another-language-dwight-j-browne": [
       "path---talk-python-and-julia-why-do-we-need-another-language-dwight-j-browne-6d0a80422cbcbe1352c1.js",
@@ -3125,8 +3125,8 @@
       "path---tag-callback-hell-305383b875a6d4ed47d0.js.map"
     ],
     "path---talk-a-12-year-old-app-developer": [
-      "path---talk-a-12-year-old-app-developer-9adc7ef9fd524b4dac56.js",
-      "path---talk-a-12-year-old-app-developer-9adc7ef9fd524b4dac56.js.map"
+      "path---talk-a-12-year-old-app-developer-a703477a9f7881146884.js",
+      "path---talk-a-12-year-old-app-developer-a703477a9f7881146884.js.map"
     ],
     "path---tag-computer-vision": [
       "path---tag-computer-vision-0f1ce7ddea2e880e1181.js",
@@ -3197,8 +3197,8 @@
       "path---tag-effective-56f72b03bded67223587.js.map"
     ],
     "path---talk-transducers-from-clojure-to-c": [
-      "path---talk-transducers-from-clojure-to-c-0788df78a42b9c1052b4.js",
-      "path---talk-transducers-from-clojure-to-c-0788df78a42b9c1052b4.js.map"
+      "path---talk-transducers-from-clojure-to-c-7a10c04d64dbfcda63e4.js",
+      "path---talk-transducers-from-clojure-to-c-7a10c04d64dbfcda63e4.js.map"
     ],
     "path---tag-yeoman": [
       "path---tag-yeoman-d825246d4a478c4604de.js",
@@ -3229,8 +3229,8 @@
       "path---talk-snappy-performance-apps-with-emberjs-74ee823ecbedbc408bb7.js.map"
     ],
     "path---talk-fighting-viruses-defending-the-net": [
-      "path---talk-fighting-viruses-defending-the-net-8192be9775c9f902bcb0.js",
-      "path---talk-fighting-viruses-defending-the-net-8192be9775c9f902bcb0.js.map"
+      "path---talk-fighting-viruses-defending-the-net-692ccbf9e0426da14a84.js",
+      "path---talk-fighting-viruses-defending-the-net-692ccbf9e0426da14a84.js.map"
     ],
     "path---tag-css": [
       "path---tag-css-366a28e2da9e0b70ff4b.js",
@@ -3269,8 +3269,8 @@
       "path---tag-facebook-f-8-72df7cb331bf35a955ec.js.map"
     ],
     "path---talk-jean-yang-on-an-axiomatic-basis-for-computer-programming": [
-      "path---talk-jean-yang-on-an-axiomatic-basis-for-computer-programming-24889d9385b8a3e5cd89.js",
-      "path---talk-jean-yang-on-an-axiomatic-basis-for-computer-programming-24889d9385b8a3e5cd89.js.map"
+      "path---talk-jean-yang-on-an-axiomatic-basis-for-computer-programming-23bd63320439b419ab70.js",
+      "path---talk-jean-yang-on-an-axiomatic-basis-for-computer-programming-23bd63320439b419ab70.js.map"
     ],
     "path---tag-racket-programming-language": [
       "path---tag-racket-programming-language-17aea268a77ada2de1c2.js",
@@ -3285,8 +3285,8 @@
       "path---tag-newcircle-9ca6d58d7ceb5c3acb9b.js.map"
     ],
     "path---talk-midwestio-2014-demystifying-haskell-andrew-rademacher": [
-      "path---talk-midwestio-2014-demystifying-haskell-andrew-rademacher-040af7d7bcc1c614b924.js",
-      "path---talk-midwestio-2014-demystifying-haskell-andrew-rademacher-040af7d7bcc1c614b924.js.map"
+      "path---talk-midwestio-2014-demystifying-haskell-andrew-rademacher-5057d8f553419136f968.js",
+      "path---talk-midwestio-2014-demystifying-haskell-andrew-rademacher-5057d8f553419136f968.js.map"
     ],
     "path---tag-document-object-model-api": [
       "path---tag-document-object-model-api-5965dc8f97bba6a300db.js",
@@ -3313,8 +3313,8 @@
       "path---tag-droidcon-montreal-e52c87c6696b706cb628.js.map"
     ],
     "path---talk-the-functional-final-frontier": [
-      "path---talk-the-functional-final-frontier-470d53e5b7b7dde7b12e.js",
-      "path---talk-the-functional-final-frontier-470d53e5b7b7dde7b12e.js.map"
+      "path---talk-the-functional-final-frontier-0decb63da853e4719043.js",
+      "path---talk-the-functional-final-frontier-0decb63da853e4719043.js.map"
     ],
     "path---tag-euroscipy-2014": [
       "path---tag-euroscipy-2014-841c3dc7182c63bd20d3.js",
@@ -3381,8 +3381,8 @@
       "path---tag-angularjs-499650d69f2b830e8555.js.map"
     ],
     "path---tag-jsconf-2014": [
-      "path---tag-jsconf-2014-09531865265aa4fd7ab5.js",
-      "path---tag-jsconf-2014-09531865265aa4fd7ab5.js.map"
+      "path---tag-jsconf-2014-0940635713fb3ff55c6f.js",
+      "path---tag-jsconf-2014-0940635713fb3ff55c6f.js.map"
     ],
     "path---tag-krakw": [
       "path---tag-krakw-9d09f6ecd018fce23a1c.js",
@@ -3437,8 +3437,8 @@
       "path---talk-zachary-kessin-using-logic-programming-tools-to-drive-property-based-testing-154918d29481a05466c9.js.map"
     ],
     "commons": [
-      "commons-a5cfee0aafc378afb11d.js",
-      "commons-a5cfee0aafc378afb11d.js.map"
+      "commons-db87629c20337034bb95.js",
+      "commons-db87629c20337034bb95.js.map"
     ],
     "path---tag-beam": [
       "path---tag-beam-467df95a1e6afe887941.js",
@@ -3469,8 +3469,8 @@
       "path---tag-opencv-01b446fa62d86c26d325.js.map"
     ],
     "path---talk-microservices-spotify-kevin-goldsmith": [
-      "path---talk-microservices-spotify-kevin-goldsmith-8131d5e0799b2a8eb702.js",
-      "path---talk-microservices-spotify-kevin-goldsmith-8131d5e0799b2a8eb702.js.map"
+      "path---talk-microservices-spotify-kevin-goldsmith-0cf30758127b93e95bbf.js",
+      "path---talk-microservices-spotify-kevin-goldsmith-0cf30758127b93e95bbf.js.map"
     ],
     "path---tag-brian-lonsdorf": [
       "path---tag-brian-lonsdorf-a212706334f2016190a3.js",
@@ -3709,8 +3709,8 @@
       "path---tag-world-wide-web-video-game-platform-876d51f0cd723c11b6a3.js.map"
     ],
     "path---talk-evan-czaplicki-lets-be-mainstream-user-focused-design-in-elm-curry-on": [
-      "path---talk-evan-czaplicki-lets-be-mainstream-user-focused-design-in-elm-curry-on-cabb30f9da39c15e6621.js",
-      "path---talk-evan-czaplicki-lets-be-mainstream-user-focused-design-in-elm-curry-on-cabb30f9da39c15e6621.js.map"
+      "path---talk-evan-czaplicki-lets-be-mainstream-user-focused-design-in-elm-curry-on-ed1ab3e48a6f54950b18.js",
+      "path---talk-evan-czaplicki-lets-be-mainstream-user-focused-design-in-elm-curry-on-ed1ab3e48a6f54950b18.js.map"
     ],
     "path---tag-part-i": [
       "path---tag-part-i-d88322868fe05b35edac.js",
@@ -3729,8 +3729,8 @@
       "path---speaker-raquel-velez-37633624bc8abc70197b.js.map"
     ],
     "path---talk-hammock-driven-development": [
-      "path---talk-hammock-driven-development-d68f07770199bedfc0dd.js",
-      "path---talk-hammock-driven-development-d68f07770199bedfc0dd.js.map"
+      "path---talk-hammock-driven-development-17ebf9388ed155b08392.js",
+      "path---talk-hammock-driven-development-17ebf9388ed155b08392.js.map"
     ],
     "path---tag-walkerhale": [
       "path---tag-walkerhale-7f297f40a699a77b05d7.js",
@@ -3789,8 +3789,8 @@
       "path---tag-goingnative-2013-129e0cdfff492b3167ab.js.map"
     ],
     "path---talk-why-google-glass": [
-      "path---talk-why-google-glass-0e4b323fedcc671dc302.js",
-      "path---talk-why-google-glass-0e4b323fedcc671dc302.js.map"
+      "path---talk-why-google-glass-a9f77c65752b73332b07.js",
+      "path---talk-why-google-glass-a9f77c65752b73332b07.js.map"
     ],
     "path---tag-gotoo-conference": [
       "path---tag-gotoo-conference-0d894039fa957338bbb5.js",
@@ -3841,8 +3841,8 @@
       "path---tag-exceptions-79f133c9ec57942cc660.js.map"
     ],
     "component---src-templates-talk-index-js": [
-      "component---src-templates-talk-index-js-587d87e12e44661bc78a.js",
-      "component---src-templates-talk-index-js-587d87e12e44661bc78a.js.map"
+      "component---src-templates-talk-index-js-efccdc96cfc38bc2b19d.js",
+      "component---src-templates-talk-index-js-efccdc96cfc38bc2b19d.js.map"
     ],
     "path---tag-sf-scala": [
       "path---tag-sf-scala-e88bf98dbfdd0f520ffc.js",
@@ -3973,16 +3973,16 @@
       "path---tag-angularu-01da861d782060d34704.js.map"
     ],
     "path---talk-lambda-jam-2015-robby-findler-racket-a-programming-language-programming-language": [
-      "path---talk-lambda-jam-2015-robby-findler-racket-a-programming-language-programming-language-51e3e5ef480045c22084.js",
-      "path---talk-lambda-jam-2015-robby-findler-racket-a-programming-language-programming-language-51e3e5ef480045c22084.js.map"
+      "path---talk-lambda-jam-2015-robby-findler-racket-a-programming-language-programming-language-51940d1a7fedc03c7d11.js",
+      "path---talk-lambda-jam-2015-robby-findler-racket-a-programming-language-programming-language-51940d1a7fedc03c7d11.js.map"
     ],
     "path---tag-command-line-interface": [
       "path---tag-command-line-interface-f9d5d6253104a7c916c5.js",
       "path---tag-command-line-interface-f9d5d6253104a7c916c5.js.map"
     ],
     "path---talk-react-restful-ui-rendering-by-pete-hunt": [
-      "path---talk-react-restful-ui-rendering-by-pete-hunt-125a226b9a6f9ea17213.js",
-      "path---talk-react-restful-ui-rendering-by-pete-hunt-125a226b9a6f9ea17213.js.map"
+      "path---talk-react-restful-ui-rendering-by-pete-hunt-df0f65f7dab48593db85.js",
+      "path---talk-react-restful-ui-rendering-by-pete-hunt-df0f65f7dab48593db85.js.map"
     ],
     "path---speaker-george-dyson": [
       "path---speaker-george-dyson-61b73c831f5e08d4c016.js",
@@ -4097,8 +4097,8 @@
       "path---talk-scala-monads-declutter-your-code-with-monadic-design-2f56c0437784ec22f669.js.map"
     ],
     "path---talk-kenneth-foner-getting-a-quick-fix-on-comonads": [
-      "path---talk-kenneth-foner-getting-a-quick-fix-on-comonads-c6f6c21c57de4e1caac0.js",
-      "path---talk-kenneth-foner-getting-a-quick-fix-on-comonads-c6f6c21c57de4e1caac0.js.map"
+      "path---talk-kenneth-foner-getting-a-quick-fix-on-comonads-5aca06dc584c89bacefc.js",
+      "path---talk-kenneth-foner-getting-a-quick-fix-on-comonads-5aca06dc584c89bacefc.js.map"
     ],
     "path---talk-angular-react-speed-dave-smith": [
       "path---talk-angular-react-speed-dave-smith-9c162ad51779747845c2.js",
@@ -4117,8 +4117,8 @@
       "path---talk-erlang-factory-2016-fred-hebert-a-brief-history-of-time-e8fc3c90b6a3e927d591.js.map"
     ],
     "path---talk-go-for-pythonistas": [
-      "path---talk-go-for-pythonistas-b2998264afe76c7d5e09.js",
-      "path---talk-go-for-pythonistas-b2998264afe76c7d5e09.js.map"
+      "path---talk-go-for-pythonistas-e35ad23b5fb0fc9b235b.js",
+      "path---talk-go-for-pythonistas-e35ad23b5fb0fc9b235b.js.map"
     ],
     "path---speaker-andy-hunt": [
       "path---speaker-andy-hunt-12f1f72a2aaa69c34f05.js",
@@ -4145,8 +4145,8 @@
       "path---tag-productivity-29dd40897be0f69c2431.js.map"
     ],
     "path---talk-ecmascript-6-and-web-components-brian-leroux": [
-      "path---talk-ecmascript-6-and-web-components-brian-leroux-77e400518adf9f4e6ec2.js",
-      "path---talk-ecmascript-6-and-web-components-brian-leroux-77e400518adf9f4e6ec2.js.map"
+      "path---talk-ecmascript-6-and-web-components-brian-leroux-58e5de89313c0b8066c4.js",
+      "path---talk-ecmascript-6-and-web-components-brian-leroux-58e5de89313c0b8066c4.js.map"
     ],
     "path---speaker-james-hamilton": [
       "path---speaker-james-hamilton-6ccc8dd125a4ca043f7e.js",
@@ -4269,8 +4269,8 @@
       "path---tag-just-in-time-b84e8d2183c27b87600a.js.map"
     ],
     "path---talk-cody-roux-pure-type-systems": [
-      "path---talk-cody-roux-pure-type-systems-eb4b8af8854e7910610a.js",
-      "path---talk-cody-roux-pure-type-systems-eb4b8af8854e7910610a.js.map"
+      "path---talk-cody-roux-pure-type-systems-a84d9c46800bb53f1e83.js",
+      "path---talk-cody-roux-pure-type-systems-a84d9c46800bb53f1e83.js.map"
     ],
     "path---talk-jsconfeu-2010-chris-williams-communityjs": [
       "path---talk-jsconfeu-2010-chris-williams-communityjs-122da9e8d208be250080.js",
@@ -4333,12 +4333,12 @@
       "path---tag-introduction-e2f5cdff48ae4a1f728c.js.map"
     ],
     "path---talk-simulating-a-real-world-system-coffee-shop-in-go": [
-      "path---talk-simulating-a-real-world-system-coffee-shop-in-go-10e7d51215fe5cb6a39e.js",
-      "path---talk-simulating-a-real-world-system-coffee-shop-in-go-10e7d51215fe5cb6a39e.js.map"
+      "path---talk-simulating-a-real-world-system-coffee-shop-in-go-740219c98e395f3c7680.js",
+      "path---talk-simulating-a-real-world-system-coffee-shop-in-go-740219c98e395f3c7680.js.map"
     ],
     "path---tag-simplicity": [
-      "path---tag-simplicity-1088e8595e63f7b934ba.js",
-      "path---tag-simplicity-1088e8595e63f7b934ba.js.map"
+      "path---tag-simplicity-c8298b10ac5772181c11.js",
+      "path---tag-simplicity-c8298b10ac5772181c11.js.map"
     ],
     "path---tag-jvm": [
       "path---tag-jvm-119f85f40d7f4bb7353e.js",
@@ -4453,8 +4453,8 @@
       "path---tag-googlevideo-de6070b0f83591961aed.js.map"
     ],
     "path---talk-computing-a-theory-of-everything": [
-      "path---talk-computing-a-theory-of-everything-3e5df8ac52378891831d.js",
-      "path---talk-computing-a-theory-of-everything-3e5df8ac52378891831d.js.map"
+      "path---talk-computing-a-theory-of-everything-17bdc321c27a3dbf3fb9.js",
+      "path---talk-computing-a-theory-of-everything-17bdc321c27a3dbf3fb9.js.map"
     ],
     "path---tag-ted-talks": [
       "path---tag-ted-talks-e5e50de4a9b1a9aca8e6.js",
@@ -4469,8 +4469,8 @@
       "path---talk-andrew-odlyzko-turing-and-the-riemann-zeta-function-1a967b23465085526fdb.js.map"
     ],
     "path---talk-large-scale-javascript-application-architecture": [
-      "path---talk-large-scale-javascript-application-architecture-e35735bc189f48570a14.js",
-      "path---talk-large-scale-javascript-application-architecture-e35735bc189f48570a14.js.map"
+      "path---talk-large-scale-javascript-application-architecture-58c08e4b7e961743cb2a.js",
+      "path---talk-large-scale-javascript-application-architecture-58c08e4b7e961743cb2a.js.map"
     ],
     "path---tag-unix": [
       "path---tag-unix-aba1b71810d96d818359.js",
@@ -4553,20 +4553,20 @@
       "path---tag-series-28bcb358593f69b026e1.js.map"
     ],
     "path---talk-the-r-language-the-good-the-bad-and-the-ugly": [
-      "path---talk-the-r-language-the-good-the-bad-and-the-ugly-2a597131daaf0ad7b870.js",
-      "path---talk-the-r-language-the-good-the-bad-and-the-ugly-2a597131daaf0ad7b870.js.map"
+      "path---talk-the-r-language-the-good-the-bad-and-the-ugly-82ab6b55607f13289a94.js",
+      "path---talk-the-r-language-the-good-the-bad-and-the-ugly-82ab6b55607f13289a94.js.map"
     ],
     "path---talk-golang-practical-go-programming": [
-      "path---talk-golang-practical-go-programming-ba1137c94ce537fdf988.js",
-      "path---talk-golang-practical-go-programming-ba1137c94ce537fdf988.js.map"
+      "path---talk-golang-practical-go-programming-2efc0924cb1775174f99.js",
+      "path---talk-golang-practical-go-programming-2efc0924cb1775174f99.js.map"
     ],
     "path---tag-event-video-recording": [
       "path---tag-event-video-recording-108678e721ff65477ae0.js",
       "path---tag-event-video-recording-108678e721ff65477ae0.js.map"
     ],
     "path---talk-making-games-at-runtime-with-clojure": [
-      "path---talk-making-games-at-runtime-with-clojure-e57498cea228f971b365.js",
-      "path---talk-making-games-at-runtime-with-clojure-e57498cea228f971b365.js.map"
+      "path---talk-making-games-at-runtime-with-clojure-86a887c38b850f7c6e81.js",
+      "path---talk-making-games-at-runtime-with-clojure-86a887c38b850f7c6e81.js.map"
     ],
     "path---speaker-vincent-batts": [
       "path---speaker-vincent-batts-0b18ee3654d18bc2127e.js",
@@ -4669,8 +4669,8 @@
       "path---tag-operating-system-software-genre-92b9fdbea0f7713d429a.js.map"
     ],
     "path---talk-the-language-of-the-system": [
-      "path---talk-the-language-of-the-system-4b605df008424617a3a5.js",
-      "path---talk-the-language-of-the-system-4b605df008424617a3a5.js.map"
+      "path---talk-the-language-of-the-system-3e96e70b807086101737.js",
+      "path---talk-the-language-of-the-system-3e96e70b807086101737.js.map"
     ],
     "path---tag-next-computer": [
       "path---tag-next-computer-a0bb38f76bbd6e9d1b3d.js",
@@ -4693,24 +4693,24 @@
       "path---tag-visualization-29f829831a292543ba93.js.map"
     ],
     "path---talk-netflix-javascript-talks-version-7-the-evolution-of-javascript": [
-      "path---talk-netflix-javascript-talks-version-7-the-evolution-of-javascript-b80f62abab73f0373dfc.js",
-      "path---talk-netflix-javascript-talks-version-7-the-evolution-of-javascript-b80f62abab73f0373dfc.js.map"
+      "path---talk-netflix-javascript-talks-version-7-the-evolution-of-javascript-186ecd9f827238171c1c.js",
+      "path---talk-netflix-javascript-talks-version-7-the-evolution-of-javascript-186ecd9f827238171c1c.js.map"
     ],
     "path---tag-robby-findler": [
       "path---tag-robby-findler-33980925c2ae47642c0d.js",
       "path---tag-robby-findler-33980925c2ae47642c0d.js.map"
     ],
     "path---tag-programming-language": [
-      "path---tag-programming-language-2aada4cf3dc60ef00bf3.js",
-      "path---tag-programming-language-2aada4cf3dc60ef00bf3.js.map"
+      "path---tag-programming-language-578fd7c447c7596f78eb.js",
+      "path---tag-programming-language-578fd7c447c7596f78eb.js.map"
     ],
     "path---tag-emberjs-20": [
       "path---tag-emberjs-20-b888536fb16c8bfd2608.js",
       "path---tag-emberjs-20-b888536fb16c8bfd2608.js.map"
     ],
     "path---tag-goto-conference": [
-      "path---tag-goto-conference-cc08c99b2c508cb7d849.js",
-      "path---tag-goto-conference-cc08c99b2c508cb7d849.js.map"
+      "path---tag-goto-conference-c072154b66153e5fdc7f.js",
+      "path---tag-goto-conference-c072154b66153e5fdc7f.js.map"
     ],
     "path---tag-cppcon-2015": [
       "path---tag-cppcon-2015-45d2f2850ab066c82003.js",
@@ -4733,8 +4733,8 @@
       "path---tag-canada-d5f19f65d22de2363595.js.map"
     ],
     "app": [
-      "app-d9b89184cffeedf2f6e8.js",
-      "app-d9b89184cffeedf2f6e8.js.map"
+      "app-27049ef0b7bc18028fef.js",
+      "app-27049ef0b7bc18028fef.js.map"
     ],
     "path---tag-mutz": [
       "path---tag-mutz-0d27521299d25a50c22f.js",
@@ -4749,8 +4749,8 @@
       "path---speaker-dave-thomas-d47d9539c713b6af73c0.js.map"
     ],
     "path---talk-immutability-putting-the-dream-machine-to-work": [
-      "path---talk-immutability-putting-the-dream-machine-to-work-de01ad01c8cd8f9eee19.js",
-      "path---talk-immutability-putting-the-dream-machine-to-work-de01ad01c8cd8f9eee19.js.map"
+      "path---talk-immutability-putting-the-dream-machine-to-work-4111fa30a644da56fd90.js",
+      "path---talk-immutability-putting-the-dream-machine-to-work-4111fa30a644da56fd90.js.map"
     ],
     "path---tag-philip-wadler": [
       "path---tag-philip-wadler-09f9c5cd7925f8c35afd.js",
@@ -4769,24 +4769,24 @@
       "path---tag-cli-9ea956d85685737b7dfc.js.map"
     ],
     "path---talk-why-we-have-too-few-women-leaders": [
-      "path---talk-why-we-have-too-few-women-leaders-0a49d6837da49023f781.js",
-      "path---talk-why-we-have-too-few-women-leaders-0a49d6837da49023f781.js.map"
+      "path---talk-why-we-have-too-few-women-leaders-05ed3ad803031e70f882.js",
+      "path---talk-why-we-have-too-few-women-leaders-05ed3ad803031e70f882.js.map"
     ],
     "path---tag-5": [
       "path---tag-5-df3f3323f6de13d010a0.js",
       "path---tag-5-df3f3323f6de13d010a0.js.map"
     ],
     "path---talk-icfp-2014-safe-zero-cost-coercions-for-haskell-richard-a-eisenberg": [
-      "path---talk-icfp-2014-safe-zero-cost-coercions-for-haskell-richard-a-eisenberg-0fc8f15832af84f486a5.js",
-      "path---talk-icfp-2014-safe-zero-cost-coercions-for-haskell-richard-a-eisenberg-0fc8f15832af84f486a5.js.map"
+      "path---talk-icfp-2014-safe-zero-cost-coercions-for-haskell-richard-a-eisenberg-12137dd1a43198a68a65.js",
+      "path---talk-icfp-2014-safe-zero-cost-coercions-for-haskell-richard-a-eisenberg-12137dd1a43198a68a65.js.map"
     ],
     "path---tag-the-perfect-job": [
       "path---tag-the-perfect-job-0446eaa0acdb96627a8c.js",
       "path---tag-the-perfect-job-0446eaa0acdb96627a8c.js.map"
     ],
     "path---talk-john-papa-10-angularjs-patterns-code-on-the-beach-2014": [
-      "path---talk-john-papa-10-angularjs-patterns-code-on-the-beach-2014-ff2ffbfc3abb3fbe5e4b.js",
-      "path---talk-john-papa-10-angularjs-patterns-code-on-the-beach-2014-ff2ffbfc3abb3fbe5e4b.js.map"
+      "path---talk-john-papa-10-angularjs-patterns-code-on-the-beach-2014-19af9ed6750c6fb74841.js",
+      "path---talk-john-papa-10-angularjs-patterns-code-on-the-beach-2014-19af9ed6750c6fb74841.js.map"
     ],
     "path---tag-beach": [
       "path---tag-beach-7641049c3cb11ccd45e7.js",
@@ -4845,8 +4845,8 @@
       "path---talk-typed-clojure-in-practice-by-ambrose-bonnaire-sergeant-b29c3d09f84f6bdc9866.js.map"
     ],
     "path---talk-a-practical-guide-to-cybercrime": [
-      "path---talk-a-practical-guide-to-cybercrime-eb4974563cfcdc0391d2.js",
-      "path---talk-a-practical-guide-to-cybercrime-eb4974563cfcdc0391d2.js.map"
+      "path---talk-a-practical-guide-to-cybercrime-901310ad04f4eed4c349.js",
+      "path---talk-a-practical-guide-to-cybercrime-901310ad04f4eed4c349.js.map"
     ],
     "path---talk-losing-your-loops-fast-numerical-computing-with-numpy": [
       "path---talk-losing-your-loops-fast-numerical-computing-with-numpy-e3074773565f383398be.js",
@@ -4997,8 +4997,8 @@
       "path---tag-jsconf-eu-2014-b724fb95b301078375f9.js.map"
     ],
     "path---talk-why-c-sails-when-the-vasa-sank": [
-      "path---talk-why-c-sails-when-the-vasa-sank-a570311f064e05c093ec.js",
-      "path---talk-why-c-sails-when-the-vasa-sank-a570311f064e05c093ec.js.map"
+      "path---talk-why-c-sails-when-the-vasa-sank-811d9bd13a768255e5a0.js",
+      "path---talk-why-c-sails-when-the-vasa-sank-811d9bd13a768255e5a0.js.map"
     ],
     "path---talk-css-levels-up": [
       "path---talk-css-levels-up-c73d602c9108d07ef289.js",
@@ -5101,8 +5101,8 @@
       "path---talk-bugra-akyildiz-outlier-detection-in-time-series-signals-4a83401e90d269e08d4c.js.map"
     ],
     "path---talk-scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote": [
-      "path---talk-scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote-e247ba89945cf8d9a34e.js",
-      "path---talk-scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote-e247ba89945cf8d9a34e.js.map"
+      "path---talk-scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote-a56ce86db147cdbec6ff.js",
+      "path---talk-scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote-a56ce86db147cdbec6ff.js.map"
     ],
     "path---tag-atomic-object": [
       "path---tag-atomic-object-047da9632780b21ea308.js",
@@ -5117,8 +5117,8 @@
       "path---tag-interview-dac48fc5e16e72373339.js.map"
     ],
     "path---tag-javascript": [
-      "path---tag-javascript-1c56b2ef67c9ae75aa77.js",
-      "path---tag-javascript-1c56b2ef67c9ae75aa77.js.map"
+      "path---tag-javascript-c156ea50a568a74a0ef2.js",
+      "path---tag-javascript-c156ea50a568a74a0ef2.js.map"
     ],
     "path---tag-lock-free-programming-or": [
       "path---tag-lock-free-programming-or-8ed4956321a82a7f47a3.js",
@@ -5193,12 +5193,12 @@
       "path---tag-sbt-6fa42204f26c59158feb.js.map"
     ],
     "path---talk-recursion-schemes": [
-      "path---talk-recursion-schemes-866803218fcdfd7c2872.js",
-      "path---talk-recursion-schemes-866803218fcdfd7c2872.js.map"
+      "path---talk-recursion-schemes-1e22ed1c06b364665988.js",
+      "path---talk-recursion-schemes-1e22ed1c06b364665988.js.map"
     ],
     "path---speaker-david-nolen": [
-      "path---speaker-david-nolen-2139435744487cc36475.js",
-      "path---speaker-david-nolen-2139435744487cc36475.js.map"
+      "path---speaker-david-nolen-d42c77215d18ab67c1fd.js",
+      "path---speaker-david-nolen-d42c77215d18ab67c1fd.js.map"
     ],
     "path---speaker-brian-leroux": [
       "path---speaker-brian-leroux-23096aa2c0c95177473c.js",
@@ -5237,8 +5237,8 @@
       "path---tag-demo-conference-2014-511190f2cdfa177b57a0.js.map"
     ],
     "path---talk-free-software-free-society-richard-stallman": [
-      "path---talk-free-software-free-society-richard-stallman-ef6d1be9a8bd27f300e4.js",
-      "path---talk-free-software-free-society-richard-stallman-ef6d1be9a8bd27f300e4.js.map"
+      "path---talk-free-software-free-society-richard-stallman-94b9ee09578488918599.js",
+      "path---talk-free-software-free-society-richard-stallman-94b9ee09578488918599.js.map"
     ],
     "path---tag-gadget": [
       "path---tag-gadget-93fe09598c6f2a2434ba.js",
@@ -5249,8 +5249,8 @@
       "path---speaker-mikko-hypponen-c91db3ee8cc67e88c0b2.js.map"
     ],
     "path---talk-small-is-beautiful": [
-      "path---talk-small-is-beautiful-68da9ad39f38f1377200.js",
-      "path---talk-small-is-beautiful-68da9ad39f38f1377200.js.map"
+      "path---talk-small-is-beautiful-913fb375822685ea97b1.js",
+      "path---talk-small-is-beautiful-913fb375822685ea97b1.js.map"
     ],
     "path---speaker-derek-collison": [
       "path---speaker-derek-collison-f41f57835a4419a3f922.js",
@@ -5277,20 +5277,20 @@
       "path---tag-database-50d8f79e3ab060a97b45.js.map"
     ],
     "path---talk-coreasync-for-asynchronous-programming": [
-      "path---talk-coreasync-for-asynchronous-programming-2e0e4307cf9f8a7d9150.js",
-      "path---talk-coreasync-for-asynchronous-programming-2e0e4307cf9f8a7d9150.js.map"
+      "path---talk-coreasync-for-asynchronous-programming-8cd436a96419e8f0ebf8.js",
+      "path---talk-coreasync-for-asynchronous-programming-8cd436a96419e8f0ebf8.js.map"
     ],
     "path---tag-chandler-carruth": [
       "path---tag-chandler-carruth-f6991382b5ecdfa0d421.js",
       "path---tag-chandler-carruth-f6991382b5ecdfa0d421.js.map"
     ],
     "path---talk-fun-with-the-lambda-calculus-corey-haines": [
-      "path---talk-fun-with-the-lambda-calculus-corey-haines-b856aa238219d859fbfb.js",
-      "path---talk-fun-with-the-lambda-calculus-corey-haines-b856aa238219d859fbfb.js.map"
+      "path---talk-fun-with-the-lambda-calculus-corey-haines-c3b383ad2f4686a8e0a6.js",
+      "path---talk-fun-with-the-lambda-calculus-corey-haines-c3b383ad2f4686a8e0a6.js.map"
     ],
     "path---tag-software-development": [
-      "path---tag-software-development-f258c79a9a894a24206d.js",
-      "path---tag-software-development-f258c79a9a894a24206d.js.map"
+      "path---tag-software-development-b39957139bcf411b5f4f.js",
+      "path---tag-software-development-b39957139bcf411b5f4f.js.map"
     ],
     "path---speaker-richard-hamming": [
       "path---speaker-richard-hamming-21d43385d2c5cebad695.js",
@@ -5301,8 +5301,8 @@
       "path---tag-lambda-calculus-f67f33fa1f61eaa907ca.js.map"
     ],
     "path---talk-stupid-gopher-tricks": [
-      "path---talk-stupid-gopher-tricks-fb2a478c829330130f49.js",
-      "path---talk-stupid-gopher-tricks-fb2a478c829330130f49.js.map"
+      "path---talk-stupid-gopher-tricks-25ec458363c59d03c77b.js",
+      "path---talk-stupid-gopher-tricks-25ec458363c59d03c77b.js.map"
     ],
     "path---tag-videos-for-developers": [
       "path---tag-videos-for-developers-9aa04759d0d5010f2aa1.js",
@@ -5317,8 +5317,8 @@
       "path---speaker-bret-victor-baf0f69f6853df539edd.js.map"
     ],
     "path---talk-daphne-koller-what-were-learning-from-online-education": [
-      "path---talk-daphne-koller-what-were-learning-from-online-education-f391acb131a6d2fc181b.js",
-      "path---talk-daphne-koller-what-were-learning-from-online-education-f391acb131a6d2fc181b.js.map"
+      "path---talk-daphne-koller-what-were-learning-from-online-education-6fce74a86c8cb9ffc103.js",
+      "path---talk-daphne-koller-what-were-learning-from-online-education-6fce74a86c8cb9ffc103.js.map"
     ],
     "path---tag-universitys": [
       "path---tag-universitys-8b0af4040408aef0006f.js",
@@ -5357,8 +5357,8 @@
       "path---talk-python-3-metaprogramming-4401c96c44bb76ecaf9f.js.map"
     ],
     "path---talk-we-will-all-be-game-programmers": [
-      "path---talk-we-will-all-be-game-programmers-d6a1368f081bbb238cb9.js",
-      "path---talk-we-will-all-be-game-programmers-d6a1368f081bbb238cb9.js.map"
+      "path---talk-we-will-all-be-game-programmers-f3442455ea9a720b124f.js",
+      "path---talk-we-will-all-be-game-programmers-f3442455ea9a720b124f.js.map"
     ],
     "path---tag-online-education": [
       "path---tag-online-education-3b6e02db5d6af6b27344.js",
@@ -5373,8 +5373,8 @@
       "path---tag-optimization-tips-92606c159347eedafbca.js.map"
     ],
     "path---talk-clojure-concurrency": [
-      "path---talk-clojure-concurrency-7fccf2b1d05b6813a205.js",
-      "path---talk-clojure-concurrency-7fccf2b1d05b6813a205.js.map"
+      "path---talk-clojure-concurrency-e253d50e54bc1eac0fef.js",
+      "path---talk-clojure-concurrency-e253d50e54bc1eac0fef.js.map"
     ],
     "path---tag-tricks": [
       "path---tag-tricks-b6495b20387d01f1c818.js",
@@ -5389,8 +5389,8 @@
       "path---tag-functor-9999dc0ddbd7f21cf4dd.js.map"
     ],
     "path---tag-user-experience-design-industry": [
-      "path---tag-user-experience-design-industry-277fd5168bdeee7038f7.js",
-      "path---tag-user-experience-design-industry-277fd5168bdeee7038f7.js.map"
+      "path---tag-user-experience-design-industry-6b2a3bae4dfed5b32720.js",
+      "path---tag-user-experience-design-industry-6b2a3bae4dfed5b32720.js.map"
     ],
     "path---tag-uglify": [
       "path---tag-uglify-70ecdbe1671e85113e3f.js",
@@ -5429,8 +5429,8 @@
       "path---talk-functional-programming-patterns-for-the-non-mathematician-cut-965dab34334bcec8c660.js.map"
     ],
     "path---talk-writing-a-game-in-haskell-by-elise-huard": [
-      "path---talk-writing-a-game-in-haskell-by-elise-huard-8fddcd5d0cbd60ea7f28.js",
-      "path---talk-writing-a-game-in-haskell-by-elise-huard-8fddcd5d0cbd60ea7f28.js.map"
+      "path---talk-writing-a-game-in-haskell-by-elise-huard-cb7aca7be434acbfaf1c.js",
+      "path---talk-writing-a-game-in-haskell-by-elise-huard-cb7aca7be434acbfaf1c.js.map"
     ],
     "path---speaker-scott-hanselman": [
       "path---speaker-scott-hanselman-0d1346306ac04fc71406.js",
@@ -5481,12 +5481,12 @@
       "path---tag-yann-lecun-f78ab0da3f9844ed44d6.js.map"
     ],
     "path---talk-postcapitalism-jamie-dobson": [
-      "path---talk-postcapitalism-jamie-dobson-eba45f0951a907d39780.js",
-      "path---talk-postcapitalism-jamie-dobson-eba45f0951a907d39780.js.map"
+      "path---talk-postcapitalism-jamie-dobson-a0cb344a055475952875.js",
+      "path---talk-postcapitalism-jamie-dobson-a0cb344a055475952875.js.map"
     ],
     "path---talk-syntaxation-douglas-crockford": [
-      "path---talk-syntaxation-douglas-crockford-d251aa9ad193260f7bbe.js",
-      "path---talk-syntaxation-douglas-crockford-d251aa9ad193260f7bbe.js.map"
+      "path---talk-syntaxation-douglas-crockford-08d9f3d0215a92b17540.js",
+      "path---talk-syntaxation-douglas-crockford-08d9f3d0215a92b17540.js.map"
     ],
     "path---talk-chicago-boss-a-web-framework-built-for-comfort-and-speed-evan-miller": [
       "path---talk-chicago-boss-a-web-framework-built-for-comfort-and-speed-evan-miller-53f6588673a1c25afb21.js",
@@ -5505,8 +5505,8 @@
       "path---tag-alan-e76b29e58be66f1a3f70.js.map"
     ],
     "path---talk-career-advice-for-programmers": [
-      "path---talk-career-advice-for-programmers-399055af3293b142523c.js",
-      "path---talk-career-advice-for-programmers-399055af3293b142523c.js.map"
+      "path---talk-career-advice-for-programmers-35cde67e798262adbdd4.js",
+      "path---talk-career-advice-for-programmers-35cde67e798262adbdd4.js.map"
     ],
     "path---tag-28th-chaos-communication-congress": [
       "path---tag-28th-chaos-communication-congress-6bbe8658f092055f1b34.js",
@@ -5545,8 +5545,8 @@
       "path---tag-technology-convention-22dd3deb65d669f2465a.js.map"
     ],
     "path---talk-arne-martin-aurlien-implement-an-esoteric-programming-language-for-fun-or-jsconf-eu-2014": [
-      "path---talk-arne-martin-aurlien-implement-an-esoteric-programming-language-for-fun-or-jsconf-eu-2014-2c57e4fe1e9a6245bfe9.js",
-      "path---talk-arne-martin-aurlien-implement-an-esoteric-programming-language-for-fun-or-jsconf-eu-2014-2c57e4fe1e9a6245bfe9.js.map"
+      "path---talk-arne-martin-aurlien-implement-an-esoteric-programming-language-for-fun-or-jsconf-eu-2014-a839850ec92560e07fdd.js",
+      "path---talk-arne-martin-aurlien-implement-an-esoteric-programming-language-for-fun-or-jsconf-eu-2014-a839850ec92560e07fdd.js.map"
     ],
     "path---tag-macros": [
       "path---tag-macros-4ecb007fc56c7c9f0705.js",
@@ -5581,16 +5581,16 @@
       "path---tag-invokedynamic-d5fd30ffbe5f53011e13.js.map"
     ],
     "path---tag-dconf": [
-      "path---tag-dconf-ab490b950b743520045f.js",
-      "path---tag-dconf-ab490b950b743520045f.js.map"
+      "path---tag-dconf-732666e591171642ece4.js",
+      "path---tag-dconf-732666e591171642ece4.js.map"
     ],
     "path---tag-front-end": [
       "path---tag-front-end-969668436c4589a344cb.js",
       "path---tag-front-end-969668436c4589a344cb.js.map"
     ],
     "path---talk-introduction-to-nosql": [
-      "path---talk-introduction-to-nosql-ebce8862b4349e5ae806.js",
-      "path---talk-introduction-to-nosql-ebce8862b4349e5ae806.js.map"
+      "path---talk-introduction-to-nosql-b581ffb1106ee2f9ef1f.js",
+      "path---talk-introduction-to-nosql-b581ffb1106ee2f9ef1f.js.map"
     ],
     "path---tag-parallell-programming": [
       "path---tag-parallell-programming-d72584002a7a7b8f8ddc.js",

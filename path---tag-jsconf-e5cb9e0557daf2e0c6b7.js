@@ -1,0 +1,2 @@
+webpackJsonp([24945676791503],{2406:function(t,o){t.exports={data:{allTalkJson:{edges:[{node:{description:null,meta:{duration:"PT46M10S"},presenter:{name:null},source:{id:"lTWGoL1N-Kc",provider:"youtube"},slug:"douglas-crockford-really-javascript",tag:["jsconf"],thumbnails:{default:{url:"https://i.ytimg.com/vi/lTWGoL1N-Kc/default.jpg",height:90,width:120}},title:"Douglas Crockford: Really. JavaScript."}}]}},pathContext:{slug:"jsconf",tag:"jsconf"}}}});
+//# sourceMappingURL=path---tag-jsconf-e5cb9e0557daf2e0c6b7.js.map
