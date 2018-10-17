@@ -1,0 +1,47 @@
+{
+  "description":
+    "During the evolution of the ideas behind Continuous Delivery, many of us came to the conclusion that having branches for features was not a good idea, and resulted in some fairly problematic issues. This was contentious at the time, with lots of discussion around whether or not feature toggles or feature branching was the right way forward.\n\nRoll on several years, and through Git and GitHub, branches are everywhere. Is this a problem?\n\nThis talk re-examines the role of feature branches and feature toggles, and looks at them in the context of new research and technology to try and distill down some sensible lessons in a post-GitHub, but hopefully not post-factual, world.",
+  "id": "87b3f901-4fb9-402d-9ee0-216e5656fdb1",
+  "meta": {
+    "commentCount": "28",
+    "dislikeCount": "19",
+    "duration": "PT49M58S",
+    "favoriteCount": "0",
+    "likeCount": "402",
+    "viewCount": "25535"
+  },
+  "presenter": {
+    "name": "Sam Newman"
+  },
+  "slug": "feature-branches-and-toggles-in-a-post-github-world",
+  "source": {
+    "id": "lqRQYEHAtpk",
+    "provider": "youtube"
+  },
+  "tag": [
+    "GOTO Conference",
+    "Extreme Programming",
+    "Continuous Delivery",
+    "Trunk Based Development",
+    "Feature Branches"
+  ],
+  "title": "Feature Branches and Toggles in a Post-GitHub World",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/lqRQYEHAtpk/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/lqRQYEHAtpk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/lqRQYEHAtpk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  },
+  "type": "video"
+}
