@@ -280,6 +280,10 @@
       "path---talk-the-post-javascript-apocalypse-602d39f764525a845c2a.js",
       "path---talk-the-post-javascript-apocalypse-602d39f764525a845c2a.js.map"
     ],
+    "path---talk-top-7-agile-tips-i-learnt-as-a-product-manager": [
+      "path---talk-top-7-agile-tips-i-learnt-as-a-product-manager-ef1bb7c2db86eda744c2.js",
+      "path---talk-top-7-agile-tips-i-learnt-as-a-product-manager-ef1bb7c2db86eda744c2.js.map"
+    ],
     "path---talk-what-the-heck-is-the-event-loop-anyway": [
       "path---talk-what-the-heck-is-the-event-loop-anyway-3a3d00098c35b4460694.js",
       "path---talk-what-the-heck-is-the-event-loop-anyway-3a3d00098c35b4460694.js.map"
@@ -329,8 +333,8 @@
       "path---tag-jzef-yciski-deceased-person-59fcb3ed964845bb6745.js.map"
     ],
     "path---tag-agile": [
-      "path---tag-agile-4eb09ad4e93a420108b9.js",
-      "path---tag-agile-4eb09ad4e93a420108b9.js.map"
+      "path---tag-agile-a0805ba19015e9a725f2.js",
+      "path---tag-agile-a0805ba19015e9a725f2.js.map"
     ],
     "path---talk-google-io-2012-go-concurrency-patterns": [
       "path---talk-google-io-2012-go-concurrency-patterns-0efe98af841cbae0cfd5.js",
@@ -581,8 +585,8 @@
       "path---tag-software-design-45cabd4e78da908bf8af.js.map"
     ],
     "path---talk-mob-programming-a-whole-team-approach": [
-      "path---talk-mob-programming-a-whole-team-approach-b09d44cc2f5bfc309cf2.js",
-      "path---talk-mob-programming-a-whole-team-approach-b09d44cc2f5bfc309cf2.js.map"
+      "path---talk-mob-programming-a-whole-team-approach-5011fb9a4e362629c3fd.js",
+      "path---talk-mob-programming-a-whole-team-approach-5011fb9a4e362629c3fd.js.map"
     ],
     "path---tag-cascading-style-sheets-css": [
       "path---tag-cascading-style-sheets-css-940c7958dcbba6352a3d.js",
@@ -1273,8 +1277,8 @@
       "path---tag-octocat-56dd80989dc3f5c28434.js.map"
     ],
     "path---talk-professional-software-development": [
-      "path---talk-professional-software-development-c26d95d517cede6889d5.js",
-      "path---talk-professional-software-development-c26d95d517cede6889d5.js.map"
+      "path---talk-professional-software-development-47ea9573890880e8a69b.js",
+      "path---talk-professional-software-development-47ea9573890880e8a69b.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -2381,8 +2385,8 @@
       "path---tag-nescala-0b42c308bad3b69bbb28.js.map"
     ],
     "path---talk-patterns-of-effective-teams": [
-      "path---talk-patterns-of-effective-teams-592991afc3dd71d53134.js",
-      "path---talk-patterns-of-effective-teams-592991afc3dd71d53134.js.map"
+      "path---talk-patterns-of-effective-teams-297f132752f40d2ff96a.js",
+      "path---talk-patterns-of-effective-teams-297f132752f40d2ff96a.js.map"
     ],
     "path---tag-peter": [
       "path---tag-peter-04071ca582cf983ca951.js",
@@ -2909,8 +2913,8 @@
       "path---talk-andreas-gal-j-2-mejs-a-multi-threaded-java-vm-in-javascript-or-jsconfar-2014-f4743efc1078f408412f.js.map"
     ],
     "path---index": [
-      "path---index-f8f086ce800456e7b38f.js",
-      "path---index-f8f086ce800456e7b38f.js.map"
+      "path---index-011ddf15d6484ee1e1c3.js",
+      "path---index-011ddf15d6484ee1e1c3.js.map"
     ],
     "path---tag-spotify": [
       "path---tag-spotify-442a3cb3c2b51de7a8f4.js",
@@ -4733,8 +4737,8 @@
       "path---tag-emberjs-20-b888536fb16c8bfd2608.js.map"
     ],
     "path---tag-goto-conference": [
-      "path---tag-goto-conference-3024979aeed392cccb01.js",
-      "path---tag-goto-conference-3024979aeed392cccb01.js.map"
+      "path---tag-goto-conference-14b86a7feabd1e1802ce.js",
+      "path---tag-goto-conference-14b86a7feabd1e1802ce.js.map"
     ],
     "path---tag-cppcon-2015": [
       "path---tag-cppcon-2015-45d2f2850ab066c82003.js",
@@ -4757,8 +4761,8 @@
       "path---tag-canada-d5f19f65d22de2363595.js.map"
     ],
     "app": [
-      "app-238a315cc703861c3fe4.js",
-      "app-238a315cc703861c3fe4.js.map"
+      "app-25456cb8900348c6c3c6.js",
+      "app-25456cb8900348c6c3c6.js.map"
     ],
     "path---tag-mutz": [
       "path---tag-mutz-0d27521299d25a50c22f.js",
@@ -5127,6 +5131,10 @@
     "path---talk-scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote": [
       "path---talk-scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote-e247ba89945cf8d9a34e.js",
       "path---talk-scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote-e247ba89945cf8d9a34e.js.map"
+    ],
+    "path---speaker-benjamin-mitchell": [
+      "path---speaker-benjamin-mitchell-b81dd912a7be8841225f.js",
+      "path---speaker-benjamin-mitchell-b81dd912a7be8841225f.js.map"
     ],
     "path---tag-atomic-object": [
       "path---tag-atomic-object-047da9632780b21ea308.js",
@@ -5589,8 +5597,8 @@
       "path---tag-fibonacci-number-literature-subject-2be61dede7c9e790ef8e.js.map"
     ],
     "path---tag-scrum": [
-      "path---tag-scrum-e5bb5d7ba783cbd0752a.js",
-      "path---tag-scrum-e5bb5d7ba783cbd0752a.js.map"
+      "path---tag-scrum-0b9b5b752c6adab8ea4d.js",
+      "path---tag-scrum-0b9b5b752c6adab8ea4d.js.map"
     ],
     "path---tag-ruby-on-rails": [
       "path---tag-ruby-on-rails-265a71d4a8019e6f14e2.js",
