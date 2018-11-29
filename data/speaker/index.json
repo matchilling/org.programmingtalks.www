@@ -7,6 +7,9 @@
     "bio":
       "David Nolen is a software engineer for Cognitect. He enjoys making music, writing JavaScript, writing ClojureScript, and exploring new approaches to user interface programming."
   },
+  "Dan North": {
+    "bio": "Dan has been coaching, coding and consulting for over 25 years, with a focus on applying systems thinking and simple technology to solve complex business problems. He uses techniques from Lean operations, Theory of Constraints and Agile software development to help organisations anticipate and respond to the challenges of changing business needs.\n\nDan is the originator of Behaviour-Driven Development, an agile approach to software development that encourages teams to deliver the software that matters by emphasising the interactions between stakeholders. He also proposed Deliberate Discovery, which challenges assumptions around software planning and estimation. He argues that there are no best practices and that everything we do is subject to opportunity cost."
+  },
   "Hadi Partovi": {
     "bio":
       "Hadi Partovi is an entrepreneur and investor, and CEO of the education non-profit Code.org.\n\nIn 2013 Hadi and his twin brother Ali launched the education nonprofit Code.org which Hadi continues to lead full-time as CEO. Code.org has established computer science classes in 15% of US classrooms, created the most popular curriculum platform for K-12 computer science, and launched the global Hour of Code movement that has reached over 100 million students."
