@@ -7,14 +7,25 @@ import TalkList from '../../components/TalkList'
 import { graphql } from 'gatsby'
 import Layout from '../../components/Layout'
 
+const findProfileBySlug = slug => {
+  return Object.keys(speakers).reduce((acc, name) => {
+    if (slug === speakers[name].slug) {
+      acc = {
+        name,
+        ...speakers[name],
+      }
+    }
+
+    return acc
+  }, {})
+}
+
 export default class SpeakerTemplate extends React.Component {
   render() {
-    const speaker = Object.assign(
-      {
-        name: this.props.pageContext.speaker,
-      },
-      speakers[this.props.pageContext.speaker]
-    )
+    const { pathname } = this.props.location
+
+    const slug = pathname.substr(pathname.lastIndexOf('/') + 1)
+    const speaker = findProfileBySlug(slug)
 
     return (
       <Layout>

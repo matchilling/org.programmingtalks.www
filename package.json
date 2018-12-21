@@ -32,6 +32,7 @@
     "react-dom": "^16.7.0",
     "react-helmet": "^5.2.0",
     "react-youtube": "^7.8.0",
+    "typography-theme-github": "^0.16.18",
     "uuid": "^3.3.2",
     "webpack": "^4.28.1"
   },
@@ -45,9 +46,16 @@
     "download:video": "node ./script/download_talk.js",
     "format:data": "prettier --write 'data/**/*.json'",
     "format:src": "prettier --write 'bin/*' 'src/**/*.js' 'gatsby-*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "devDependencies": {
-    "prettier": "^1.15.3"
+    "@babel/core": "^7.2.2",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.6.0",
+    "babel-preset-gatsby": "^0.1.6",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^23.6.0",
+    "prettier": "^1.15.3",
+    "react-test-renderer": "^16.7.0"
   }
 }

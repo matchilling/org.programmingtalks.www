@@ -1,0 +1,205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TalkTemplate renders correctly 1`] = `
+<div>
+  <header>
+    <div
+      className="row"
+    >
+      <a
+        aria-current="page"
+        className=""
+        href="/"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        style={Object {}}
+        title="programming talks"
+      >
+        <h1
+          className="logo"
+        >
+          programmingtalks.org
+        </h1>
+      </a>
+    </div>
+  </header>
+  <div
+    className="row player"
+  >
+    <span
+      className=""
+    >
+      <div
+        className={null}
+        id="player"
+      />
+    </span>
+  </div>
+  <div
+    className="row content"
+  >
+    <div
+      className="talk-info"
+    >
+      <h2
+        className="talk-title"
+      >
+        <a
+          href="/talk/the-value-of-values"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          The Value of Values
+        </a>
+      </h2>
+      <div
+        className="talk-meta"
+      >
+        <div
+          className="talk-presenter"
+        >
+          <a
+            href="/speaker/rich-hickey"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Rich Hickey
+          </a>
+        </div>
+        <div
+          className="talk-duration"
+        >
+          32 minutes
+        </div>
+        <ul
+          className="talk-tag-list"
+        >
+          <li
+            className="talk-tag-list-item"
+          >
+            <a
+              href="/tag/jaxconf-2012"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              JaxConf 2012
+            </a>
+          </li>
+          <li
+            className="talk-tag-list-item"
+          >
+            <a
+              href="/tag/keynote"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Keynote
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div
+        className="talk-description"
+      >
+        In this keynote speech from JaxConf 2012, Rich Hickey, creator of Clojure and founder of Datomic gives an awesome analysis of the changing way we think about values (not the philosphoical kind) in light of the increasing complexity of information technology and the advent of Big Data. The broad subject of the talk makes it worth watching for almost anyone in the programming world, and was one of the highlights of the JaxConf lineup.
+      </div>
+    </div>
+    <div
+      className="talk-list-wrapper"
+    >
+      <h3
+        className="talk-list-title"
+      >
+        Related Talks
+      </h3>
+      <div
+        className="talk-list"
+      >
+        <div
+          className="talk-list-item"
+        >
+          <div
+            className="talk-info"
+          >
+            <h2
+              className="talk-title"
+            >
+              <a
+                href="/talk/thinking-above-the-code"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Thinking Above the Code
+              </a>
+            </h2>
+            <div
+              className="talk-meta"
+            >
+              <div
+                className="talk-presenter"
+              >
+                
+                <span>
+                  Leslie Lamport
+                </span>
+              </div>
+              <div
+                className="talk-duration"
+              >
+                an hour
+              </div>
+              <ul
+                className="talk-tag-list"
+              />
+            </div>
+            <div
+              className="talk-description"
+            >
+              <img
+                alt="Thinking Above the Code"
+                height={60}
+                src="https://i.ytimg.com/vi/-4Yp3j_jk8Q/default.jpg"
+                width={80}
+              />
+              Architects draw detailed blueprints before a brick is laid or a nail is hammered. Programmers and software engineers seldom do. A blueprint for software is called a specification. The need for extremely rigorous specifications before coding complex or critical systems should be obvious—especially for concurrent and distributed systems. This talk ...
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <div
+      className="row"
+    >
+      <h2>
+        Contributing
+      </h2>
+      <p>
+        Have you seen an awesome talk which is currently missing on this website? Drop me an email at
+         
+        <a
+          href="mailto:m@matchilling.com"
+        >
+          m@matchilling.com
+        </a>
+        , send a tweet
+         
+        <a
+          href="https://twitter.com/MatChilling"
+        >
+          @matchilling
+        </a>
+         or create a pull request on
+         
+        <a
+          href="https://github.com/matchilling/org-programmingtalks"
+        >
+          github.com/matchilling/org-programmingtalks
+        </a>
+        .
+      </p>
+    </div>
+  </footer>
+</div>
+`;

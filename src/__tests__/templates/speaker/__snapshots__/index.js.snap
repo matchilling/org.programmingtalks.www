@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SpeakerTemplate renders correctly 1`] = `
+<div>
+  <header>
+    <div
+      className="row"
+    >
+      <a
+        aria-current="page"
+        className=""
+        href="/"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        style={Object {}}
+        title="programming talks"
+      >
+        <h1
+          className="logo"
+        >
+          programmingtalks.org
+        </h1>
+      </a>
+    </div>
+  </header>
+  <div
+    className="row"
+  >
+    <h1>
+      Alan Kay
+    </h1>
+    <div
+      className="bio"
+    >
+      Alan Curtis Kay (born May 17, 1940) is an American computer scientist. He has been elected a Fellow of the American Academy of Arts and Sciences, the National Academy of Engineering, and the Royal Society of Arts. He is best known for his pioneering work on object-oriented programming and windowing graphical user interface design.
+
+He is the president of the Viewpoints Research Institute, and an adjunct professor of computer science at the University of California, Los Angeles. He is also on the advisory board of TTI/Vanguard. Until mid-2005, he was a senior fellow at HP Labs, a visiting professor at Kyoto University, and an adjunct professor at the Massachusetts Institute of Technology (MIT).
+
+Kay is also a former professional jazz guitarist, composer, and theatrical designer, and an amateur classical pipe organist.
+    </div>
+    <div
+      className="talk-list-wrapper"
+    >
+      <h3
+        className="talk-list-title"
+      >
+        Programming Talks by Alan Kay
+      </h3>
+      <div
+        className="talk-list"
+      >
+        <div
+          className="talk-list-item"
+        >
+          <div
+            className="talk-info"
+          >
+            <h2
+              className="talk-title"
+            >
+              <a
+                href="/talk/rethinking-computer-science-education"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Rethinking Computer Science Education
+              </a>
+            </h2>
+            <div
+              className="talk-meta"
+            >
+              <div
+                className="talk-presenter"
+              >
+                
+                <span>
+                  Alan Kay
+                </span>
+              </div>
+              <div
+                className="talk-duration"
+              >
+                an hour
+              </div>
+              <ul
+                className="talk-tag-list"
+              >
+                <li
+                  className="talk-tag-list-item"
+                >
+                  <a
+                    href="/tag/educational"
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                  >
+                    Educational
+                  </a>
+                </li>
+                <li
+                  className="talk-tag-list-item"
+                >
+                  <a
+                    href="/tag/crossroads-2015"
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                  >
+                    CrossRoads 2015
+                  </a>
+                </li>
+                <li
+                  className="talk-tag-list-item"
+                >
+                  <a
+                    href="/tag/inspiring"
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                  >
+                    Inspiring
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div
+              className="talk-description"
+            >
+              <img
+                alt="Rethinking Computer Science Education"
+                height={60}
+                src="https://i.ytimg.com/vi/N9c7_8Gp7gI/default.jpg"
+                width={80}
+              />
+              Alan Kay talks about alternative approaches to teach Computer Science in schools. ...
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <div
+      className="row"
+    >
+      <h2>
+        Contributing
+      </h2>
+      <p>
+        Have you seen an awesome talk which is currently missing on this website? Drop me an email at
+         
+        <a
+          href="mailto:m@matchilling.com"
+        >
+          m@matchilling.com
+        </a>
+        , send a tweet
+         
+        <a
+          href="https://twitter.com/MatChilling"
+        >
+          @matchilling
+        </a>
+         or create a pull request on
+         
+        <a
+          href="https://github.com/matchilling/org-programmingtalks"
+        >
+          github.com/matchilling/org-programmingtalks
+        </a>
+        .
+      </p>
+    </div>
+  </footer>
+</div>
+`;

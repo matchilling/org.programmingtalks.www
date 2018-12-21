@@ -9,8 +9,10 @@ import Layout from '../../components/Layout'
 
 export default class TagTemplate extends React.Component {
   render() {
-    const name = this.props.pageContext.tag
-    const description = descriptions[this.props.pageContext.slug]
+    const { pathname } = this.props.location
+
+    const slug = pathname.substr(pathname.lastIndexOf('/') + 1)
+    const description = descriptions[slug]
 
     return (
       <Layout>
@@ -20,7 +22,7 @@ export default class TagTemplate extends React.Component {
           }"`}
         />
         <div className="row">
-          <h1 className="tag-name">{name}</h1>
+          <h1 className="tag-name">{this.props.pageContext.tag}</h1>
 
           {description ? (
             <p className="tag-description">{description}</p>

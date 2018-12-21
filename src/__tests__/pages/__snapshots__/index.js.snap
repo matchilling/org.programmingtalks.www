@@ -1,0 +1,388 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IndexPage renders correctly 1`] = `
+<div>
+  <header>
+    <div
+      className="row"
+    >
+      <a
+        aria-current="page"
+        className=""
+        href="/"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        style={Object {}}
+        title="programming talks"
+      >
+        <h1
+          className="logo"
+        >
+          programmingtalks.org
+        </h1>
+      </a>
+    </div>
+  </header>
+  <div
+    className="row player"
+  >
+    <span
+      className=""
+    >
+      <div
+        className={null}
+        id="player"
+      />
+    </span>
+  </div>
+  <div
+    className="row content"
+  >
+    <div
+      className="popular"
+    >
+      <h3
+        className="title"
+      >
+        Popular speakers
+      </h3>
+      <ul
+        className="tags"
+      >
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/alan-kay"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Alan Kay
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/david-nolen"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            David Nolen
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/dan-north"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Dan North
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/hadi-partovi"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Hadi Partovi
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/rich-hickey"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Rich Hickey
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/sam-newman"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Sam Newman
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/kevlin-henney"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Kevlin Henney
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/leslie-lamport"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Leslie Lamport
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/uncle-bob-robert-cecil-martin"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            "Uncle Bob" - Robert Cecil Martin
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/steve-jobs"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Steve Jobs
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/speaker/sheryl-sandberg"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Sheryl Sandberg
+          </a>
+        </li>
+      </ul>
+      <h3
+        className="title"
+      >
+        Popular tags
+      </h3>
+      <ul
+        className="tags"
+      >
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/tag/stanford-university"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stanford University
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/tag/educational"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Educational
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/tag/keynote"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Keynote
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/tag/inspiring"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Inspiring
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
+            href="/tag/commencement-speech"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Commencement Speech
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div
+      className="talk-list-wrapper"
+    >
+      <div
+        className="talk-list"
+      >
+        <div
+          className="talk-list-item"
+        >
+          <div
+            className="talk-info"
+          >
+            <h2
+              className="talk-title"
+            >
+              <a
+                href="/talk/steve-jobs-stanford-commencement-address"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Steve Jobs' 2005 Stanford Commencement Address
+              </a>
+            </h2>
+            <div
+              className="talk-meta"
+            >
+              <div
+                className="talk-presenter"
+              >
+                
+                <span>
+                  Steve Jobs
+                </span>
+              </div>
+              <div
+                className="talk-duration"
+              >
+                15 minutes
+              </div>
+              <ul
+                className="talk-tag-list"
+              >
+                <li
+                  className="talk-tag-list-item"
+                >
+                  <a
+                    href="/tag/stanford-university"
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                  >
+                    Stanford University
+                  </a>
+                </li>
+                <li
+                  className="talk-tag-list-item"
+                >
+                  <a
+                    href="/tag/educational"
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                  >
+                    Educational
+                  </a>
+                </li>
+                <li
+                  className="talk-tag-list-item"
+                >
+                  <a
+                    href="/tag/keynote"
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                  >
+                    Keynote
+                  </a>
+                </li>
+                <li
+                  className="talk-tag-list-item"
+                >
+                  <a
+                    href="/tag/inspiring"
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                  >
+                    Inspiring
+                  </a>
+                </li>
+                <li
+                  className="talk-tag-list-item"
+                >
+                  <a
+                    href="/tag/commencement-speech"
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                  >
+                    Commencement Speech
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div
+              className="talk-description"
+            >
+              <img
+                alt="Steve Jobs' 2005 Stanford Commencement Address"
+                height={60}
+                src="https://i.ytimg.com/vi/UF8uR6Z6KLc/default.jpg"
+                width={80}
+              />
+              Drawing from some of the most pivotal points in his life, Steve Jobs, chief executive officer and co-founder of Apple Computer and of Pixar Animation Studios, urged graduates to pursue their dreams and see the opportunities in life's setbacks. ...
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer>
+    <div
+      className="row"
+    >
+      <h2>
+        Contributing
+      </h2>
+      <p>
+        Have you seen an awesome talk which is currently missing on this website? Drop me an email at
+         
+        <a
+          href="mailto:m@matchilling.com"
+        >
+          m@matchilling.com
+        </a>
+        , send a tweet
+         
+        <a
+          href="https://twitter.com/MatChilling"
+        >
+          @matchilling
+        </a>
+         or create a pull request on
+         
+        <a
+          href="https://github.com/matchilling/org-programmingtalks"
+        >
+          github.com/matchilling/org-programmingtalks
+        </a>
+        .
+      </p>
+    </div>
+  </footer>
+</div>
+`;
