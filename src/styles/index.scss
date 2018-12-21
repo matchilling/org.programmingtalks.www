@@ -66,6 +66,10 @@ ul {
   margin: 0 auto;
   max-width: 700px;
 
+  &.player {
+    max-width: none;
+  }
+
   &.content {
     margin: 2em auto 1.5em;
   }
