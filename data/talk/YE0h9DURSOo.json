@@ -1,15 +1,12 @@
 {
-  "description":
-    "Building a Neural Network from Scratch by Karmen Blake\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/IDEa/",
+  "description": "Building a Neural Network from Scratch by Karmen Blake\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/IDEa/",
   "id": "b9ff763b-465e-440f-88f9-e0f9f9f1e377",
   "meta": { "duration": "PT32M27S" },
   "presenter": { "name": null },
-  "slug":
-    "elixirdaze-2016-learn-elixir-building-a-neural-network-from-scratch-by-karmen-blake",
+  "slug": "elixirdaze-2016-learn-elixir-building-a-neural-network-from-scratch-by-karmen-blake",
   "source": { "id": "YE0h9DURSOo", "provider": "youtube" },
   "tag": [],
-  "title":
-    "ElixirDaze 2016 - Learn Elixir: Building a Neural Network from Scratch by Karmen Blake",
+  "title": "ElixirDaze 2016 - Learn Elixir: Building a Neural Network from Scratch by Karmen Blake",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/YE0h9DURSOo/default.jpg",

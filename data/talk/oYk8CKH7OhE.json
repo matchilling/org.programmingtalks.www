@@ -1,11 +1,9 @@
 {
-  "description":
-    "Curry On Prague, July 7th 2015\nhttp://curry-on.org\nhttp://2015.ecoop.org",
+  "description": "Curry On Prague, July 7th 2015\nhttp://curry-on.org\nhttp://2015.ecoop.org",
   "id": "086ade07-d633-4c69-9872-0af8549c89f7",
   "meta": { "duration": "PT58M24S" },
   "presenter": { "name": null },
-  "slug":
-    "evan-czaplicki-lets-be-mainstream-user-focused-design-in-elm-curry-on",
+  "slug": "evan-czaplicki-lets-be-mainstream-user-focused-design-in-elm-curry-on",
   "source": { "id": "oYk8CKH7OhE", "provider": "youtube" },
   "tag": [
     "Programming Language",
@@ -18,8 +16,7 @@
     "Functional Reactive Programming",
     "Language design"
   ],
-  "title":
-    "Evan Czaplicki - Let's be mainstream! User focused design in Elm - Curry On",
+  "title": "Evan Czaplicki - Let's be mainstream! User focused design in Elm - Curry On",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/oYk8CKH7OhE/default.jpg",

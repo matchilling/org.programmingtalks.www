@@ -1,6 +1,5 @@
 {
-  "description":
-    "Jafar Husain discusses interesting features that can be used today in JS6, such as Object.observe, async functions and async generators, while also giving a peek at what's being explored for JS7 to make async programming easier.",
+  "description": "Jafar Husain discusses interesting features that can be used today in JS6, such as Object.observe, async functions and async generators, while also giving a peek at what's being explored for JS7 to make async programming easier.",
   "id": "328a72f5-2625-4ad3-abd7-90dd168d9b94",
   "meta": { "duration": "PT1H11M54S" },
   "presenter": { "name": null },

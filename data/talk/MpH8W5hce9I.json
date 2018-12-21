@@ -1,6 +1,5 @@
 {
-  "description":
-    "Speaker: Craig Kerstiens\n\nTo many developers the database is a black box. You expect to be able to put data into your database, have it to stay there, and get it out when you query it... hopefully in a performant manner. When its not performant enough the two options are usually add some indexes or throw some hardware at it. We'll walk through a bit of a clearer guide of how you can understand and manage DB performance.\n\nSlides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",
+  "description": "Speaker: Craig Kerstiens\n\nTo many developers the database is a black box. You expect to be able to put data into your database, have it to stay there, and get it out when you query it... hopefully in a performant manner. When its not performant enough the two options are usually add some indexes or throw some hardware at it. We'll walk through a bit of a clearer guide of how you can understand and manage DB performance.\n\nSlides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",
   "id": "370afbc4-3664-453c-b5d7-5b27e490b901",
   "meta": { "duration": "PT33M50S" },
   "presenter": { "name": null },

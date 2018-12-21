@@ -1,14 +1,13 @@
-import { connect } from 'react-redux'
 import Helmet from 'react-helmet'
 import PropTypes from 'prop-types'
 import React from 'react'
 
-import Header from '../components/PageHeader'
-import Footer from '../components/PageFooter'
+import Header from '../PageHeader'
+import Footer from '../PageFooter'
 
-import '../styles/index.scss'
+import '../../styles/index.scss'
 
-const TemplateWrapper = ({ children }) => (
+const Layout = ({ children }) => (
   <div>
     <Helmet
       title="Programming Talks"
@@ -21,13 +20,13 @@ const TemplateWrapper = ({ children }) => (
       ]}
     />
     <Header />
-    {children()}
+    {children}
     <Footer />
   </div>
 )
 
-TemplateWrapper.propTypes = {
-  children: PropTypes.func,
+Layout.propTypes = {
+  children: PropTypes.element,
 }
 
-export default TemplateWrapper
+export default Layout

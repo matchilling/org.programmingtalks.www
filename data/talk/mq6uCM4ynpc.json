@@ -1,6 +1,5 @@
 {
-  "description":
-    "Edmond Meinfelder introduces how to receive and send HTTP requests, streams, clusters and flow control with promises and async. He covers the basics of NPM and this exciting JavaScript framework.\n\nMore free JavaScript resources: http://crcl.to/qsuy7\n\nhttp://www.meetup.com/sfnode/",
+  "description": "Edmond Meinfelder introduces how to receive and send HTTP requests, streams, clusters and flow control with promises and async. He covers the basics of NPM and this exciting JavaScript framework.\n\nMore free JavaScript resources: http://crcl.to/qsuy7\n\nhttp://www.meetup.com/sfnode/",
   "id": "3185d85e-70bc-47e3-b50e-f2f10626e701",
   "meta": {
     "duration": "PT23M8S"

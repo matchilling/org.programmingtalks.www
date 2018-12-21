@@ -1,5 +1,4 @@
 import React from 'react'
-import Link from 'gatsby-link'
 
 const Footer = () => (
   <footer>
@@ -13,7 +12,8 @@ const Footer = () => (
         pull request on{' '}
         <a href="https://github.com/matchilling/org-programmingtalks">
           github.com/matchilling/org-programmingtalks
-        </a>.
+        </a>
+        .
       </p>
     </div>
   </footer>

@@ -1,6 +1,5 @@
 {
-  "description":
-    "The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision (Johns Hopkins University, Center for Language and Speech Processing, 11/18/2014, Baltimore, MD)",
+  "description": "The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision (Johns Hopkins University, Center for Language and Speech Processing, 11/18/2014, Baltimore, MD)",
   "id": "7e27ee32-6a3c-4b84-88e3-a0753f13ba6d",
   "meta": { "duration": "PT1H7M24S" },
   "presenter": { "name": null },

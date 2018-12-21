@@ -1,6 +1,5 @@
 {
-  "description":
-    "About the speaker: Stuart Halloway (@stuarthalloway) is a founder and President of Cognitect (formerly Relevance). He is a Clojure committer, and a developer of the Datomic database. Stuart has spoken at a variety of industry events, including Strange Loop, Clojure/conj, EuroClojure, ClojureWest, SpeakerConf, QCon, GOTO, OSCON, RailsConf, RubyConf, JavaOne, and NFJS. Stuart has written a number of books and technical articles. Of these, he is most proud of Programming Clojure.",
+  "description": "About the speaker: Stuart Halloway (@stuarthalloway) is a founder and President of Cognitect (formerly Relevance). He is a Clojure committer, and a developer of the Datomic database. Stuart has spoken at a variety of industry events, including Strange Loop, Clojure/conj, EuroClojure, ClojureWest, SpeakerConf, QCon, GOTO, OSCON, RailsConf, RubyConf, JavaOne, and NFJS. Stuart has written a number of books and technical articles. Of these, he is most proud of Programming Clojure.",
   "id": "f921586c-1139-4a60-961d-413b6f9f756a",
   "meta": { "duration": "PT49M9S" },
   "presenter": { "name": null },

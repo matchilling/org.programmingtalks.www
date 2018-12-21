@@ -1,6 +1,5 @@
 {
-  "description":
-    "\"Speaker: Tom Eastman\n\nIt’s not in the OWASP Top 10, but you don’t have to look far to hear stories of security vulnerabilities involving deserialization of user input. In this talk I’ll go over what the threat is and how you might be making yourself vulnerable. I’ll cover the features (not bugs: features) of XML, YAML, and JSON that make them surprisingly dangerous, and how to protect your code from them.\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
+  "description": "\"Speaker: Tom Eastman\n\nIt’s not in the OWASP Top 10, but you don’t have to look far to hear stories of security vulnerabilities involving deserialization of user input. In this talk I’ll go over what the threat is and how you might be making yourself vulnerable. I’ll cover the features (not bugs: features) of XML, YAML, and JSON that make them surprisingly dangerous, and how to protect your code from them.\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
   "id": "1c4ed987-36ee-4950-9dbb-bd73aab5e634",
   "meta": { "duration": "PT29M54S" },
   "presenter": { "name": null },

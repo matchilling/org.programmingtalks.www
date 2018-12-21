@@ -1,6 +1,5 @@
 {
-  "description":
-    "Delivering reliable, high-performance web experiences at Facebook's scale has required us to challenge some long-held assumptions about software development. Join us to learn how we abandoned the traditional MVC paradigm in favor of a more functional application architecture.",
+  "description": "Delivering reliable, high-performance web experiences at Facebook's scale has required us to challenge some long-held assumptions about software development. Join us to learn how we abandoned the traditional MVC paradigm in favor of a more functional application architecture.",
   "id": "4a25aed0-ac56-4f54-a15e-78d50bcb9af1",
   "meta": { "duration": "PT44M36S" },
   "presenter": { "name": null },

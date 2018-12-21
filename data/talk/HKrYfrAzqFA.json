@@ -1,6 +1,5 @@
 {
-  "description":
-    "Speaker(s):\nRob Dodson\n\nDescription:\nEntering the multi-screen era means rethinking how we build our applications. Producing a few PSDs doesn't cut it anymore, we have to start seeing the things we design as components within larger systems. Join us to learn how to use Polymer to revolutionize your design process. With these new tools we can create the UIs of the future, and shorten the time between concept and reality.\n\nWatch all Google I/O 2014 videos at: g.co/io14videos",
+  "description": "Speaker(s):\nRob Dodson\n\nDescription:\nEntering the multi-screen era means rethinking how we build our applications. Producing a few PSDs doesn't cut it anymore, we have to start seeing the things we design as components within larger systems. Join us to learn how to use Polymer to revolutionize your design process. With these new tools we can create the UIs of the future, and shorten the time between concept and reality.\n\nWatch all Google I/O 2014 videos at: g.co/io14videos",
   "id": "1324fe78-1a93-4906-bf97-ffc1c0efd4c9",
   "meta": { "duration": "PT41M31S" },
   "presenter": { "name": null },
@@ -21,8 +20,7 @@
     "GDS: Upload only",
     "Other: NoGreenScreen"
   ],
-  "title":
-    "Google I/O 2014 - Unlock the next era of UI development with Polymer",
+  "title": "Google I/O 2014 - Unlock the next era of UI development with Polymer",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/HKrYfrAzqFA/default.jpg",

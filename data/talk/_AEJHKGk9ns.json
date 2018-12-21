@@ -1,6 +1,5 @@
 {
-  "description":
-    "The behavior of names and values in Python can be confusing. Like many parts of Python, it has an underlying simplicity that can be hard to discern, especially if you are used to other programming languages. Here I'll explain how it all works, and present some facts and myths along the way.  Call-by-reference? Call-by-value? The answer will be clear!",
+  "description": "The behavior of names and values in Python can be confusing. Like many parts of Python, it has an underlying simplicity that can be hard to discern, especially if you are used to other programming languages. Here I'll explain how it all works, and present some facts and myths along the way.  Call-by-reference? Call-by-value? The answer will be clear!",
   "id": "a6fb0ff8-6b69-4c04-9bdd-c438fc0368da",
   "meta": {
     "duration": "PT25M20S"

@@ -2,13 +2,11 @@
   "description": null,
   "id": "468f0055-97d3-49c1-96f1-9111f43a7ac6",
   "meta": { "duration": "PT49M37S" },
-  "presenter": { "name": null },
-  "slug":
-    "erlang-factory-sf-bay-2015-christopher-meiklejohn-distributed-eventually-consistent-computations",
+  "presenter": { "name": "Christopher Meiklejohn" },
+  "slug": "distributed-eventually-consistent-computations",
   "source": { "id": "uwpakTIg9r8", "provider": "youtube" },
-  "tag": [],
-  "title":
-    "Erlang Factory SF Bay 2015 - Christopher Meiklejohn - Distributed Eventually Consistent Computations",
+  "tag": ["Erlang"],
+  "title": "Distributed Eventually Consistent Computations",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/uwpakTIg9r8/default.jpg",

@@ -1,6 +1,5 @@
 {
-  "description":
-    "Erik Bryn (@ebryn), our friendly neighborhood Ember core team member, spoke about the plans for Ember 2.0 and how we can start preparing our apps for Ember 2.0 today. Erik is also going to be providing Ember 2.0 training classes in several cities this summer. You can preregister for them at: http://www.prototypal.io",
+  "description": "Erik Bryn (@ebryn), our friendly neighborhood Ember core team member, spoke about the plans for Ember 2.0 and how we can start preparing our apps for Ember 2.0 today. Erik is also going to be providing Ember 2.0 training classes in several cities this summer. You can preregister for them at: http://www.prototypal.io",
   "id": "acabf9d7-94cb-4542-9bba-e27238c7f102",
   "meta": { "duration": "PT40M21S" },
   "presenter": { "name": null },

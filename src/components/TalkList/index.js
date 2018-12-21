@@ -1,4 +1,3 @@
-import Link from 'gatsby-link'
 import PropTypes from 'prop-types'
 import React from 'react'
 import Talk from '../Talk'

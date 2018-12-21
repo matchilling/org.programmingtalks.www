@@ -1,6 +1,5 @@
 {
-  "description":
-    "This presentation was recorded at GOTO Chicago 2015\nhttp://gotochgo.com\n\nBrian LeRoux - PhoneGap Project Team, Adobe\n\nABSTRACT\nJavaScript has a long history of being difficult to structure and maintain. To deal with this complexity a swath of frameworks appeared over the years. Prototype.js was quickly followed by jQuery and hounded by Dojo, YUI, Mootools and [...]\nDownload slides and read the full abstract here:\nhttp://gotocon.com/chicago-2015/presentation/ECMAScript%206%20&%20Web%20Components\n\nhttps://twitter.com/gotochgo\nhttps://www.facebook.com/GOTOConference\nhttp://gotocon.com",
+  "description": "This presentation was recorded at GOTO Chicago 2015\nhttp://gotochgo.com\n\nBrian LeRoux - PhoneGap Project Team, Adobe\n\nABSTRACT\nJavaScript has a long history of being difficult to structure and maintain. To deal with this complexity a swath of frameworks appeared over the years. Prototype.js was quickly followed by jQuery and hounded by Dojo, YUI, Mootools and [...]\nDownload slides and read the full abstract here:\nhttp://gotocon.com/chicago-2015/presentation/ECMAScript%206%20&%20Web%20Components\n\nhttps://twitter.com/gotochgo\nhttps://www.facebook.com/GOTOConference\nhttp://gotocon.com",
   "id": "a090e3a1-3cce-49fb-9109-f1c99cbfe226",
   "meta": {
     "duration": "PT36M12S"

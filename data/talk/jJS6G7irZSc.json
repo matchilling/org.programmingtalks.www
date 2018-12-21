@@ -1,6 +1,5 @@
 {
-  "description":
-    "Go's concurrency model makes it easy to develop scalable servers and data pipelines. Many of the patterns we use in developing concurrent code mirror structures in real-world systems. In this talk, Sameer presents a simulation of a small real world system and shows how variations in the design impact the system's performance.",
+  "description": "Go's concurrency model makes it easy to develop scalable servers and data pipelines. Many of the patterns we use in developing concurrent code mirror structures in real-world systems. In this talk, Sameer presents a simulation of a small real world system and shows how variations in the design impact the system's performance.",
   "id": "59888f86-efab-49e1-bd24-26b21edc530d",
   "meta": {
     "commentCount": "19",

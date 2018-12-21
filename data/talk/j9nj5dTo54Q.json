@@ -1,6 +1,5 @@
 {
-  "description":
-    "There is a good amount of excitement about the new version of Java. The big evolution of course is the lambda expressions. In this presentation we will dive into the language features in Java 8, take a look at some of their nuances, and look at ways to put them to good use. In addition to looking at lambdas we will also dive into the Streams capabilities and also some of the features in Java 8 that make all these possible.",
+  "description": "There is a good amount of excitement about the new version of Java. The big evolution of course is the lambda expressions. In this presentation we will dive into the language features in Java 8, take a look at some of their nuances, and look at ways to put them to good use. In addition to looking at lambdas we will also dive into the Streams capabilities and also some of the features in Java 8 that make all these possible.",
   "id": "fa3edc3e-2b0e-43e8-a7fa-ec727334e918",
   "meta": {
     "duration": "PT1H25M27S"

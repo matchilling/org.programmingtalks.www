@@ -1,6 +1,5 @@
 {
-  "description":
-    "We will begin with an overview of the Frames library that offers a data frame abstraction for efficiently working with tabular data in Haskell. A close look at an incidental aspect of the Frames implementation will provide an opportunity to think a bit about records and sum types, which will let us work up a technique for designing embedded domain specific languages (EDSLs) that run at top speed whether interpreted as ordinary Haskell values, or used to feed an entirely non-Haskell compiler tool chain for targeting specialized hardware.",
+  "description": "We will begin with an overview of the Frames library that offers a data frame abstraction for efficiently working with tabular data in Haskell. A close look at an incidental aspect of the Frames implementation will provide an opportunity to think a bit about records and sum types, which will let us work up a technique for designing embedded domain specific languages (EDSLs) that run at top speed whether interpreted as ordinary Haskell values, or used to feed an entirely non-Haskell compiler tool chain for targeting specialized hardware.",
   "id": "f3a4caf6-e953-46fc-9e37-681cb8c63d10",
   "meta": {
     "duration": "PT1H41M41S"

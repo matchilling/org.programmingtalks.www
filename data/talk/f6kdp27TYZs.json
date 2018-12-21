@@ -1,6 +1,5 @@
 {
-  "description":
-    "Rob Pike\n\nConcurrency is the key to designing high performance network services. Go's concurrency primitives (goroutines and channels) provide a simple and efficient means of expressing concurrent execution. In this talk we see how tricky concurrency problems can be solved gracefully with simple Go code.\n\nFor all I/O 2012 sessions, go to https://developers.google.com/io/",
+  "description": "Rob Pike\n\nConcurrency is the key to designing high performance network services. Go's concurrency primitives (goroutines and channels) provide a simple and efficient means of expressing concurrent execution. In this talk we see how tricky concurrency problems can be solved gracefully with simple Go code.\n\nFor all I/O 2012 sessions, go to https://developers.google.com/io/",
   "id": "dc6bbcbd-4a76-439b-9cc5-f6dccc2af9cb",
   "meta": { "duration": "PT51M27S" },
   "presenter": { "name": null },

@@ -1,6 +1,5 @@
 {
-  "description":
-    "Google Tech Talks\r\nJuly 1, 2008\r\n\r\nABSTRACT\r\n\r\n\"Python behind the scenes\": some advanced aspects of Python.\r\n\r\nThe talk addresses an audience of proficient Python programmers and deals with several advanced topics: object creation: metaclasses, new, and init - attribute lookup mechanics and descriptor objects - introspection on objects, garbage collection, stack frames, tracebacks - Python bytecode inspection and alteration.\r\n\r\nSpeaker: Alex Martelli",
+  "description": "Google Tech Talks\r\nJuly 1, 2008\r\n\r\nABSTRACT\r\n\r\n\"Python behind the scenes\": some advanced aspects of Python.\r\n\r\nThe talk addresses an audience of proficient Python programmers and deals with several advanced topics: object creation: metaclasses, new, and init - attribute lookup mechanics and descriptor objects - introspection on objects, garbage collection, stack frames, tracebacks - Python bytecode inspection and alteration.\r\n\r\nSpeaker: Alex Martelli",
   "id": "4a2579f3-d349-41de-8505-3b222a378e86",
   "meta": {
     "duration": "PT59M36S"

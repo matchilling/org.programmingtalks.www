@@ -1,6 +1,5 @@
 {
-  "description":
-    "Speaker: Tim Williams.\n\nLondon Haskell user group. 27th March 2013.\n\nThe theory and practice of various recursion schemes applied to real world problems. Demonstrating compositional data-types and data-type generic programs by modelling recursive types as fixed points of functors. Code starts with simple list examples and moves quickly on to more problematic topics, such as program analysis, optimisation, memoization, templating and more.",
+  "description": "Speaker: Tim Williams.\n\nLondon Haskell user group. 27th March 2013.\n\nThe theory and practice of various recursion schemes applied to real world problems. Demonstrating compositional data-types and data-type generic programs by modelling recursive types as fixed points of functors. Code starts with simple list examples and moves quickly on to more problematic topics, such as program analysis, optimisation, memoization, templating and more.",
   "id": "a848fe71-40af-42cf-b518-cfb29a79f361",
   "meta": { "duration": "PT1H50M29S" },
   "presenter": { "name": null },

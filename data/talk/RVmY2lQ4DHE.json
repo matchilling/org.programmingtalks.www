@@ -1,6 +1,5 @@
 {
-  "description":
-    "Data science / big data exists at the overlap of traditional analytics and large scale computation. As such, neither the traditional tools of analytics (R, Mathematica, Matlab) nor mainstreams languages (Java, C++, C#) supply its requirements well as they cannot simultaneously provide the mathematical abstractions and real-word platform power that are required. Clojure is privileged in that it has the potential to provide just exactly that. This talk will explore why this is the case, the tools that are available and the challenges that need be overcome for Clojure to realise this potential.",
+  "description": "Data science / big data exists at the overlap of traditional analytics and large scale computation. As such, neither the traditional tools of analytics (R, Mathematica, Matlab) nor mainstreams languages (Java, C++, C#) supply its requirements well as they cannot simultaneously provide the mathematical abstractions and real-word platform power that are required. Clojure is privileged in that it has the potential to provide just exactly that. This talk will explore why this is the case, the tools that are available and the challenges that need be overcome for Clojure to realise this potential.",
   "id": "d9d5de2d-c154-452c-a5bb-b64e99339a58",
   "meta": { "duration": "PT32M40S" },
   "presenter": { "name": null },

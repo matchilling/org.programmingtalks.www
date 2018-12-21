@@ -1,6 +1,5 @@
 {
-  "description":
-    "Speaker: David Beazley\n\nPython generators have long been useful for solving all sorts of problems involving iteration and data flow. However, one of their more powerful uses is in customizing various aspects of program control flow. In this tutorial, we'll look at some more exotic uses of generators such as writing context managers, inlining callback functions, eliminating recursion, implementing actors, and more.\n\nSlides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",
+  "description": "Speaker: David Beazley\n\nPython generators have long been useful for solving all sorts of problems involving iteration and data flow. However, one of their more powerful uses is in customizing various aspects of program control flow. In this tutorial, we'll look at some more exotic uses of generators such as writing context managers, inlining callback functions, eliminating recursion, implementing actors, and more.\n\nSlides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",
   "id": "5c128ace-bf34-4496-9d74-680470901562",
   "meta": { "duration": "PT3H50M55S" },
   "presenter": { "name": null },

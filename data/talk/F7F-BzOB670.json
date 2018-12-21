@@ -1,6 +1,5 @@
 {
-  "description":
-    "Kenneth Foner's Comonad talk at the Boston Haskell meetup, September 17, 2014.\nCode and slides: https://github.com/kwf/ComonadSheet",
+  "description": "Kenneth Foner's Comonad talk at the Boston Haskell meetup, September 17, 2014.\nCode and slides: https://github.com/kwf/ComonadSheet",
   "id": "3d948ddc-b99e-4be4-a4c5-4ba1139f4af8",
   "meta": { "duration": "PT58M33S" },
   "presenter": { "name": null },

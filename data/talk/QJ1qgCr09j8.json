@@ -1,6 +1,5 @@
 {
-  "description":
-    "This presentation will introduce a new start-up focused on machine learning that is using Clojure. We will discuss the technology and architecture it has developed for real-time machine learning and pattern recognition, and how Clojure provides a unique set of advantages.\n\nThere will be a live coding demonstration of interactively applying machine learning to a simple task and visualization of the results.",
+  "description": "This presentation will introduce a new start-up focused on machine learning that is using Clojure. We will discuss the technology and architecture it has developed for real-time machine learning and pattern recognition, and how Clojure provides a unique set of advantages.\n\nThere will be a live coding demonstration of interactively applying machine learning to a simple task and visualization of the results.",
   "id": "ef8a9908-bc51-4e88-a390-7a7109bd383c",
   "meta": { "duration": "PT27M38S" },
   "presenter": { "name": null },

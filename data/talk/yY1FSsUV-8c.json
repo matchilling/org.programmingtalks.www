@@ -1,6 +1,5 @@
 {
-  "description":
-    "Is it possible to imagine a future where “concert programmers” are as common a fixture in the worlds auditoriums as concert pianists? In this presentation Andrew will be live-coding the generative algorithms that will be producing the music that the audience will be listening too. As Andrew is typing he will also attempt to narrate the journey, discussing the various computational and musical choices made along the way. A must see for anyone interested in creative computing.",
+  "description": "Is it possible to imagine a future where “concert programmers” are as common a fixture in the worlds auditoriums as concert pianists? In this presentation Andrew will be live-coding the generative algorithms that will be producing the music that the audience will be listening too. As Andrew is typing he will also attempt to narrate the journey, discussing the various computational and musical choices made along the way. A must see for anyone interested in creative computing.",
   "id": "a2ce9fae-d49e-4d5b-a59a-66ce3aed13fc",
   "meta": {
     "duration": "PT10M23S"

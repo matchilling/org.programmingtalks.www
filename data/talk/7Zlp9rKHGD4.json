@@ -1,6 +1,5 @@
 {
-  "description":
-    "Why is functional programming becoming such a hot topic? Just what _is_ functional programming anyway? And when am I going to have to know about it? In this talk Uncle Bob will walk you through the rationale that is driving the current push towards functional programming. He'll also introduce you to the basics by walking through some simple Clojure code.",
+  "description": "Why is functional programming becoming such a hot topic? Just what _is_ functional programming anyway? And when am I going to have to know about it? In this talk Uncle Bob will walk you through the rationale that is driving the current push towards functional programming. He'll also introduce you to the basics by walking through some simple Clojure code.",
   "id": "265c68c4-de1b-47cb-ad58-7e407f43d370",
   "meta": {
     "duration": "PT58M27S"

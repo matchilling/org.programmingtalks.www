@@ -1,6 +1,5 @@
 {
-  "description":
-    "International Conference on Functional Programming 2014.\nGothenburg, Sweden.",
+  "description": "International Conference on Functional Programming 2014.\nGothenburg, Sweden.",
   "id": "62e07d37-abb5-4750-91f4-085e69a82414",
   "meta": { "duration": "PT26M1S" },
   "presenter": { "name": null },
@@ -10,8 +9,7 @@
     "Haskell",
     "International Conference On Functional Programming (Conference Series)"
   ],
-  "title":
-    "ICFP 2014: Safe Zero-Cost Coercions for Haskell - Richard A. Eisenberg",
+  "title": "ICFP 2014: Safe Zero-Cost Coercions for Haskell - Richard A. Eisenberg",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/xFy_8n_HdI4/default.jpg",

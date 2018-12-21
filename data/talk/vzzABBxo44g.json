@@ -1,6 +1,5 @@
 {
-  "description":
-    "Curry On Prague, July 7th, 2015\nhttp://curry-on.org\nhttp://2015.ecoop.org",
+  "description": "Curry On Prague, July 7th, 2015\nhttp://curry-on.org\nhttp://2015.ecoop.org",
   "id": "ad2bb66e-b1ef-4aa6-b728-6c4e55667941",
   "meta": { "duration": "PT44M" },
   "presenter": { "name": null },

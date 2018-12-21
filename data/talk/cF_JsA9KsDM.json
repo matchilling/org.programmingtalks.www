@@ -1,6 +1,5 @@
 {
-  "description":
-    "Bringing Angular Apps to Life with Animation\n\nOn April 3rd, AngularJS 1.1.4 will be released. The primary feature in this release is declarative support for animation in templates. Along with sharing our design decisions and implementation details, we'll show you how to use these new features and how to handle progressive enhancement for older browsers.\n\nMiško Hevery works as an Agile Coach at Google where he is responsible for coaching Googlers to maintain the high level of automated testing culture. He is the father of the AngularJS framework (http://angularjs.org) which enhances HTML to make it suitable for building single page (AJAX) web-applications.",
+  "description": "Bringing Angular Apps to Life with Animation\n\nOn April 3rd, AngularJS 1.1.4 will be released. The primary feature in this release is declarative support for animation in templates. Along with sharing our design decisions and implementation details, we'll show you how to use these new features and how to handle progressive enhancement for older browsers.\n\nMiško Hevery works as an Agile Coach at Google where he is responsible for coaching Googlers to maintain the high level of automated testing culture. He is the father of the AngularJS framework (http://angularjs.org) which enhances HTML to make it suitable for building single page (AJAX) web-applications.",
   "id": "0ca80df8-9664-4e89-92c2-e8aa6ca17656",
   "meta": { "duration": "PT42M38S" },
   "presenter": { "name": null },

@@ -6,9 +6,7 @@
 const path = require('path')
 const String = require('./src/utils/string')
 
-exports.onCreateNode = ({ node, _, boundActionCreators }) => {
-  const { createNodeField } = boundActionCreators
-
+exports.onCreateNode = ({ node }) => {
   if (node.internal.type === `TalkJson`) {
     node.presenter = {
       name: node.presenter.name || null,
@@ -19,10 +17,10 @@ exports.onCreateNode = ({ node, _, boundActionCreators }) => {
   }
 }
 
-exports.createPages = ({ graphql, boundActionCreators }) => {
-  const { createPage } = boundActionCreators
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions
 
-  return new Promise((resolve, reject) => {
+  return new Promise(resolve => {
     graphql(`
       {
         allTalkJson {

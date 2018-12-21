@@ -1,6 +1,5 @@
 {
-  "description":
-    "How do we resolve the question, \"is this better than that?\" This talk discusses ideas for improving how we handle conflict in the programming community through the lens of evaluating whether Node.js is better than other technologies like Ruby.",
+  "description": "How do we resolve the question, \"is this better than that?\" This talk discusses ideas for improving how we handle conflict in the programming community through the lens of evaluating whether Node.js is better than other technologies like Ruby.",
   "id": "c162e2c6-55f5-41b4-9749-50ad846f0b78",
   "meta": {
     "duration": "PT41M43S"

@@ -1,6 +1,5 @@
 {
-  "description":
-    "Boston Haskell, February 18, 2015\nNikhil builds an Enigma machine. First in Cryptol, then in hardware by way of Haskell.\nSlides and code available here:  https://github.com/rsnikhil/Enigma_Cryptol_Bluespec_BSV.git",
+  "description": "Boston Haskell, February 18, 2015\nNikhil builds an Enigma machine. First in Cryptol, then in hardware by way of Haskell.\nSlides and code available here:  https://github.com/rsnikhil/Enigma_Cryptol_Bluespec_BSV.git",
   "id": "75f64f53-cf77-4c07-9020-4a6fe4eeabd4",
   "meta": { "duration": "PT59M41S" },
   "presenter": { "name": null },

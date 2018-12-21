@@ -1,49 +1,39 @@
 {
   "Alan Kay": {
-    "bio":
-      "Alan Curtis Kay (born May 17, 1940) is an American computer scientist. He has been elected a Fellow of the American Academy of Arts and Sciences, the National Academy of Engineering, and the Royal Society of Arts. He is best known for his pioneering work on object-oriented programming and windowing graphical user interface design.\n\nHe is the president of the Viewpoints Research Institute, and an adjunct professor of computer science at the University of California, Los Angeles. He is also on the advisory board of TTI/Vanguard. Until mid-2005, he was a senior fellow at HP Labs, a visiting professor at Kyoto University, and an adjunct professor at the Massachusetts Institute of Technology (MIT).\n\nKay is also a former professional jazz guitarist, composer, and theatrical designer, and an amateur classical pipe organist."
+    "bio": "Alan Curtis Kay (born May 17, 1940) is an American computer scientist. He has been elected a Fellow of the American Academy of Arts and Sciences, the National Academy of Engineering, and the Royal Society of Arts. He is best known for his pioneering work on object-oriented programming and windowing graphical user interface design.\n\nHe is the president of the Viewpoints Research Institute, and an adjunct professor of computer science at the University of California, Los Angeles. He is also on the advisory board of TTI/Vanguard. Until mid-2005, he was a senior fellow at HP Labs, a visiting professor at Kyoto University, and an adjunct professor at the Massachusetts Institute of Technology (MIT).\n\nKay is also a former professional jazz guitarist, composer, and theatrical designer, and an amateur classical pipe organist."
   },
   "David Nolen": {
-    "bio":
-      "David Nolen is a software engineer for Cognitect. He enjoys making music, writing JavaScript, writing ClojureScript, and exploring new approaches to user interface programming."
+    "bio": "David Nolen is a software engineer for Cognitect. He enjoys making music, writing JavaScript, writing ClojureScript, and exploring new approaches to user interface programming."
   },
   "Dan North": {
     "bio": "Dan has been coaching, coding and consulting for over 25 years, with a focus on applying systems thinking and simple technology to solve complex business problems. He uses techniques from Lean operations, Theory of Constraints and Agile software development to help organisations anticipate and respond to the challenges of changing business needs.\n\nDan is the originator of Behaviour-Driven Development, an agile approach to software development that encourages teams to deliver the software that matters by emphasising the interactions between stakeholders. He also proposed Deliberate Discovery, which challenges assumptions around software planning and estimation. He argues that there are no best practices and that everything we do is subject to opportunity cost."
   },
   "Hadi Partovi": {
-    "bio":
-      "Hadi Partovi is an entrepreneur and investor, and CEO of the education non-profit Code.org.\n\nIn 2013 Hadi and his twin brother Ali launched the education nonprofit Code.org which Hadi continues to lead full-time as CEO. Code.org has established computer science classes in 15% of US classrooms, created the most popular curriculum platform for K-12 computer science, and launched the global Hour of Code movement that has reached over 100 million students."
+    "bio": "Hadi Partovi is an entrepreneur and investor, and CEO of the education non-profit Code.org.\n\nIn 2013 Hadi and his twin brother Ali launched the education nonprofit Code.org which Hadi continues to lead full-time as CEO. Code.org has established computer science classes in 15% of US classrooms, created the most popular curriculum platform for K-12 computer science, and launched the global Hour of Code movement that has reached over 100 million students."
   },
   "Rich Hickey": {
-    "bio":
-      "Rich Hickey is the creator of the Clojure language. Before Clojure, he developed dotLisp, a similar project based on the .NET Framework, and three earlier attempts to provide interoperability between Lisp and Java: a Java foreign language interface for Common Lisp (jfli), A Foreign Object Interface for Lisp (FOIL), and a Lisp-friendly interface to Java Servlets (Lisplets).",
+    "bio": "Rich Hickey is the creator of the Clojure language. Before Clojure, he developed dotLisp, a similar project based on the .NET Framework, and three earlier attempts to provide interoperability between Lisp and Java: a Java foreign language interface for Common Lisp (jfli), A Foreign Object Interface for Lisp (FOIL), and a Lisp-friendly interface to Java Servlets (Lisplets).",
     "twitter": "richhickey",
     "github": "richhickey"
   },
   "Sam Newman": {
-    "bio":
-      "Sam Newman is a technologist at ThoughtWorks, where he currently splits his time between encouraging and sharing Innovation globally and working as the architect for internal systems. Sam is the author of \"Building Microservices\" from O'Reilly. He has worked with a variety of companies in multiple domains around the world, often with one foot in the developer world, and another in the IT operations space. If you asked him what he does, he’d say ‘I work with people to build better software systems’. He has written articles, presented at conferences, and sporadically commits to open source projects. While Java used to be his bread and butter, he also spends time with Ruby, Python, Javascript, and Clojure, Infrastructure Automation and Cloud systems."
+    "bio": "Sam Newman is a technologist at ThoughtWorks, where he currently splits his time between encouraging and sharing Innovation globally and working as the architect for internal systems. Sam is the author of \"Building Microservices\" from O'Reilly. He has worked with a variety of companies in multiple domains around the world, often with one foot in the developer world, and another in the IT operations space. If you asked him what he does, he’d say ‘I work with people to build better software systems’. He has written articles, presented at conferences, and sporadically commits to open source projects. While Java used to be his bread and butter, he also spends time with Ruby, Python, Javascript, and Clojure, Infrastructure Automation and Cloud systems."
   },
   "Kevlin Henney": {
-    "bio":
-      "Kevlin Henney is an author, presenter, and consultant on software development. He has written on the subject of computer programming and development practice for many magazines and sites, including Better Software, The Register, C/C++ Users Journal, Application Development Advisor, JavaSpektrum, C++ Report, Java Report, EXE, and Overload."
+    "bio": "Kevlin Henney is an author, presenter, and consultant on software development. He has written on the subject of computer programming and development practice for many magazines and sites, including Better Software, The Register, C/C++ Users Journal, Application Development Advisor, JavaSpektrum, C++ Report, Java Report, EXE, and Overload."
   },
   "Leslie Lamport": {
-    "bio":
-      "Leslie B. Lamport is an American computer scientist. Lamport is best known for his seminal work in distributed systems and as the initial developer of the document preparation system LaTeX."
+    "bio": "Leslie B. Lamport is an American computer scientist. Lamport is best known for his seminal work in distributed systems and as the initial developer of the document preparation system LaTeX."
   },
   "\"Uncle Bob\" - Robert Cecil Martin": {
-    "bio":
-      "Robert Cecil Martin is an American software engineer and author. He is a co-author of the Agile Manifesto. He now runs a consulting firm called Uncle Bob Consulting LLC and Clean Coders which hosts videos based on his experiences and books.",
+    "bio": "Robert Cecil Martin is an American software engineer and author. He is a co-author of the Agile Manifesto. He now runs a consulting firm called Uncle Bob Consulting LLC and Clean Coders which hosts videos based on his experiences and books.",
     "twitter": "unclebobmartin",
     "github": "unclebob"
   },
   "Steve Jobs": {
-    "bio":
-      "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American entrepreneur, business magnate, inventor, and industrial designer. He was the chairman, chief executive officer (CEO), and a co-founder of Apple Inc., CEO and majority shareholder of Pixar, a member of The Walt Disney Company's board of directors following its acquisition of Pixar, and the founder, chairman, and CEO of NeXT. Jobs and Apple co-founder Steve Wozniak are widely recognized as pioneers of the microcomputer revolution of the 1970s and 1980s."
+    "bio": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American entrepreneur, business magnate, inventor, and industrial designer. He was the chairman, chief executive officer (CEO), and a co-founder of Apple Inc., CEO and majority shareholder of Pixar, a member of The Walt Disney Company's board of directors following its acquisition of Pixar, and the founder, chairman, and CEO of NeXT. Jobs and Apple co-founder Steve Wozniak are widely recognized as pioneers of the microcomputer revolution of the 1970s and 1980s."
   },
   "Sheryl Sandberg": {
-    "bio":
-      "Sheryl Kara Sandberg is an American technology executive, activist, and author. She is the chief operating officer of Facebook and founder of Leanin.org."
+    "bio": "Sheryl Kara Sandberg is an American technology executive, activist, and author. She is the chief operating officer of Facebook and founder of Leanin.org."
   }
 }

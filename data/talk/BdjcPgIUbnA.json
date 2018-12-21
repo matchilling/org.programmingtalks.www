@@ -1,6 +1,5 @@
 {
-  "description":
-    "JVMLS 2015 - VM Design Choices - Cliff Click\n\nThe JVM Language Summit is an open technical collaboration among language designers, compiler writers, tool builders, runtime engineers, and VM architects. In 2015, it convened at Oracle's Santa Clara, CA campus on August 10-12.",
+  "description": "JVMLS 2015 - VM Design Choices - Cliff Click\n\nThe JVM Language Summit is an open technical collaboration among language designers, compiler writers, tool builders, runtime engineers, and VM architects. In 2015, it convened at Oracle's Santa Clara, CA campus on August 10-12.",
   "id": "57c8178e-a505-4eb4-a984-5cbd67b008c1",
   "meta": { "duration": "PT1H1M39S" },
   "presenter": { "name": null },

@@ -1,6 +1,5 @@
 {
-  "description":
-    "Erlang Factory SF Bay Area 2013\nMore info and slides on the website: http://www.erlang-factory.com/conference/SFBay2013/talks\n\nSoftware is difficult because the parts don't fit together. Why is this? Can we do anything about this? And what's this got to do with Erlang? Come to my talk and you'll find out!",
+  "description": "Erlang Factory SF Bay Area 2013\nMore info and slides on the website: http://www.erlang-factory.com/conference/SFBay2013/talks\n\nSoftware is difficult because the parts don't fit together. Why is this? Can we do anything about this? And what's this got to do with Erlang? Come to my talk and you'll find out!",
   "id": "23ebd8ba-1be9-4808-aed0-18dfe74f5481",
   "meta": { "duration": "PT46M40S" },
   "presenter": { "name": null },

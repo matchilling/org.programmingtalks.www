@@ -1,15 +1,12 @@
 {
-  "description":
-    "Speaker: Paul Tagliamonte\n\nThis talk will cover the internals of Python, such AST, Import hooks, creating a console, and a very brief overview of Python internal formats (such as pyc files), by way of looking over the implementation of a Lisp called \"Hy\". No Lisp knowledge is required.\n\nSlides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",
+  "description": "This talk will cover the internals of Python, such AST, Import hooks, creating a console, and a very brief overview of Python internal formats (such as pyc files), by way of looking over the implementation of a Lisp called \"Hy\".",
   "id": "6b991a75-715c-4535-aa5c-2ff317224af1",
   "meta": { "duration": "PT47M9S" },
-  "presenter": { "name": null },
-  "slug":
-    "paul-tagliamonte-getting-hy-on-python-how-to-implement-a-lisp-front-end-to-python-pycon-2014",
+  "presenter": { "name": "Paul Tagliamonte" },
+  "slug": "how-to-implement-a-lisp-front-end-to-python",
   "source": { "id": "AmMaN1AokTI", "provider": "youtube" },
   "tag": ["PyCon2014"],
-  "title":
-    "Paul Tagliamonte: Getting Hy on Python: How to implement a Lisp front-end to Python - PyCon 2014",
+  "title": "How to implement a Lisp front-end to Python",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/AmMaN1AokTI/default.jpg",

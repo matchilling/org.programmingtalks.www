@@ -1,6 +1,5 @@
 {
-  "description":
-    "Raymond Hettinger\nLearn to take better advantage of Python's best features and improve existing code through a series of code transformations, \"When you see this, do that instead.\"",
+  "description": "Raymond Hettinger\nLearn to take better advantage of Python's best features and improve existing code through a series of code transformations, \"When you see this, do that instead.\"",
   "id": "aa6bd573-2230-4a3b-aded-d157003429bc",
   "meta": { "duration": "PT48M51S" },
   "presenter": { "name": null },

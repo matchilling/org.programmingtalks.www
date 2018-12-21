@@ -1,6 +1,5 @@
 {
-  "description":
-    "Tim Ruffles investigates different approaches to managing and avoiding callback hell.",
+  "description": "Tim Ruffles investigates different approaches to managing and avoiding callback hell.",
   "id": "b94833af-3480-40a6-ac28-173c8b3ca293",
   "meta": {
     "duration": "PT21M54S"
@@ -14,8 +13,7 @@
     "provider": "youtube"
   },
   "tag": ["Great British Node Conference", "Node.js", "JavaScript"],
-  "title":
-    "Tim Ruffles: Solving the real callback hell - Great British Node Conf",
+  "title": "Tim Ruffles: Solving the real callback hell - Great British Node Conf",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/Wu9n7Ry0PWw/default.jpg",

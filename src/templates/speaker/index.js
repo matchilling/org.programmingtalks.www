@@ -1,22 +1,23 @@
 import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
 import { normalizeResult } from '../../utils/graphql'
 import React from 'react'
 import speakers from '../../../data/speaker/index.json'
 import String from '../../utils/string'
 import TalkList from '../../components/TalkList'
+import { graphql } from 'gatsby'
+import Layout from '../../components/Layout'
 
 export default class SpeakerTemplate extends React.Component {
   render() {
     const speaker = Object.assign(
       {
-        name: this.props.pathContext.speaker,
+        name: this.props.pageContext.speaker,
       },
-      speakers[this.props.pathContext.speaker]
+      speakers[this.props.pageContext.speaker]
     )
 
     return (
-      <div>
+      <Layout>
         <Helmet title={`Programming Talks by ${speaker.name}`} />
         <div className="row">
           <h1>{speaker.name}</h1>
@@ -41,7 +42,7 @@ export default class SpeakerTemplate extends React.Component {
             titleElement="h3"
           />
         </div>
-      </div>
+      </Layout>
     )
   }
 }

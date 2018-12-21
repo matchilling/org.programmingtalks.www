@@ -3,12 +3,10 @@
   "id": "f41c7d1b-5af1-47e5-97b2-84a54361e010",
   "meta": { "duration": "PT41M54S" },
   "presenter": { "name": null },
-  "slug":
-    "03-creating-a-scalable-javascript-application-architecture-nicholas-zakas",
+  "slug": "03-creating-a-scalable-javascript-application-architecture-nicholas-zakas",
   "source": { "id": "b5pFv9NB9fs", "provider": "youtube" },
   "tag": [],
-  "title":
-    "03   Creating A Scalable JavaScript Application Architecture Nicholas Zakas",
+  "title": "03   Creating A Scalable JavaScript Application Architecture Nicholas Zakas",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/b5pFv9NB9fs/default.jpg",

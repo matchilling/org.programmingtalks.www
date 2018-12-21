@@ -48,14 +48,14 @@ class Talk extends React.Component {
 
         {(this.props.thumbnails || this.props.description) && (
           <div className="talk-description">
-            {this.props.thumbnails &&
-              this.props.thumbnails.default.url && (
-                <img
-                  height={this.props.thumbnails.default.height / 1.5}
-                  src={this.props.thumbnails.default.url}
-                  width={this.props.thumbnails.default.width / 1.5}
-                />
-              )}
+            {this.props.thumbnails && this.props.thumbnails.default.url && (
+              <img
+                alt={this.props.title}
+                height={this.props.thumbnails.default.height / 1.5}
+                src={this.props.thumbnails.default.url}
+                width={this.props.thumbnails.default.width / 1.5}
+              />
+            )}
 
             {this.props.description && this.props.description}
           </div>

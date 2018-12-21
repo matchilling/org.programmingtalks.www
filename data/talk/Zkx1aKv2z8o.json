@@ -1,6 +1,5 @@
 {
-  "description":
-    "The browser used to be a meek sandbox, shut off from all the things that native apps could do. But now we've grown up, and with WebGL, Canvas, Web Audio, Device Access and more, we have a lot of power at our fingertips. To really unlock this potential and make all this data dance, we need maths.",
+  "description": "The browser used to be a meek sandbox, shut off from all the things that native apps could do. But now we've grown up, and with WebGL, Canvas, Web Audio, Device Access and more, we have a lot of power at our fingertips. To really unlock this potential and make all this data dance, we need maths.",
   "id": "6e84c36b-2b4e-413c-b182-0b02d4e9f229",
   "meta": { "duration": "PT53M45S" },
   "presenter": { "name": null },

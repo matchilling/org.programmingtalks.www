@@ -1,6 +1,5 @@
 {
-  "description":
-    "Garrett Smith\nhttp://www.chicagoerlang.com/garrett-smith.html\nWe all know that one of Erlang's greatest weaknesses is its syntax. It doesn't resemble Ruby at all! In this talk Garrett will show how Erlang can be used to write high quality, beautiful code. That is, code that's readable, maintainable and that obviously reflects the intent of its author.",
+  "description": "Garrett Smith\nhttp://www.chicagoerlang.com/garrett-smith.html\nWe all know that one of Erlang's greatest weaknesses is its syntax. It doesn't resemble Ruby at all! In this talk Garrett will show how Erlang can be used to write high quality, beautiful code. That is, code that's readable, maintainable and that obviously reflects the intent of its author.",
   "id": "185f89a3-5308-443c-879a-17f4e65b06dc",
   "meta": { "duration": "PT40M47S" },
   "presenter": { "name": null },

@@ -1,6 +1,5 @@
 {
-  "description":
-    "Videos from DjangoCon Europe 2013 are kindly provided by Heroku, a cloud application platform -- a new way of building and deploying web apps: http://heroku.com/",
+  "description": "Videos from DjangoCon Europe 2013 are kindly provided by Heroku, a cloud application platform -- a new way of building and deploying web apps: http://heroku.com/",
   "id": "bcf18091-ba24-4b06-8476-0ebf25f5887d",
   "meta": { "duration": "PT31M10S" },
   "presenter": { "name": null },

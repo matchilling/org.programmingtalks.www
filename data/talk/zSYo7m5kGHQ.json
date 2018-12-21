@@ -1,6 +1,5 @@
 {
-  "description":
-    "We're all pretty big fans of Bootstrap. It's a component library that helps us turn our ideas into reality faster than we've ever been able to do in the past. Unfortunately, it's kind of bland (on purpose!), and all the sites on the internet are starting to look the same. At Stripe, we wanted the same power of being able to spin up projects quickly, but without using Bootstrap, specifically. So we made \"Bootstripe\". It's able to be much more opinionated, and allows lots of parallel developers to build consistent user interfaces. I'd love to tell you how to build your own, how to test it, and how to integrate it into your applications.\n\nhttps://jsconfar.com",
+  "description": "We're all pretty big fans of Bootstrap. It's a component library that helps us turn our ideas into reality faster than we've ever been able to do in the past. Unfortunately, it's kind of bland (on purpose!), and all the sites on the internet are starting to look the same. At Stripe, we wanted the same power of being able to spin up projects quickly, but without using Bootstrap, specifically. So we made \"Bootstripe\". It's able to be much more opinionated, and allows lots of parallel developers to build consistent user interfaces. I'd love to tell you how to build your own, how to test it, and how to integrate it into your applications.\n\nhttps://jsconfar.com",
   "id": "b30c39d2-201f-48cc-afa8-7d6ab7f42c17",
   "meta": { "duration": "PT20M4S" },
   "presenter": { "name": null },

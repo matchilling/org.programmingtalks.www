@@ -5,13 +5,15 @@ import React from 'react'
 import String from '../../utils/string'
 import Talk from '../../components/Talk'
 import TalkList from '../../components/TalkList'
+import { graphql } from 'gatsby'
+import Layout from '../../components/Layout'
 
 export default class TalkTemplate extends React.Component {
   render() {
     const talk = this.props.data.talkJson
 
     return (
-      <div>
+      <Layout>
         <Helmet
           title={
             talk.presenter.name
@@ -55,7 +57,7 @@ export default class TalkTemplate extends React.Component {
             title="Related Talks"
           />
         </div>
-      </div>
+      </Layout>
     )
   }
 }

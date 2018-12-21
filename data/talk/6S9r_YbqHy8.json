@@ -1,6 +1,5 @@
 {
-  "description":
-    "R is a domain-specific language for analyzing data. Why does data analysis need its own DSL? What does R do well and what does it do poorly? How can developers take advantage of R's strengths and mitigate its weaknesses? This talk will give some answers to these questions.",
+  "description": "R is a domain-specific language for analyzing data. Why does data analysis need its own DSL? What does R do well and what does it do poorly? How can developers take advantage of R's strengths and mitigate its weaknesses? This talk will give some answers to these questions.",
   "id": "37c62c46-9d8c-4982-8edf-a5fce9191ae8",
   "meta": {
     "duration": "PT38M9S"

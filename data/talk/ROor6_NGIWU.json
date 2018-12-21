@@ -1,6 +1,5 @@
 {
-  "description":
-    "Rich Hickey compares value-oriented programming with place-oriented programming concluding that the time of imperative languages has passed and it is the time of functional programming.",
+  "description": "Rich Hickey compares value-oriented programming with place-oriented programming concluding that the time of imperative languages has passed and it is the time of functional programming.",
   "id": "d5cbe43c-859c-4b26-aa97-a91d0a38eea2",
   "meta": {
     "duration": "PT1H2M50S"

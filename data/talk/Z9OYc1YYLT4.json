@@ -3,12 +3,10 @@
   "id": "b1c76e88-57a4-4e79-a904-2166137c406b",
   "meta": { "duration": "PT48M48S" },
   "presenter": { "name": null },
-  "slug":
-    "racketcon-2013-matthew-flatt-a-dinosaurs-thoughts-on-programming-language-evolution",
+  "slug": "racketcon-2013-matthew-flatt-a-dinosaurs-thoughts-on-programming-language-evolution",
   "source": { "id": "Z9OYc1YYLT4", "provider": "youtube" },
   "tag": ["Racket (Programming Language)", "Evolution (Idea)"],
-  "title":
-    "RacketCon 2013: Matthew Flatt - A Dinosaur's Thoughts on Programming Language Evolution",
+  "title": "RacketCon 2013: Matthew Flatt - A Dinosaur's Thoughts on Programming Language Evolution",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/Z9OYc1YYLT4/default.jpg",

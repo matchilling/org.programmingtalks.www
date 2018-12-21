@@ -1,6 +1,5 @@
 {
-  "description":
-    "Large Scale JavaScript Application Architecture  \nTime: Wednesday @ 10:40am | Room E-131\nhttp://html5devconf.com/index.html     #HTML5DevConf\n\nLearn how to build your team and technology without losing development time. In this presentation, you'll learn how to design a large-scale javascript application on a scalable front-end architecture to promote code modularization and division of labor. We'll synthesize a number of programming patterns to help you decouple application views, data, business logic as well as navigation paradigms and transitions between states to keep your product agile and moving forward.",
+  "description": "Large Scale JavaScript Application Architecture  \nTime: Wednesday @ 10:40am | Room E-131\nhttp://html5devconf.com/index.html     #HTML5DevConf\n\nLearn how to build your team and technology without losing development time. In this presentation, you'll learn how to design a large-scale javascript application on a scalable front-end architecture to promote code modularization and division of labor. We'll synthesize a number of programming patterns to help you decouple application views, data, business logic as well as navigation paradigms and transitions between states to keep your product agile and moving forward.",
   "id": "2685128a-2f90-4f58-8be3-4b44cb8512e9",
   "meta": {
     "duration": "PT50M40S"

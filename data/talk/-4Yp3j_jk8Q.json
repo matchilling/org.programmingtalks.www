@@ -1,6 +1,5 @@
 {
-  "description":
-    "Architects draw detailed blueprints before a brick is laid or a nail is hammered. Programmers and software engineers seldom do. A blueprint for software is called a specification. The need for extremely rigorous specifications before coding complex or critical systems should be obvious—especially for concurrent and distributed systems. This talk explains why some sort of specification should be written for any software.\n\nhttp://www.microsoftfacultysummit.com",
+  "description": "Architects draw detailed blueprints before a brick is laid or a nail is hammered. Programmers and software engineers seldom do. A blueprint for software is called a specification. The need for extremely rigorous specifications before coding complex or critical systems should be obvious—especially for concurrent and distributed systems. This talk explains why some sort of specification should be written for any software.\n\nhttp://www.microsoftfacultysummit.com",
   "id": "c8a095dc-c6e8-4f49-bbf7-6ff13e511430",
   "meta": {
     "duration": "PT59M51S"

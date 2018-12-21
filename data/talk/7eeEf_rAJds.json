@@ -1,6 +1,5 @@
 {
-  "description":
-    "Speaker: Alex Gaynor\n\n\"The common wisdom is that Python is slow. And yet people run high performance software on it. It's hard to make Python fast, and yet there are incredibly high performance Python VMs. This talk breaks down the facts and the myths of Python performance.\"\n\nSlides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",
+  "description": "Speaker: Alex Gaynor\n\n\"The common wisdom is that Python is slow. And yet people run high performance software on it. It's hard to make Python fast, and yet there are incredibly high performance Python VMs. This talk breaks down the facts and the myths of Python performance.\"\n\nSlides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",
   "id": "a8b13e63-5b9c-47e1-b0aa-9f204ceaf67c",
   "meta": { "duration": "PT36M11S" },
   "presenter": { "name": null },

@@ -3,8 +3,7 @@
   "id": "156a01cd-4b31-4964-934e-93390bc1ca8a",
   "meta": { "duration": "PT1H11M18S" },
   "presenter": { "name": null },
-  "slug":
-    "crossing-language-barriers-with-julia-scipyipython-or-euroscipy-2014-or-stephen-g-johnson",
+  "slug": "crossing-language-barriers-with-julia-scipyipython-or-euroscipy-2014-or-stephen-g-johnson",
   "source": { "id": "jhlVHoeB05A", "provider": "youtube" },
   "tag": [
     "Software",
@@ -16,8 +15,7 @@
     "Julia (Programming Language)",
     "EuroSciPy 2014"
   ],
-  "title":
-    "Crossing Language Barriers with Julia, SciPy,IPython | EuroSciPy 2014 | Stephen G  Johnson",
+  "title": "Crossing Language Barriers with Julia, SciPy,IPython | EuroSciPy 2014 | Stephen G  Johnson",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/jhlVHoeB05A/default.jpg",

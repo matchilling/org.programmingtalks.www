@@ -1,12 +1,14 @@
 import { normalizeResult } from '../utils/graphql'
 import React from 'react'
-import { String } from '../utils'
+import String from '../utils/string'
 import Player from '../components/Player'
 import speakers from '../../data/speaker/index.json'
 import TagList from '../components/TagList'
 import TalkList from '../components/TalkList'
+import { graphql } from 'gatsby'
 
 import './index.scss'
+import Layout from '../components/Layout'
 
 const blacklist = [
   'Programming Language',
@@ -52,7 +54,7 @@ export default class IndexPage extends React.Component {
     const talk = randomTalk(this.props.data.allTalkJson.edges).node
 
     return (
-      <div>
+      <Layout>
         <Player videoId={talk.source.id} style />
         <div className="row content">
           <div className="popular">
@@ -77,7 +79,7 @@ export default class IndexPage extends React.Component {
             })}
           />
         </div>
-      </div>
+      </Layout>
     )
   }
 }

@@ -1,6 +1,5 @@
 {
-  "description":
-    "React is a new a conceptual model for rendering user interfaces in a functional style. In this talk I'll look at how both the user-facing and implementation specifics resemble RESTful architectures and some interesting patterns and properties that fall out of this.\n\nby Pete Hunt (@floydophone) \n\nPete works on Facebook's React team and manages the Instagram.com web team.",
+  "description": "React is a new a conceptual model for rendering user interfaces in a functional style. In this talk I'll look at how both the user-facing and implementation specifics resemble RESTful architectures and some interesting patterns and properties that fall out of this.\n\nby Pete Hunt (@floydophone) \n\nPete works on Facebook's React team and manages the Instagram.com web team.",
   "id": "4bdef06c-a193-4667-8303-a279d9d8b7d1",
   "meta": { "duration": "PT36M15S" },
   "presenter": { "name": null },

@@ -1,6 +1,5 @@
 {
-  "description":
-    "Steve Vinoski\nhttp://www.chicagoerlang.com/steve-vinoski.html\nErlang was built to be \"fast enough\" for most problems. But what if you need to go super fast? To turn the dial to 11? In this talk Steve will cover Erlang's turbo booster --- the *NIF*. And it's not as simple as it sounds!",
+  "description": "Steve Vinoski\nhttp://www.chicagoerlang.com/steve-vinoski.html\nErlang was built to be \"fast enough\" for most problems. But what if you need to go super fast? To turn the dial to 11? In this talk Steve will cover Erlang's turbo booster --- the *NIF*. And it's not as simple as it sounds!",
   "id": "cf7a75f6-b977-46bb-89d4-fe26ce9f44a3",
   "meta": { "duration": "PT26M47S" },
   "presenter": { "name": null },

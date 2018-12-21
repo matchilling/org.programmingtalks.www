@@ -1,11 +1,9 @@
 {
-  "description":
-    "Don't miss an upload! Subscribe! http://goo.gl/szEauh\n\nHow does the pervasiveness of JavaScript on the client change how we architect applications? We can create hundreds virtual machines in the cloud, but we are using the millions of visual machines that visit our sites every day?\n\nSuddenly we are scripting against thousands of Virtual Machines from the command line while creating things today with JavaScript in the browser that were impossible yesterday. LiveScript becomes JavaScript becomes ES6 and now we're compiling C++ to JavaScript.\n\nJoin Scott Hanselman as he explores the relationship between the Cloud and the Browser, many Languages and one Language, how it might all fit together and what comes next.\n\nBuy Scott's books here. http://goo.gl/Y2Zsdh\n\nStay Connected to O'Reilly Media by Email - http://goo.gl/YZSWbO\n\nFollow O'Reilly Media:\nhttp://plus.google.com/+oreillymedia\nhttps://www.facebook.com/OReilly\nhttps://twitter.com/OReillyMedia",
+  "description": "Don't miss an upload! Subscribe! http://goo.gl/szEauh\n\nHow does the pervasiveness of JavaScript on the client change how we architect applications? We can create hundreds virtual machines in the cloud, but we are using the millions of visual machines that visit our sites every day?\n\nSuddenly we are scripting against thousands of Virtual Machines from the command line while creating things today with JavaScript in the browser that were impossible yesterday. LiveScript becomes JavaScript becomes ES6 and now we're compiling C++ to JavaScript.\n\nJoin Scott Hanselman as he explores the relationship between the Cloud and the Browser, many Languages and one Language, how it might all fit together and what comes next.\n\nBuy Scott's books here. http://goo.gl/Y2Zsdh\n\nStay Connected to O'Reilly Media by Email - http://goo.gl/YZSWbO\n\nFollow O'Reilly Media:\nhttp://plus.google.com/+oreillymedia\nhttps://www.facebook.com/OReilly\nhttps://twitter.com/OReillyMedia",
   "id": "2b564b1b-3b97-49cd-955c-2c4a662069ef",
   "meta": { "duration": "PT25M57S" },
   "presenter": { "name": null },
-  "slug":
-    "scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote",
+  "slug": "scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote",
   "source": { "id": "UzyoT4DziQ4", "provider": "youtube" },
   "tag": [
     "JavaScript",
@@ -25,8 +23,7 @@
     "oreilly media",
     "O'Reilly"
   ],
-  "title":
-    "Scott Hanselman, \"Virtual Machines, JavaScript and Assembler\" -  Fluent 2014 Keynote",
+  "title": "Scott Hanselman, \"Virtual Machines, JavaScript and Assembler\" -  Fluent 2014 Keynote",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/UzyoT4DziQ4/default.jpg",

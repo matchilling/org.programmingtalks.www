@@ -1,6 +1,5 @@
 {
-  "description":
-    "Go is often described as a simple language. It is not, it just seems that way. Rob explains how Go's simplicity hides a great deal of complexity, and that both the simplicity and complexity are part of the design.",
+  "description": "Go is often described as a simple language. It is not, it just seems that way. Rob explains how Go's simplicity hides a great deal of complexity, and that both the simplicity and complexity are part of the design.",
   "id": "d604e2bf-1b63-4fa6-9fe5-3e5e89dcf07e",
   "meta": {
     "duration": "PT23M12S"

@@ -1,6 +1,5 @@
 {
-  "description":
-    "Every day around the world, software developers spend much of their time working with a variety of Application Programming Interfaces (APIs). Some are integral to the core platform, some provide access to widely distributed frameworks, and some are written in-house for use by a few developers. Nearly all programmers occasionally function as API designers, whether they know it or not. A well-designed API can be a great asset to the organization that wrote it and to all who use it. Good APIs increase the pleasure and productivity of the developers who use them, the quality of the software they produce, and ultimately, the corporate bottom line....",
+  "description": "Every day around the world, software developers spend much of their time working with a variety of Application Programming Interfaces (APIs). Some are integral to the core platform, some provide access to widely distributed frameworks, and some are written in-house for use by a few developers. Nearly all programmers occasionally function as API designers, whether they know it or not. A well-designed API can be a great asset to the organization that wrote it and to all who use it. Good APIs increase the pleasure and productivity of the developers who use them, the quality of the software they produce, and ultimately, the corporate bottom line....",
   "id": "81df2859-bb69-4cba-ae1c-4a24c6e14e9b",
   "meta": {
     "duration": "PT1H19S"

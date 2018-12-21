@@ -1,6 +1,5 @@
 {
-  "description":
-    "Philip Wadler, Professor of Theoretical Computer Science at the University of Edinburgh, contends that the foundations of computing lay in a coincidence: Church's lambda calculus (1933), Herbrand and Godel's recursive functions (1934), and Turing's machines (1935) all defined the same model of computation. \n\n\nHe gave this lecture on the occasion of Princeton University's centennial celebration of Alan Turing. Learn more at www.princeton.edu/turing\n\n#turingprinceton",
+  "description": "Philip Wadler, Professor of Theoretical Computer Science at the University of Edinburgh, contends that the foundations of computing lay in a coincidence: Church's lambda calculus (1933), Herbrand and Godel's recursive functions (1934), and Turing's machines (1935) all defined the same model of computation. \n\n\nHe gave this lecture on the occasion of Princeton University's centennial celebration of Alan Turing. Learn more at www.princeton.edu/turing\n\n#turingprinceton",
   "id": "eeada61d-5368-4df5-9533-094a984af31d",
   "meta": { "duration": "PT1H3M41S" },
   "presenter": { "name": null },

@@ -1,6 +1,5 @@
 {
-  "description":
-    "Speaker: Miguel Grinberg\n\nFlask is a web framework for Python based on Werkzeug, Jinja 2 and good intentions. It is considered a micro-framework, but don't get the \"micro\" part fool you; Flask can do everything others can do, many times in a simpler, leaner way. In this tutorial session you will follow me as I write a complete web application in front of your eyes using the core framework and a handful of extensions.\n\nSlides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",
+  "description": "Speaker: Miguel Grinberg\n\nFlask is a web framework for Python based on Werkzeug, Jinja 2 and good intentions. It is considered a micro-framework, but don't get the \"micro\" part fool you; Flask can do everything others can do, many times in a simpler, leaner way. In this tutorial session you will follow me as I write a complete web application in front of your eyes using the core framework and a handful of extensions.\n\nSlides can be found at: https://speakerdeck.com/pycon2014 and https://github.com/PyCon/2014-slides",
   "id": "30160d93-410e-463a-9ab2-f151d361aa0f",
   "meta": { "duration": "PT3H40M29S" },
   "presenter": { "name": null },

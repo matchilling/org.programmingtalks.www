@@ -1,6 +1,5 @@
 {
-  "description":
-    "Joshua Bloch serves up a few Java Puzzlers as an appetizer before and as dessert after the main course on Effective Java.\r\n\r\nOrganized By: Silicon Valley Web JUG - Van Riper and Kevin Nilson\r\nHosted and Sponsored By: Google\r\nVideo By: Marakana\r\n\r\nEvent: http://www.meetup.com/sv-web-jug/calendar/10878461/\r\n\r\nSlides: http://files.meetup.com/1381525/still-effective.ppt.pdf",
+  "description": "Joshua Bloch serves up a few Java Puzzlers as an appetizer before and as dessert after the main course on Effective Java.\r\n\r\nOrganized By: Silicon Valley Web JUG - Van Riper and Kevin Nilson\r\nHosted and Sponsored By: Google\r\nVideo By: Marakana\r\n\r\nEvent: http://www.meetup.com/sv-web-jug/calendar/10878461/\r\n\r\nSlides: http://files.meetup.com/1381525/still-effective.ppt.pdf",
   "id": "41555cba-8449-46c2-b93f-7228412858a5",
   "meta": { "duration": "PT1H13M59S" },
   "presenter": { "name": null },

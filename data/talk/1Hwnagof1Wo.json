@@ -1,6 +1,5 @@
 {
-  "description":
-    "FOSDEM (Free and Open Source Development European Meeting) is a European event centered around Free and Open Source software development. It is aimed at developers and all interested in the Free and Open Source news in the world. Its goals are to enable developers to meet and to promote the awareness and use of free and open source software. More info at http://fosdem.org",
+  "description": "FOSDEM (Free and Open Source Development European Meeting) is a European event centered around Free and Open Source software development. It is aimed at developers and all interested in the Free and Open Source news in the world. Its goals are to enable developers to meet and to promote the awareness and use of free and open source software. More info at http://fosdem.org",
   "id": "882129b3-60b1-4dcd-95ee-f49a895d92cd",
   "meta": { "duration": "PT50M59S" },
   "presenter": { "name": null },

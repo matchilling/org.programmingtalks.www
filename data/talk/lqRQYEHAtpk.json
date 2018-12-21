@@ -1,6 +1,5 @@
 {
-  "description":
-    "During the evolution of the ideas behind Continuous Delivery, many of us came to the conclusion that having branches for features was not a good idea, and resulted in some fairly problematic issues. This was contentious at the time, with lots of discussion around whether or not feature toggles or feature branching was the right way forward.\n\nRoll on several years, and through Git and GitHub, branches are everywhere. Is this a problem?\n\nThis talk re-examines the role of feature branches and feature toggles, and looks at them in the context of new research and technology to try and distill down some sensible lessons in a post-GitHub, but hopefully not post-factual, world.",
+  "description": "During the evolution of the ideas behind Continuous Delivery, many of us came to the conclusion that having branches for features was not a good idea, and resulted in some fairly problematic issues. This was contentious at the time, with lots of discussion around whether or not feature toggles or feature branching was the right way forward.\n\nRoll on several years, and through Git and GitHub, branches are everywhere. Is this a problem?\n\nThis talk re-examines the role of feature branches and feature toggles, and looks at them in the context of new research and technology to try and distill down some sensible lessons in a post-GitHub, but hopefully not post-factual, world.",
   "id": "87b3f901-4fb9-402d-9ee0-216e5656fdb1",
   "meta": {
     "commentCount": "28",

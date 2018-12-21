@@ -1,6 +1,5 @@
 {
-  "description":
-    "\"Speaker: Miguel Grinberg\n\nWriting a fully complaint REST API is hard, so hard it is too common for APIs to violate one or more of the REST architectural principles. In this talk I will describe the six REST principles, and I will tell you what happens if you don't follow them.\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
+  "description": "\"Speaker: Miguel Grinberg\n\nWriting a fully complaint REST API is hard, so hard it is too common for APIs to violate one or more of the REST architectural principles. In this talk I will describe the six REST principles, and I will tell you what happens if you don't follow them.\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
   "id": "104814f7-0c25-4670-acf6-812bb93faae4",
   "meta": { "duration": "PT45M31S" },
   "presenter": { "name": null },

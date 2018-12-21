@@ -1,6 +1,5 @@
 {
-  "description":
-    "Brad Green, Miško Hevery\n\nWe'll cover the design decisions that drove creating AngularJS, the JavaScript framework that combines data binding, reusable components, dependency injection, and a host of other powerful capabilities for building modern web applications. Come join us and learn how to build extremely scalable applications that are fast to build, trivial to change and maintain, easy to test, and that clearly express your intent to all developers on your team.\n\nFor all I/O 2013 sessions, go to https://developers.google.com/live",
+  "description": "Brad Green, Miško Hevery\n\nWe'll cover the design decisions that drove creating AngularJS, the JavaScript framework that combines data binding, reusable components, dependency injection, and a host of other powerful capabilities for building modern web applications. Come join us and learn how to build extremely scalable applications that are fast to build, trivial to change and maintain, easy to test, and that clearly express your intent to all developers on your team.\n\nFor all I/O 2013 sessions, go to https://developers.google.com/live",
   "id": "e73f5660-f418-4d65-b04c-96fa94c27a17",
   "meta": { "duration": "PT40M" },
   "presenter": { "name": null },

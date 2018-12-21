@@ -1,6 +1,5 @@
 {
-  "description":
-    "\"Speaker: Raymond Hettinger\n\nPython's super() is well-designed and powerful, but it can be tricky to use if you don't know all the moves.\n\nThis talk offers clear, practical advice with real-world use cases on how to use super() effectively and not get tripped-up by common mistakes.\n\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
+  "description": "\"Speaker: Raymond Hettinger\n\nPython's super() is well-designed and powerful, but it can be tricky to use if you don't know all the moves.\n\nThis talk offers clear, practical advice with real-world use cases on how to use super() effectively and not get tripped-up by common mistakes.\n\n\nSlides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides\"",
   "id": "013b3716-0a06-4e76-bf26-b28f3e6ee6ee",
   "meta": { "duration": "PT46M52S" },
   "presenter": { "name": null },

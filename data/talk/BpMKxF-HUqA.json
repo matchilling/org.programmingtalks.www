@@ -1,6 +1,5 @@
 {
-  "description":
-    "For more videos & goodies join:  http://HiRez.io\n\nThis is an overview of the steps required in order to build Javascript apps and get them ready for deployment. \nYou'll learn about Grunt, and how it helps us to validate, minimize and package our code.\n\nThis Lecture was filmed during a XBSoftware meetup in Minsk, Belarus, thanks to Wix I was able to fly there and meet these awesome people.\n\nSlides: http://goo.gl/j1pYOt\n\nJoin: http://HiRez.io",
+  "description": "For more videos & goodies join:  http://HiRez.io\n\nThis is an overview of the steps required in order to build Javascript apps and get them ready for deployment. \nYou'll learn about Grunt, and how it helps us to validate, minimize and package our code.\n\nThis Lecture was filmed during a XBSoftware meetup in Minsk, Belarus, thanks to Wix I was able to fly there and meet these awesome people.\n\nSlides: http://goo.gl/j1pYOt\n\nJoin: http://HiRez.io",
   "id": "42235bcc-636e-4c11-ae40-34f28c25aab0",
   "meta": { "duration": "PT40M51S" },
   "presenter": { "name": null },

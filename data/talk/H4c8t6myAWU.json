@@ -1,6 +1,5 @@
 {
-  "description":
-    "New web developers have trouble distinguishing jQuery from JavaScript. We frequently point developers to three.js for doing 3D on the web, but what is raw WebGL and what tools do we have for debugging 3D web applications?",
+  "description": "New web developers have trouble distinguishing jQuery from JavaScript. We frequently point developers to three.js for doing 3D on the web, but what is raw WebGL and what tools do we have for debugging 3D web applications?",
   "id": "cfbaba31-336d-4480-b329-33cd002f66d8",
   "meta": {
     "duration": "PT55M21S"

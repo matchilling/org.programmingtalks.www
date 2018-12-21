@@ -4,17 +4,19 @@ import { normalizeResult } from '../../utils/graphql'
 import React from 'react'
 import String from '../../utils/string'
 import TalkList from '../../components/TalkList'
+import { graphql } from 'gatsby'
+import Layout from '../../components/Layout'
 
 export default class TagTemplate extends React.Component {
   render() {
-    const name = this.props.pathContext.tag
-    const description = descriptions[this.props.pathContext.slug]
+    const name = this.props.pageContext.tag
+    const description = descriptions[this.props.pageContext.slug]
 
     return (
-      <div>
+      <Layout>
         <Helmet
           title={`Programming Talks tagged with: "${
-            this.props.pathContext.tag
+            this.props.pageContext.tag
           }"`}
         />
         <div className="row">
@@ -39,11 +41,11 @@ export default class TagTemplate extends React.Component {
               }
             })}
             title={`Programming Talks tagged with: "${
-              this.props.pathContext.tag
+              this.props.pageContext.tag
             }"`}
           />
         </div>
-      </div>
+      </Layout>
     )
   }
 }

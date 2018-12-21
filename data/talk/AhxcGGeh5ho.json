@@ -1,6 +1,5 @@
 {
-  "description":
-    "In this talk, we hear from David Nolen from the New York Times about core.async, the new library for asynchronous programming in Clojure and ClojureScript. He'll be talking about Clojure, Communicating Sequential Processes & Responsive Design. This talk was recorded at the NY Clojure Users Group meetup at Two Sigma Investments.\n\nAs clients diversify on all fronts, how do we program flexible user interfaces without getting mired in software bloat and rampant complexity? Communicating Sequential Processes gives us the tools we need to design modular user interface components - we'll see how with Clojure, ClojureScript and core.async.",
+  "description": "In this talk, we hear from David Nolen from the New York Times about core.async, the new library for asynchronous programming in Clojure and ClojureScript. He'll be talking about Clojure, Communicating Sequential Processes & Responsive Design. This talk was recorded at the NY Clojure Users Group meetup at Two Sigma Investments.\n\nAs clients diversify on all fronts, how do we program flexible user interfaces without getting mired in software bloat and rampant complexity? Communicating Sequential Processes gives us the tools we need to design modular user interface components - we'll see how with Clojure, ClojureScript and core.async.",
   "id": "6f48b6fa-ab92-435a-9bd9-dab852ed7c4a",
   "meta": {
     "duration": "PT55M32S"

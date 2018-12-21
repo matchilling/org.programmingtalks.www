@@ -1,6 +1,5 @@
 {
-  "description":
-    "Cody Roux's talk for the Boston Haskell Meetup - February 18, 2015\nSlides: http://www.slideshare.net/imalsogreg/cody-roux-pure-type-systems-boston-haskell-meetup",
+  "description": "Cody Roux's talk for the Boston Haskell Meetup - February 18, 2015\nSlides: http://www.slideshare.net/imalsogreg/cody-roux-pure-type-systems-boston-haskell-meetup",
   "id": "c77fb625-3262-4d75-a397-1ef38989a4d5",
   "meta": { "duration": "PT1H17M1S" },
   "presenter": { "name": null },

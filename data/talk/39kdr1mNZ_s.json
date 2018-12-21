@@ -1,6 +1,5 @@
 {
-  "description":
-    "With Spring and Hibernate on your stack, your application's bytecode is likely enhanced or manipulated at runtime. This session examines three common byte code manipulation frameworks: ASM, CGLib, and Javassist (Java Programming Assistant). We will discuss how these tools work and why frameworks like Spring use them. You will learn enough to begin integrating these frameworks directly into your own code.",
+  "description": "With Spring and Hibernate on your stack, your application's bytecode is likely enhanced or manipulated at runtime. This session examines three common byte code manipulation frameworks: ASM, CGLib, and Javassist (Java Programming Assistant). We will discuss how these tools work and why frameworks like Spring use them. You will learn enough to begin integrating these frameworks directly into your own code.",
   "id": "52832d71-9f39-4500-8088-d2e9d42bee9e",
   "meta": {
     "duration": "PT55M1S"

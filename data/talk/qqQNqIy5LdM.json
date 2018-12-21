@@ -1,6 +1,5 @@
 {
-  "description":
-    "Martin Odersky, the creator of Scala, talks to the SF Scala user group about what's next for Scala.\n\nA few of the topics Martin will cover include:\n- Commercial adoption of scala\n- Scala: What it was, What it is, and Where it's going\n- Scala Eclipse IDE\n- Play Framework 2.0\n- Scala 2.10\n\n** Check out the slides at: http://mrkn.co/f/575",
+  "description": "Martin Odersky, the creator of Scala, talks to the SF Scala user group about what's next for Scala.\n\nA few of the topics Martin will cover include:\n- Commercial adoption of scala\n- Scala: What it was, What it is, and Where it's going\n- Scala Eclipse IDE\n- Play Framework 2.0\n- Scala 2.10\n\n** Check out the slides at: http://mrkn.co/f/575",
   "id": "5a06f0cc-bab2-4b1b-b8a2-bb3070d0c660",
   "meta": { "duration": "PT1H15M6S" },
   "presenter": { "name": null },

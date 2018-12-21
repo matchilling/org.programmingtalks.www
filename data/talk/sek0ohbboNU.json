@@ -1,11 +1,9 @@
 {
-  "description":
-    "Facebook's Dave Lee presents a talk about \"RACifying\" non-reactive code at the 2014 Reactive Cocoa Developer Conference hosted by GitHub.\n\nAs always, feel free to leave us a comment below and don't forget to subscribe: http://bit.ly/subgithub\n\nThanks!\n\nConnect with us.\nFacebook: http://fb.com/github\nTwitter: http://twitter.com/github\nGoogle+: http://google.com/+github\nLinkedIn: http://linkedin.com/company/github\n\nAbout GitHub\nGitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Millions of people use GitHub to build amazing things together. For more info, go to http://github.com",
+  "description": "Facebook's Dave Lee presents a talk about \"RACifying\" non-reactive code at the 2014 Reactive Cocoa Developer Conference hosted by GitHub.\n\nAs always, feel free to leave us a comment below and don't forget to subscribe: http://bit.ly/subgithub\n\nThanks!\n\nConnect with us.\nFacebook: http://fb.com/github\nTwitter: http://twitter.com/github\nGoogle+: http://google.com/+github\nLinkedIn: http://linkedin.com/company/github\n\nAbout GitHub\nGitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Millions of people use GitHub to build amazing things together. For more info, go to http://github.com",
   "id": "4c2769f9-0438-4342-bb1d-9de96563bdf5",
   "meta": { "duration": "PT24M23S" },
   "presenter": { "name": null },
-  "slug":
-    "racify-non-reactive-code-by-dave-lee-github-reactive-cocoa-developer-conference",
+  "slug": "racify-non-reactive-code-by-dave-lee-github-reactive-cocoa-developer-conference",
   "source": { "id": "sek0ohbboNU", "provider": "youtube" },
   "tag": [
     "git",
@@ -28,8 +26,7 @@
     "CVS",
     "octocat"
   ],
-  "title":
-    "RACify Non-Reactive Code by Dave Lee • GitHub Reactive Cocoa Developer Conference",
+  "title": "RACify Non-Reactive Code by Dave Lee • GitHub Reactive Cocoa Developer Conference",
   "thumbnails": {
     "default": {
       "url": "https://i.ytimg.com/vi/sek0ohbboNU/default.jpg",
