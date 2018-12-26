@@ -15,17 +15,13 @@ const presets = { id: '', presenter: '', title: '', tag: '' }
 for (var i = 0; i < process.argv.length; i++) {
   const arg = process.argv[i]
 
-  if (arg === '--id')
-    presets.id = process.argv[i + 1]
+  if (arg === '--id') presets.id = process.argv[i + 1]
 
-  if (arg === '--presenter')
-    presets.presenter = process.argv[i + 1]
+  if (arg === '--presenter') presets.presenter = process.argv[i + 1]
 
-  if (arg === '--title')
-    presets.title = process.argv[i + 1]
+  if (arg === '--title') presets.title = process.argv[i + 1]
 
-  if (arg === '--tag')
-    presets.tag = process.argv[i + 1]
+  if (arg === '--tag') presets.tag = process.argv[i + 1]
 }
 
 const rl = readline.createInterface({
@@ -61,10 +57,8 @@ const mapper = data => {
   const title = presets.title || data.snippet.title
 
   const tag = []
-  if (presets.tag)
-    tag.push(tag)
-  if (data.snippet.tags.length > 0)
-    tag.concat(data.snippet.tags)
+  if (presets.tag) tag.push(tag)
+  if (data.snippet.tags.length > 0) tag.concat(data.snippet.tags)
 
   return {
     description: data.snippet.description,
@@ -107,8 +101,7 @@ const write = talk =>
 
 const videoId = () =>
   new Promise((resolve, reject) => {
-    if (presets.id)
-      return resolve(presets.id)
+    if (presets.id) return resolve(presets.id)
 
     for (let i = 0; i < process.argv.length; i += 1) {
       if (2 === i) return resolve(process.argv[i])
