@@ -39,6 +39,16 @@ exports[`TalkTemplate renders correctly 1`] = `
     className="row content"
   >
     <div
+      className="search"
+    >
+      <input
+        id="search-input"
+        onChange={[Function]}
+        placeholder="Search"
+        type="text"
+      />
+    </div>
+    <div
       className="talk-info"
     >
       <h2

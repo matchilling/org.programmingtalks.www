@@ -1,0 +1,12 @@
+@import './../../styles/color';
+
+.search {
+  input {
+    background-color: $brand-white;
+    border: 1px solid $brand-grey;
+    border-radius: 5px;
+    margin: 0 0 0.5em;
+    padding: 2%;
+    width: 96%;
+  }
+}

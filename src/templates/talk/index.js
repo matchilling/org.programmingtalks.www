@@ -2,6 +2,7 @@ import Helmet from 'react-helmet'
 import { normalizeResult } from '../../utils/graphql'
 import Player from '../../components/Player'
 import React from 'react'
+import Search from '../../components/Search'
 import String from '../../utils/string'
 import Talk from '../../components/Talk'
 import TalkList from '../../components/TalkList'
@@ -26,6 +27,7 @@ export default class TalkTemplate extends React.Component {
         <Player videoId={talk.source.id} />
 
         <div className="row content">
+          <Search />
           <Talk
             description={talk.description}
             duration={talk.meta.duration}

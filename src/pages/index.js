@@ -5,6 +5,7 @@ import Player from '../components/Player'
 import speakers from '../../data/speaker/index.json'
 import TagList from '../components/TagList'
 import TalkList from '../components/TalkList'
+import Search from '../components/Search'
 import { graphql } from 'gatsby'
 
 import './index.scss'
@@ -57,6 +58,7 @@ export default class IndexPage extends React.Component {
       <Layout>
         <Player videoId={talk.source.id} style />
         <div className="row content">
+          <Search />
           <div className="popular">
             <h3 className="title">Popular speakers</h3>
             <TagList className="tags" list={popularSpeakers} />

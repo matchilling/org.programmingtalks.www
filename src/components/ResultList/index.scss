@@ -1,0 +1,29 @@
+@import './../../styles/color';
+
+ul.result-list {
+  background-color: $brand-white;
+  border: 1px solid $brand-grey;
+  border-radius: 5px;
+  font-size: 90%;
+  padding: 1% 0;
+  margin: 0;
+
+  li {
+    margin: 0;
+    padding: 0.5% 2%;
+
+    a {
+      color: $brand-black;
+      text-decoration: none;
+
+      &:hover {
+        color: $brand-blue-light;
+      }
+
+      span {
+        font-size: 80%;
+        margin-left: 5px
+      }
+    }
+  }
+}

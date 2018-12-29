@@ -13,7 +13,9 @@
   },
   "homepage": "https://www.programmingtalks.org",
   "dependencies": {
+    "axios": "^0.18.0",
     "dotenv": "^6.2.0",
+    "fuse.js": "^3.3.0",
     "gatsby": "^2.0.73",
     "gatsby-link": "^2.0.7",
     "gatsby-plugin-google-analytics": "^2.0.8",
@@ -42,7 +44,7 @@
   "scripts": {
     "build": "node ./script/create_search_index.js && node --max_old_space_size=12000 --stack-size=100000 ./node_modules/.bin/gatsby build --prefix-paths",
     "deploy": "npm run build && gh-pages -d public",
-    "develop": "gatsby develop",
+    "develop": "node ./script/create_search_index.js && gatsby develop",
     "download:video": "node ./script/download_talk.js",
     "format:data": "prettier --write 'data/**/*.json'",
     "format:src": "prettier --write 'script/*' 'src/**/*.js' 'gatsby-*.js'",
