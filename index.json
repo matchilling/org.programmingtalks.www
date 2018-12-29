@@ -441,13 +441,6 @@
     "description": "We spend so much time building things that we sometimes forget that we're building for, and with, other complex human beings. Remembering that we are people first is the first step to making a positive shift in the way we treat each other.\n\nhttp://2014.jsconf.us/"
   },
   {
-    "title": "Bringing Angular Apps to Life with Animation by Miško Hevery",
-    "id": "0ca80df8-9664-4e89-92c2-e8aa6ca17656",
-    "presenter": "",
-    "url": "/talk/bringing-angular-apps-to-life-with-animation-by-misko-hevery",
-    "description": "Bringing Angular Apps to Life with Animation\n\nOn April 3rd, AngularJS 1.1.4 will be released. The primary feature in this release is declarative support for animation in templates. Along with sharing our design decisions and implementation details, we'll show you how to use these new features and how to handle progressive enhancement for older browsers.\n\nMiško Hevery works as an Agile Coach at Google where he is responsible for coaching Googlers to maintain the high level of automated testing culture. He is the father of the AngularJS framework (http://angularjs.org) which enhances HTML to make it suitable for building single page (AJAX) web-applications."
-  },
-  {
     "title": "Bugra Akyildiz - Outlier Detection in Time Series Signals",
     "id": "abe4f3e7-9f05-4290-a538-0292a9554009",
     "presenter": "",
@@ -740,20 +733,6 @@
     "presenter": "",
     "url": "/talk/dconf-2014-day-2-talk-2-refactoring-jit-compilation-by-maxime-chevalier-boisvert",
     "description": "Higgs, a JIT compiler for JavaScript written in D, was presented at DConf 2013. Basic block versioning, a novel optimization technique in early stages of testing at the time, was also introduced. Experimental results demonstratring how basic block versioning fares on multiple metrics across a variety of benchmarks can now be shown. We discuss how we have interpreted these results to inform further development of Higgs and introduce a JIT compiler architecture based on the idea of lazy/incremental compilation and inlining. We also explore how D has influenced the development of Higgs and take a more in-depth look at how various D features such as templates and CTFE are used in the Higgs implementation."
-  },
-  {
-    "title": "DConf 2014:  The Last Thing D Needs (Scott Meyers)",
-    "id": "d28c9724-521d-4474-b431-72b949fbb7c6",
-    "presenter": "",
-    "url": "/talk/dconf-2014-the-last-thing-d-needs-scott-meyers",
-    "description": "http://dconf.org/2014/talks/meyers.html"
-  },
-  {
-    "title": "DConf 2014: High Performance Code Using D (Walter Bright)",
-    "id": "573e777d-ac38-49f8-8fb8-03dbf1810f0e",
-    "presenter": "",
-    "url": "/talk/dconf-2014-high-performance-code-using-d-walter-bright",
-    "description": "http://dconf.org/2014/talks/bright.html"
   },
   {
     "title": "DConf 2014: SDC, a D Compiler as a Library by Amaury Sechet",
