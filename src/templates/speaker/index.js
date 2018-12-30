@@ -20,12 +20,22 @@ const findProfileBySlug = slug => {
   }, {})
 }
 
+const defaultProfile = slug => {
+  return {
+    name: String.unslugify(slug),
+    bio: '',
+  }
+}
+
 export default class SpeakerTemplate extends React.Component {
   render() {
     const { pathname } = this.props.location
 
-    const slug = pathname.substr(pathname.lastIndexOf('/') + 1)
-    const speaker = findProfileBySlug(slug)
+    const slug = pathname.replace('/speaker/', '').replace('/', '')
+    const speaker =
+      Object.keys(findProfileBySlug(slug)).length !== 0
+        ? findProfileBySlug(slug)
+        : defaultProfile(slug)
 
     return (
       <Layout>
