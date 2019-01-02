@@ -1,0 +1,40 @@
+{
+  "description": "Computer science pioneer Alan Curtis Kay, Ph.D., will deliver this year’s Lindberg-King Lecture in the Lister Hill Auditorium. His talk is titled, \"The Best Way to Predict the Future is to Create It. But Is It Already Too Late?\" A child prodigy, Dr. Kay was an original member of the seminal Xerox-PARC group, and for his myriad innovations in computer science was awarded computer science’s highest honor: the Turing Prize. He has been elected a Fellow of the American Academy of Arts and Sciences, the National Academy of Engineering, and the Royal Society of Arts. He is the president of the Viewpoints Research Institute and an adjunct professor of computer science at the University of California, Los Angeles. ",
+  "id": "0fc10d23-3cae-4e0a-bcae-4bc49b3499d9",
+  "meta": {
+    "commentCount": "2",
+    "dislikeCount": "0",
+    "duration": "PT1H5M47S",
+    "favoriteCount": "0",
+    "likeCount": "8",
+    "viewCount": "488"
+  },
+  "presenter": {
+    "name": "Alan Kay"
+  },
+  "slug": "the-best-way-to-predict-the-future-is-to-create-it-but-is-it-already-too-late",
+  "source": {
+    "id": "dTPI6wh-Lr0",
+    "provider": "youtube"
+  },
+  "tag": [],
+  "title": "The Best Way to Predict the Future is to Create It. But Is It Already Too Late?",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/dTPI6wh-Lr0/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/dTPI6wh-Lr0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/dTPI6wh-Lr0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  },
+  "type": "video"
+}
