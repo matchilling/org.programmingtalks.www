@@ -2233,6 +2233,12 @@
     "description": "What’s the single most important design guideline for the creation of high-quality software? For Scott Meyers, it’s all about interface design. That includes user interfaces, of course, but also APIs, i.e., class interfaces, function interfaces, template interfaces, etc. The guideline is simple: make interfaces easy to use correctly and hard to use incorrectly, but achieving it can be challenging. In this presentation, Scott describes a number of specific ways to approach the design of high-quality interfaces. Much of the material is language- and domain-independent, but some of the ideas assume that you’re using a programming language with relatively strong static typing (e.g., C, C++, Java, C#)."
   },
   {
+    "title": "Seeing Spaces",
+    "presenter": "Bret Victor",
+    "url": "/talk/seeing-spaces",
+    "description": "What if we designed a new kind of \"maker space\" ~ a space that isn't just for putting pieces together, but also for seeing and understanding a project's behavior in powerful ways?\n- seeing inside\n- seeing across time\n- seeing across possibilities\n\"I think people need to work in a space that moves them away from the kinds of non-scientific thinking that you do when you can't see what you're doing -- moves them away from blindly following recipes, from superstitions and rules of thumb -- and moves them towards deeply understanding what they're doing, inventing new things, discovering new things, contributing back to the global pool of human knowledge."
+  },
+  {
     "title": "Seven Ineffective Coding Habits of Many Programmers",
     "id": "a07f18e8-ae2b-45b0-b29b-3d748e7ec80b",
     "presenter": "Kevlin Henney",
@@ -2457,17 +2463,17 @@
   },
   {
     "title": "The Future of Programming",
-    "id": "2470c0c3-cea9-48d1-9562-6a1567eafbfe",
-    "presenter": "Bret Victor",
-    "url": "/talk/the-future-of-programming",
-    "description": "\"The most dangerous thought you can have as a creative person is to think you know what you're doing.\"\nPresented at Dropbox's DBX conference on July 9, 2013.\nAll of the slides are available at: http://worrydream.com/dbx/\n\nFor his recent DBX Conference talk, Victor took attendees back to the year 1973, donning the uniform of an IBM systems engineer of the times, delivering his presentation on an overhead projector. The '60s and early '70s were a fertile time for CS ideas, reminds Victor, but even more importantly, it was a time of unfettered thinking, unconstrained by programming dogma, authority, and tradition. 'The most dangerous thought that you can have as a creative person is to think that you know what you're doing,' explains Victor. 'Because once you think you know what you're doing you stop looking around for other ways of doing things and you stop being able to see other ways of doing things. You become blind.' He concludes, 'I think you have to say: \"We don't know what programming is. We don't know what computing is. We don't even know what a computer is.\" And once you truly understand that, and once you truly believe that, then you're free, and you can think anything.'\""
-  },
-  {
-    "title": "The Future of Programming",
     "id": "7d178286-f7ae-4e98-9065-e13831ac86e7",
     "presenter": "\"Uncle Bob\" - Robert Cecil Martin",
     "url": "/talk/the-future-of-programming",
     "description": "How did our industry start, what paths did it take to get to where we are, and where is it going. What big problems did programmers encounter in the past? How were they solved? And how do those solutions impact our future? What mistakes have we made as a profession; and how are we going to correct them. In this talk, Uncle Bob describes the history of software, from it’s beginnings in 1948 up through the current day; and then beyond. By looking at our past trajectory, we try to plot out where our profession is headed, and what challenges we’ll face along the way.\n\nRobert C. Martin (Uncle Bob) has been a programmer since 1970. He is the Master Craftsman at 8th Light inc, an acclaimed speaker at conferences worldwide, and the author of many books including: The Clean Coder, Clean Code, Agile Software Development: Principles, Patterns, and Practices, and UML for Java Programmers."
+  },
+  {
+    "title": "The Future of Programming",
+    "id": "2470c0c3-cea9-48d1-9562-6a1567eafbfe",
+    "presenter": "Bret Victor",
+    "url": "/talk/the-future-of-programming",
+    "description": "\"The most dangerous thought you can have as a creative person is to think you know what you're doing.\"\nPresented at Dropbox's DBX conference on July 9, 2013.\nAll of the slides are available at: http://worrydream.com/dbx/\n\nFor his recent DBX Conference talk, Victor took attendees back to the year 1973, donning the uniform of an IBM systems engineer of the times, delivering his presentation on an overhead projector. The '60s and early '70s were a fertile time for CS ideas, reminds Victor, but even more importantly, it was a time of unfettered thinking, unconstrained by programming dogma, authority, and tradition. 'The most dangerous thought that you can have as a creative person is to think that you know what you're doing,' explains Victor. 'Because once you think you know what you're doing you stop looking around for other ways of doing things and you stop being able to see other ways of doing things. You become blind.' He concludes, 'I think you have to say: \"We don't know what programming is. We don't know what computing is. We don't even know what a computer is.\" And once you truly understand that, and once you truly believe that, then you're free, and you can think anything.'\""
   },
   {
     "title": "The How and Why of Fitting Things Together - Joe Armstrong",
@@ -2475,6 +2481,13 @@
     "presenter": "",
     "url": "/talk/the-how-and-why-of-fitting-things-together-joe-armstrong",
     "description": "Erlang Factory SF Bay Area 2013\nMore info and slides on the website: http://www.erlang-factory.com/conference/SFBay2013/talks\n\nSoftware is difficult because the parts don't fit together. Why is this? Can we do anything about this? And what's this got to do with Erlang? Come to my talk and you'll find out!"
+  },
+  {
+    "title": "The Humane Representation of Thought",
+    "id": "a64505ac-9d31-4136-8e43-bb515855b187",
+    "presenter": "Bret Victor",
+    "url": "/talk/the-humane-representation-of-thought",
+    "description": "New representations of thought — written language, mathematical notation, information graphics, etc — have been responsible for some of the most significant leaps in the progress of civilization, by expanding humanity’s collectively-thinkable territory.\n\nBut at debilitating cost. These representations, having been invented for static media such as paper, tap into a small subset of human capabilities and neglect the rest. Knowledge work means sitting at a desk, interpreting and manipulating symbols. The human body is reduced to an eye staring at tiny rectangles and fingers on a pen or keyboard.\n\nLike any severely unbalanced way of living, this is crippling to mind and body. But it is also enormously wasteful of the vast human potential. Human beings naturally have many powerful modes of thinking and understanding. Most are incompatible with static media. In a culture that has contorted itself around the limitations of marks on paper, these modes are undeveloped, unrecognized, or scorned.\n\nWe are now seeing the start of a dynamic medium. To a large extent, people today are using this medium merely to emulate and extend static representations from the era of paper, and to further constrain the ways in which the human body can interact with external representations of thought.\n\nBut the dynamic medium offers the opportunity to deliberately invent a humane and empowering form of knowledge work. We can design dynamic representations which draw on the entire range of human capabilities — all senses, all forms of movement, all forms of understanding — instead of straining a few and atrophying the rest.\n\nThis talk suggests how each of the human activities in which thought is externalized (conversing, presenting, reading, writing, etc) can be redesigned around such representations."
   },
   {
     "title": "The Language of the System",
