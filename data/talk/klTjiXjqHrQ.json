@@ -1,0 +1,39 @@
+{
+  "description": "What if we designed a new kind of \"maker space\" ~ a space that isn't just for putting pieces together, but also for seeing and understanding a project's behavior in powerful ways?\n\n- seeing inside\n\n- seeing across time\n\n- seeing across possibilities\n\n\"I think people need to work in a space that moves them away from the kinds of non-scientific thinking that you do when you can't see what you're doing -- moves them away from blindly following recipes, from superstitions and rules of thumb -- and moves them towards deeply understanding what they're doing, inventing new things, discovering new things, contributing back to the global pool of human knowledge.",
+  "meta": {
+    "commentCount": "6",
+    "dislikeCount": "2",
+    "duration": "PT15M12S",
+    "favoriteCount": "0",
+    "likeCount": "146",
+    "viewCount": "5719"
+  },
+  "presenter": {
+    "name": "Bret Victor"
+  },
+  "slug": "seeing-spaces",
+  "source": {
+    "id": "klTjiXjqHrQ",
+    "provider": "youtube"
+  },
+  "tag": [],
+  "title": "Seeing Spaces",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/klTjiXjqHrQ/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/klTjiXjqHrQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/klTjiXjqHrQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  },
+  "type": "video"
+}
