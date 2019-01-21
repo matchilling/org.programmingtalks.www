@@ -3,6 +3,9 @@
     "bio": "Alan Curtis Kay (born May 17, 1940) is an American computer scientist. He has been elected a Fellow of the American Academy of Arts and Sciences, the National Academy of Engineering, and the Royal Society of Arts. He is best known for his pioneering work on object-oriented programming and windowing graphical user interface design.\n\nHe is the president of the Viewpoints Research Institute, and an adjunct professor of computer science at the University of California, Los Angeles. He is also on the advisory board of TTI/Vanguard. Until mid-2005, he was a senior fellow at HP Labs, a visiting professor at Kyoto University, and an adjunct professor at the Massachusetts Institute of Technology (MIT).\n\nKay is also a former professional jazz guitarist, composer, and theatrical designer, and an amateur classical pipe organist.",
     "slug": "alan-kay"
   },
+  "Bret Victor": {
+    "bio": "Bret Victor is an interface designer, computer scientist, and electrical engineer known for his talks on the future of technology. He currently works as a researcher at Dynamicland."
+  },
   "David Nolen": {
     "bio": "David Nolen is a software engineer for Cognitect. He enjoys making music, writing JavaScript, writing ClojureScript, and exploring new approaches to user interface programming.",
     "slug": "david-nolen"

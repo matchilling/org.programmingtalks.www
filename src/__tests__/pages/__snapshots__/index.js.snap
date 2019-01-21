@@ -74,6 +74,17 @@ exports[`IndexPage renders correctly 1`] = `
           className="tags-item"
         >
           <a
+            href="/speaker/bret-victor"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Bret Victor
+          </a>
+        </li>
+        <li
+          className="tags-item"
+        >
+          <a
             href="/speaker/david-nolen"
             onClick={[Function]}
             onMouseEnter={[Function]}
