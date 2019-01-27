@@ -13,6 +13,16 @@ module.exports = {
     'gatsby-plugin-sass',
     `gatsby-plugin-sitemap`,
     {
+      resolve: 'gatsby-plugin-sentry',
+      options: {
+        dsn: 'https://3b39f465f7324fc999f17b0a40b32531@sentry.io/1380638',
+        // Optional settings, see https://docs.sentry.io/clients/node/config/#optional-settings
+        environment: process.env.NODE_ENV,
+        enabled: (() =>
+          ['production', 'stage', 'development'].indexOf(process.env.NODE_ENV) !== -1)(),
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `talk`,
