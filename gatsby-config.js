@@ -19,7 +19,9 @@ module.exports = {
         // Optional settings, see https://docs.sentry.io/clients/node/config/#optional-settings
         environment: process.env.NODE_ENV,
         enabled: (() =>
-          ['production', 'stage', 'development'].indexOf(process.env.NODE_ENV) !== -1)(),
+          ['production', 'stage', 'development'].indexOf(
+            process.env.NODE_ENV
+          ) !== -1)(),
       },
     },
     {
@@ -43,5 +45,11 @@ module.exports = {
       },
     },
     `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-plugin-fullstory`,
+      options: {
+        fs_org: 'KB468',
+      },
+    },
   ],
 }
