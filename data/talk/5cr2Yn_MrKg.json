@@ -1,0 +1,40 @@
+{
+  "description": "If you do glue work (that is, extremely important technical work that keeps teams and projects on track, like reviewing designs and seeing what’s missing, noticing that another team is working on something similar to your team and coordinating the two teams so they don’t duplicate each other’s work, but isn’t code) and you want to get promoted, you need to read these slides.\n\nIf you don’t do glue work, you should still read these slides and then either start doing some glue work or at the very least advocate for the people who do and insist that their contributions to the project/team/company’s success be recognized.\n\nAnd if you’re a manager, you should definitely read these slides and think about whether you are doing a good job of giving your team incentives to do essential work like this or whether you’re punishing people for doing essential work by refusing to promote them.",
+  "id": "312eae92-4a97-41a0-8b64-abc16f11ca53",
+  "meta": {
+    "commentCount": "3",
+    "dislikeCount": "0",
+    "duration": "PT32M56S",
+    "favoriteCount": "0",
+    "likeCount": "89",
+    "viewCount": "3095"
+  },
+  "presenter": {
+    "name": "Tanya Reilly"
+  },
+  "slug": "being-glue",
+  "source": {
+    "id": "5cr2Yn_MrKg",
+    "provider": "youtube"
+  },
+  "tag": ["Career"],
+  "title": "Being Glue",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/5cr2Yn_MrKg/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/5cr2Yn_MrKg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/5cr2Yn_MrKg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  },
+  "type": "video"
+}

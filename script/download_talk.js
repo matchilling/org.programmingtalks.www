@@ -58,7 +58,8 @@ const mapper = data => {
 
   const tag = []
   if (presets.tag) tag.push(tag)
-  if (data.snippet.tags.length > 0) tag.concat(data.snippet.tags)
+  if (data.snippet.tags && data.snippet.tags.length > 0)
+    tag.concat(data.snippet.tags)
 
   return {
     description: data.snippet.description,
