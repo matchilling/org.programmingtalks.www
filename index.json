@@ -392,6 +392,13 @@
     "description": "Barbara Liskov, Professor of Electrical Engineering and Computer Science\nat the Massachusetts Institute of Technology, discusses \"Programming the Turing Machine\" in a lecture given on the occasion of Princeton University's centennial celebration of Alan Turing. Learn more at www.princeton.edu/turing\n\n#turingprinceton"
   },
   {
+    "title": "Being Glue",
+    "id": "312eae92-4a97-41a0-8b64-abc16f11ca53",
+    "presenter": "Tanya Reilly",
+    "url": "/talk/being-glue",
+    "description": "If you do glue work (that is, extremely important technical work that keeps teams and projects on track, like reviewing designs and seeing what’s missing, noticing that another team is working on something similar to your team and coordinating the two teams so they don’t duplicate each other’s work, but isn’t code) and you want to get promoted, you need to read these slides.\n\nIf you don’t do glue work, you should still read these slides and then either start doing some glue work or at the very least advocate for the people who do and insist that their contributions to the project/team/company’s success be recognized.\n\nAnd if you’re a manager, you should definitely read these slides and think about whether you are doing a good job of giving your team incentives to do essential work like this or whether you’re punishing people for doing essential work by refusing to promote them."
+  },
+  {
     "title": "Benchmarking JavaScript • Vyacheslav Egorov",
     "id": "04fff02a-3d27-4ef4-9086-c8046d2cc406",
     "presenter": "",
